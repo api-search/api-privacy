@@ -1,0 +1,66 @@
+---
+layout: default
+---
+{%- comment -%} Renders planning/machine-readable-business/CONTRACT.md `privacy_policy` fields. Every claim carries its
+  verbatim quote and the page it was read from. build.py refuses any document not marked synthetic: false. {%- endcomment -%}
+<style>
+  .hero { background: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #7c2d12; border-radius: 12px; padding: 2rem; margin-bottom: 1.5rem; }
+  .overline { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1px; color: #7c2d12; font-weight: 600; margin-bottom: 0.5rem; }
+  .title { font-size: 2rem; font-weight: 700; color: #1a1a2e; }
+  .prov { font-size: 0.9rem; color: #4a5568; margin-top: 0.75rem; }
+  .section-title { font-size: 1.1rem; font-weight: 700; color: #1a1a2e; margin: 1.75rem 0 0.5rem; }
+  .row-box { background: white; border: 1px solid #e3e7ee; border-radius: 8px; padding: 0.75rem 1rem; margin-bottom: 0.5rem; }
+  .row-box blockquote { margin: 0.5rem 0 0.25rem; padding-left: 0.75rem; border-left: 3px solid #7c2d12; color: #1f2937; font-size: 0.95rem; }
+  .row-box cite { display: block; font-size: 0.78rem; color: #6c757d; font-style: normal; }
+  .chip { display: inline-block; font-size: 0.75rem; border-radius: 999px; padding: 0.1rem 0.6rem; margin: 0 0.35rem 0.25rem 0; background: #f1f5f9; color: #334155; overflow-wrap: anywhere; }
+  .stance-allowed { background: #dcfce7; color: #166534; } .stance-prohibited { background: #fee2e2; color: #991b1b; }
+  .stance-conditional { background: #fef9c3; color: #854d0e; }
+  .unstated { font-size: 0.9rem; color: #94a3b8; font-style: italic; }
+</style>
+<nav aria-label="breadcrumb" style="margin-bottom: 1rem;">
+  <ol class="breadcrumb" style="font-size: 0.85rem;">
+    <li class="breadcrumb-item"><a href="https://apis.io/">Home</a></li>
+    <li class="breadcrumb-item"><a href="https://apis.io/api-privacy/">Privacy &amp; Data</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{ page.provider_name }}</li>
+  </ol>
+</nav>
+<div class="hero">
+  <div class="overline"><a href="https://apis.io/providers/{{ page.provider_slug }}/">{{ page.provider_name }}</a> &middot; Privacy &amp; Data</div>
+  <h1 class="title">{{ page.provider_name }} privacy &amp; data</h1>
+  <p class="prov">Read from {% if page.source_page %}<a href="{{ page.source_page }}" rel="noopener nofollow">{{ page.provider_name }}'s own page</a>{% else %}{{ page.provider_name }}'s own page{% endif %}{% if page.source_date %} on {{ page.source_date }}{% endif %}. {{ page.claim_count }} statement{% if page.claim_count != 1 %}s{% endif %} quoted word for word; anything the page does not say is shown as unstated, never guessed. APIs.io verifies none of it.</p>
+</div>
+<section class="claim" id="role"><h2 class="section-title">Role</h2>
+{% assign f = page.doc.role %}{% if f == nil or f.stance == "unstated" or f.value == "unstated" %}<p class="unstated">The page states nothing on this.</p>{% else %}<div class="row-box">{% unless f.value == nil %}<span class="chip">value: {{ f.value }}</span>{% endunless %}{%- if f.text %}<blockquote>{{ f.text | escape }}</blockquote><cite>Read from <a href="{{ page.source_page }}" rel="noopener nofollow">{{ page.provider_name }}'s own page</a>{% if page.source_date %} on {{ page.source_date }}{% endif %}</cite>{% endif %}</div>{% endif %}
+</section>
+<section class="claim" id="data_categories"><h2 class="section-title">Data categories</h2>
+{% for r in page.doc.data_categories %}<div class="row-box">{% unless r.category == nil %}<span class="chip">category: {{ r.category }}</span>{% endunless %}{%- if r.text %}<blockquote>{{ r.text | escape }}</blockquote><cite>Read from <a href="{{ page.source_page }}" rel="noopener nofollow">{{ page.provider_name }}'s own page</a>{% if page.source_date %} on {{ page.source_date }}{% endif %}</cite>{% endif %}</div>{% else %}<p class="unstated">The page states nothing on this.</p>{% endfor %}
+</section>
+<section class="claim" id="purposes"><h2 class="section-title">Purposes</h2>
+{% for r in page.doc.purposes %}<div class="row-box">{% unless r.purpose == nil %}<span class="chip">purpose: {{ r.purpose }}</span>{% endunless %}{%- if r.text %}<blockquote>{{ r.text | escape }}</blockquote><cite>Read from <a href="{{ page.source_page }}" rel="noopener nofollow">{{ page.provider_name }}'s own page</a>{% if page.source_date %} on {{ page.source_date }}{% endif %}</cite>{% endif %}</div>{% else %}<p class="unstated">The page states nothing on this.</p>{% endfor %}
+</section>
+<section class="claim" id="retention"><h2 class="section-title">Retention</h2>
+{% for r in page.doc.retention %}<div class="row-box">{% unless r.scope == nil %}<span class="chip">scope: {{ r.scope }}</span>{% endunless %}{% unless r.period == nil %}<span class="chip">period: {{ r.period }}</span>{% endunless %}{%- if r.text %}<blockquote>{{ r.text | escape }}</blockquote><cite>Read from <a href="{{ page.source_page }}" rel="noopener nofollow">{{ page.provider_name }}'s own page</a>{% if page.source_date %} on {{ page.source_date }}{% endif %}</cite>{% endif %}</div>{% else %}<p class="unstated">The page states nothing on this.</p>{% endfor %}
+</section>
+<section class="claim" id="residency"><h2 class="section-title">Residency</h2>
+{% for r in page.doc.residency %}<div class="row-box">{% unless r.region == nil %}<span class="chip">region: {{ r.region }}</span>{% endunless %}{%- if r.text %}<blockquote>{{ r.text | escape }}</blockquote><cite>Read from <a href="{{ page.source_page }}" rel="noopener nofollow">{{ page.provider_name }}'s own page</a>{% if page.source_date %} on {{ page.source_date }}{% endif %}</cite>{% endif %}</div>{% else %}<p class="unstated">The page states nothing on this.</p>{% endfor %}
+</section>
+<section class="claim" id="transfers"><h2 class="section-title">International transfers</h2>
+{% for r in page.doc.transfers %}<div class="row-box">{% unless r.mechanism == nil %}<span class="chip">mechanism: {{ r.mechanism }}</span>{% endunless %}{%- if r.text %}<blockquote>{{ r.text | escape }}</blockquote><cite>Read from <a href="{{ page.source_page }}" rel="noopener nofollow">{{ page.provider_name }}'s own page</a>{% if page.source_date %} on {{ page.source_date }}{% endif %}</cite>{% endif %}</div>{% else %}<p class="unstated">The page states nothing on this.</p>{% endfor %}
+</section>
+<section class="claim" id="subprocessors"><h2 class="section-title">Subprocessors</h2>
+{% assign f = page.doc.subprocessors %}{% if f == nil or f.stance == "unstated" or f.value == "unstated" %}<p class="unstated">The page states nothing on this.</p>{% else %}<div class="row-box">{% if f.url %}<span class="chip">url: <a href="{{ f.url }}" rel="noopener nofollow">{{ f.url | escape }}</a></span>{% endif %}{%- if f.text %}<blockquote>{{ f.text | escape }}</blockquote><cite>Read from <a href="{{ page.source_page }}" rel="noopener nofollow">{{ page.provider_name }}'s own page</a>{% if page.source_date %} on {{ page.source_date }}{% endif %}</cite>{% endif %}</div>{% endif %}
+</section>
+<section class="claim" id="dpa"><h2 class="section-title">Data processing agreement</h2>
+{% assign f = page.doc.dpa %}{% if f == nil or f.stance == "unstated" or f.value == "unstated" %}<p class="unstated">The page states nothing on this.</p>{% else %}<div class="row-box">{% unless f.available == nil %}<span class="chip">available: {{ f.available }}</span>{% endunless %}{% if f.url %}<span class="chip">url: <a href="{{ f.url }}" rel="noopener nofollow">{{ f.url | escape }}</a></span>{% endif %}{%- if f.text %}<blockquote>{{ f.text | escape }}</blockquote><cite>Read from <a href="{{ page.source_page }}" rel="noopener nofollow">{{ page.provider_name }}'s own page</a>{% if page.source_date %} on {{ page.source_date }}{% endif %}</cite>{% endif %}</div>{% endif %}
+</section>
+<section class="claim" id="deletion"><h2 class="section-title">Deletion</h2>
+{% assign f = page.doc.deletion %}{% if f == nil or f.stance == "unstated" or f.value == "unstated" %}<p class="unstated">The page states nothing on this.</p>{% else %}<div class="row-box">{% unless f.route == nil %}<span class="chip">route: {{ f.route }}</span>{% endunless %}{%- if f.text %}<blockquote>{{ f.text | escape }}</blockquote><cite>Read from <a href="{{ page.source_page }}" rel="noopener nofollow">{{ page.provider_name }}'s own page</a>{% if page.source_date %} on {{ page.source_date }}{% endif %}</cite>{% endif %}</div>{% endif %}
+</section>
+<section class="claim" id="rights"><h2 class="section-title">Data subject rights</h2>
+{% for r in page.doc.rights %}<div class="row-box">{% unless r.right == nil %}<span class="chip">right: {{ r.right }}</span>{% endunless %}{%- if r.text %}<blockquote>{{ r.text | escape }}</blockquote><cite>Read from <a href="{{ page.source_page }}" rel="noopener nofollow">{{ page.provider_name }}'s own page</a>{% if page.source_date %} on {{ page.source_date }}{% endif %}</cite>{% endif %}</div>{% else %}<p class="unstated">The page states nothing on this.</p>{% endfor %}
+</section>
+<section class="claim" id="sale_or_sharing"><h2 class="section-title">Sale or sharing</h2>
+{% assign f = page.doc.sale_or_sharing %}{% if f == nil or f.stance == "unstated" or f.value == "unstated" %}<p class="unstated">The page states nothing on this.</p>{% else %}<div class="row-box">{% if f.stance %}<span class="chip stance stance-{{ f.stance }}">stance: {{ f.stance }}</span>{% endif %}{%- if f.text %}<blockquote>{{ f.text | escape }}</blockquote><cite>Read from <a href="{{ page.source_page }}" rel="noopener nofollow">{{ page.provider_name }}'s own page</a>{% if page.source_date %} on {{ page.source_date }}{% endif %}</cite>{% endif %}</div>{% endif %}
+</section>
+<h2 class="section-title">Document</h2>
+<p class="unstated" style="font-style: normal;"><a href="{{ page.source_yaml_url }}">Download YAML</a> &middot; schema: <a href="https://github.com/api-commons/privacy-policy">API Commons Privacy &amp; Data</a>{% if page.layer_version %} {{ page.layer_version }}{% endif %}{% if page.model %} &middot; transcribed by {{ page.model }}, checked verbatim against the fetched page{% endif %}</p>

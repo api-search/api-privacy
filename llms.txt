@@ -1,0 +1,10 @@
+---
+layout: none
+---
+# APIs.io Privacy & Data
+
+> Each provider's role under data-protection law, the personal data it processes, retention, residency, transfers and subprocessors. Every statement is quoted word for word from the provider's own page, with the page and the date it was read. Nothing is generated, and APIs.io verifies none of it.
+
+- [Privacy & Data directory](https://apis.io/api-privacy/): every published document
+- [API Commons Privacy & Data schema](https://github.com/api-commons/privacy-policy): the format these documents use
+- [W3C DPV](https://w3c.github.io/dpv/dpv/): the W3C Data Privacy Vocabulary, whose personal-data categories the data_categories field uses

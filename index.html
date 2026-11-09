@@ -1,0 +1,64 @@
+---
+layout: default
+meta_title: "API Privacy and Data Processing | APIs.io"
+meta_description: "Each provider's role under data-protection law, the personal data it processes, retention, residency, transfers and subprocessors. Every statement quoted from the provider's own page."
+---
+{%- comment -%} Tombstone redirect stubs live in the same collection and carry no name, so counts start from live pages only. {%- endcomment -%}
+{%- assign live = site.privacy | where_exp: "i", "i.layout != 'redirect'" | sort: "provider_name" -%}
+{%- assign quoted = live | map: "claim_count" -%}
+<style>
+  .page-hero { text-align: center; padding: 2rem 0 1.5rem; }
+  .page-hero h1 { font-size: 2rem; margin-bottom: 0.5rem; }
+  .page-hero p { color: #666; margin: 0 auto 1.5rem; max-width: 720px; }
+  .biz-wrap { max-width: 960px; margin: 0 auto; }
+  .biz-about { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 1.1rem 1.4rem; margin-bottom: 1.75rem; }
+  .biz-about h2 { font-size: 1.05rem; font-weight: 700; margin: 0 0 0.5rem; }
+  .biz-about p, .biz-about ul { font-size: 0.9rem; color: #444; margin-bottom: 0.6rem; }
+  .biz-about ul { padding-left: 1.2rem; }
+  .biz-about .links a { display: inline-block; font-size: 0.85rem; margin-right: 1rem; }
+  .item-row { background: white; border: 1px solid #e3e7ee; border-left: 3px solid #7c2d12; border-radius: 8px; padding: 0.75rem 1.25rem; margin-bottom: 0.4rem; }
+  .item-row h3 { font-size: 0.95rem; font-weight: 600; margin: 0; }
+  .item-row h3 a { color: #1a1a2e; text-decoration: none; }
+  .item-stats { font-size: 0.8rem; color: #6c757d; }
+  .empty { color: #6c757d; text-align: center; padding: 1.5rem; }
+</style>
+
+<div class="page-hero">
+  <h1>API Privacy &amp; Data Processing</h1>
+  <p>Each provider's role under data-protection law, the personal data it processes, retention, residency, transfers and subprocessors. <strong>{{ live | size }}</strong> document{% if live.size != 1 %}s{% endif %}, every statement quoted word for word from the provider's own page, with the page and the date it was read. Nothing here is generated, and APIs.io verifies none of it.</p>
+</div>
+
+<div class="biz-wrap">
+  <div class="biz-about">
+    <h2>About W3C DPV</h2>
+    <p>These documents follow the API Commons <a href="https://github.com/api-commons/privacy-policy">Privacy &amp; Data</a> schema, a machine-readable profile of:</p>
+    <ul><li><a href="https://w3c.github.io/dpv/dpv/">W3C DPV</a>: the W3C Data Privacy Vocabulary, whose personal-data categories the data_categories field uses;</li></ul>
+    <p>A model only transcribes: code fetches the provider's page, the model returns rows, and any row whose quote is not found word for word on that page is dropped. A stance the page does not state is recorded as <code>unstated</code>. Documents marked synthetic are never published.</p>
+    <div class="links">
+      <a href="https://github.com/api-commons/privacy-policy">API Commons schema &rarr;</a>
+      <a href="https://w3c.github.io/dpv/dpv/">W3C DPV &rarr;</a>
+    </div>
+  </div>
+
+  <div class="filter-bar" style="margin-bottom: 1.5rem;">
+    <input type="text" class="form-control" id="item-filter" placeholder="Filter by provider..." style="max-width: 400px; margin: 0 auto;">
+  </div>
+
+  {%- for p in live %}
+  <div class="item-row" data-name="{{ p.provider_name | downcase }}">
+    <h3><a href="{{ p.url }}">{{ p.provider_name }}</a></h3>
+    <div class="item-stats">{{ p.claim_count }} quoted statement{% if p.claim_count != 1 %}s{% endif %}{% if p.source_date %} &middot; read {{ p.source_date }}{% endif %}</div>
+  </div>
+  {%- else %}
+  <p class="empty">No provider documents are published yet. Each one appears here once it has been read from the provider's own page.</p>
+  {%- endfor %}
+</div>
+
+<script>
+document.getElementById('item-filter').addEventListener('input', function() {
+  var q = this.value.toLowerCase();
+  document.querySelectorAll('.item-row').forEach(function(item) {
+    item.style.display = item.getAttribute('data-name').indexOf(q) !== -1 ? '' : 'none';
+  });
+});
+</script>

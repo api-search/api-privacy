@@ -1,0 +1,31 @@
+name: APIs.io Privacy & Data
+description: "Each provider's role under data-protection law, the personal data it processes, retention, residency, transfers and subprocessors, quoted from their own pages."
+image: https://apis.io/assets/branding/apisio-social-card.png
+url: https://apis.io
+node: website
+nav_active: api-privacy
+
+keywords:
+  - APIs
+  - Search
+  - Discovery
+  - Privacy & Data
+  - W3C DPV
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "scripts"]
+include: [".well-known"]
+
+github_org: api-search
+github_repo: api-privacy
+
+collections:
+  privacy:
+    output: true
+    permalink: /api-privacy/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: privacy
+    values:
+      layout: privacy
