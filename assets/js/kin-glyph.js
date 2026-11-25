@@ -39,10 +39,10 @@ const FACETS = [
      does, so one word could not carry both." Relabelled 0.12, roadmap#89.
      DO NOT rename the IDs to the aliases. The positional encodings key off these
      ids, and the scorer writes both names, so the short one still resolves. */
-  { id: 'governance',               label: 'Contract Governance',      light: '#1baf7a', dark: '#199e70' },
+  { id: 'contract_governance', was: 'governance',               label: 'Contract Governance',      light: '#1baf7a', dark: '#199e70' },
   { id: 'operational_transparency', label: 'Operational Transparency', light: '#eda100', dark: '#c98500' },
   { id: 'developer_ergonomics',     label: 'Developer Ergonomics',     light: '#e87ba4', dark: '#d55181' },
-  { id: 'commercial_clarity',       label: 'Access Clarity',           light: '#008300', dark: '#008300' },
+  { id: 'access_clarity', was: 'commercial_clarity',       label: 'Access Clarity',           light: '#008300', dark: '#008300' },
 ];
 
 /* One ray per agent-readiness dimension, in scoring.yml order. MUST stay in
@@ -111,6 +111,18 @@ const DIMENSIONS = [
   { id: 'dynamic_client_registration', label: 'Registration Without a Human' },
   // Slot 19, appended 0.13.0 (roadmap#123).
   { id: 'agentic_commerce', label: 'Agentic Commerce Surface' },
+  // Slots 20-21, appended 0.25.0 (roadmap#982, #983) -- same append-only rule as slot 15.
+  { id: 'pagination_ratio', label: 'Pagination' },
+  { id: 'operation_distinctiveness', label: 'Distinct Operations' },
+  // Slot 22, appended 0.26.0 (roadmap#994) -- same append-only rule as slot 15.
+  { id: 'mcp_tool_quality', label: 'MCP Tool Quality' },
+  // Slots 23-25, appended 0.29.0 -- same append-only rule as slot 15. All three were
+  // scored and served while drawn on no badge: onboarding_descriptor since 0.28.0
+  // (roadmap#987), the other two since 0.28.1 (roadmap#1161, #1163). The index
+  // builder's badge-shard check is fatal now, which is what surfaced them.
+  { id: 'onboarding_descriptor', label: 'Onboarding Descriptor Published' },
+  { id: 'dns_aid_index', label: 'DNS-AID Agent Index' },
+  { id: 'markdown_negotiation', label: 'Markdown Content Negotiation' },
 ];
 
 /* Grades that mean PARTIAL credit rather than full. 0.6 made seven of the
@@ -136,6 +148,16 @@ const PARTIAL_GRADES = new Set([
   'served',
   // 0.13.0 (roadmap#123) — agentic_commerce `platform` at 0.25.
   'platform',
+  // 0.25.0 (roadmap#983) -- operation_distinctiveness `mostly` at 0.5. `distinct` (1.0) and
+  // pagination's `paginated` (1.0) are deliberately absent: full credit draws a full ray.
+  // pagination's own 0.5 tier reuses `partial`, already above.
+  'mostly',
+  // 0.26.0 (roadmap#994) -- mcp_tool_quality rounds its 0-1 credit to a quarter and names it:
+  // full 1.00 / three_quarters 0.75 / half 0.50 / quarter 0.25. `full` is deliberately absent
+  // for the same reason as `bound` and `distinct` above -- full credit draws a full ray. Without
+  // the other three, rayState() falls through to `return 'full'` and a provider at a quarter
+  // credit draws the same ray as one at full.
+  'three_quarters', 'half', 'quarter',
 ]);
 
 /* off | partial | full — from a bool, a grade string, or a trit char. */
@@ -143,7 +165,17 @@ function rayState(v) {
   if (v === true || v === 1 || v === '1') return 'full';
   if (v === false || v === 0 || v === '0' || v == null) return 'off';
   if (v === 2 || v === '2') return 'partial';
+  // NOT APPLICABLE is its own state as of 2026-11-02. The scorer writes `na` for a dimension
+  // that does not apply to a provider and the composite leaves it out of the denominator,
+  // but this function used to fall through to `return 'full'` for it -- so the badge drew
+  // full credit for a dimension nothing had measured, on 36,145 providers for
+  // mcp_tool_quality alone, 31,478 for pagination_ratio and 27,289 for
+  // operation_distinctiveness. `off` was not the fix: it renders identically to a failed
+  // dimension, which would have published a false negative about every one of them.
+  // '3' is the trit encoding; see _dim_trit() in build_listings.py.
+  if (v === 3 || v === '3') return 'na';
   const s = String(v).toLowerCase();
+  if (s === 'na') return 'na';
   if (PARTIAL_GRADES.has(s)) return 'partial';
   return 'full';   // 'verified', 'conformant', 'first-party'
 }
@@ -305,7 +337,10 @@ function kinGlyph(p, opts = {}) {
       const state = rayState(raw);
       // A partial ray reaches 55% of the way out. Solid, so it still reads as a
       // ray; short, so the shortfall is visible without colour or opacity.
-      const reach = state === 'partial' ? 0.55 : 1;
+      // An `na` ray is shorter still AND dashed AND unfilled, so it reads as
+      // "nothing was claimed here" rather than as either credit or failure --
+      // the three other states are all solid or continuous.
+      const reach = state === 'partial' ? 0.55 : state === 'na' ? 0.40 : 1;
       const thisTipR = baseR + (tipR - baseR) * reach;
       const px = Math.cos(a), py = Math.sin(a), nx = -py, ny = px;
       const pts = [
@@ -314,18 +349,26 @@ function kinGlyph(p, opts = {}) {
         [cx + px * baseR - nx * halfW, cy + py * baseR - ny * halfW],
       ].map(([x, y]) => `${x.toFixed(2)},${y.toFixed(2)}`).join(' ');
 
-      const filled = state !== 'off';
+      const filled = state !== 'off' && state !== 'na';
       // The grade itself is the most useful thing the tooltip can say — "MCP
       // Server: derived" is a different fact from "MCP Server: satisfied", and
       // telling them apart is the entire point of 0.6.
-      const detail = typeof raw === 'string' && raw !== 'true'
-        ? raw
-        : (state === 'off' ? 'not satisfied' : 'satisfied');
+      const detail = state === 'na'
+        ? 'not applicable'
+        : typeof raw === 'string' && raw !== 'true'
+          ? raw
+          : (state === 'off' ? 'not satisfied' : 'satisfied');
 
       parts.push(
         `<polygon points="${pts}" ` +
-        (filled ? `fill="${rayCol}" stroke="${rayCol}" stroke-width="${(strokeW * 0.5).toFixed(2)}"`
-                : `fill="none" stroke="${C.rayOff}" stroke-width="${strokeW.toFixed(2)}"`) +
+        (filled
+          ? `fill="${rayCol}" stroke="${rayCol}" stroke-width="${(strokeW * 0.5).toFixed(2)}"`
+          : state === 'na'
+            // Dashes are scaled off `size`, never fixed px, so the state survives the
+            // 44px row glyph and the 1200px card alike.
+            ? `fill="none" stroke="${C.rayOff}" stroke-width="${(strokeW * 0.7).toFixed(2)}"` +
+              ` stroke-dasharray="${(size * 0.016).toFixed(2)} ${(size * 0.013).toFixed(2)}"`
+            : `fill="none" stroke="${C.rayOff}" stroke-width="${strokeW.toFixed(2)}"`) +
         ` stroke-linejoin="round" data-kind="ray" data-label="${esc(d.label)}" ` +
         `data-on="${filled}" data-state="${state}">` +
         `<title>${esc(d.label)}: ${esc(detail)}</title></polygon>`);
@@ -391,16 +434,23 @@ function kinGlyph(p, opts = {}) {
   }
 
   /* Dimensions accept a keyed object or a COMPACT TRIT STRING in DIMENSIONS
-     order:  '0' unsatisfied, '1' satisfied, '2' PARTIAL.  data-dims='11020120...'
+     order:  '0' unsatisfied, '1' satisfied, '2' PARTIAL, '3' NOT APPLICABLE.
+     data-dims='11020120...'
 
-     '2' is the 0.6 addition. '1' deliberately keeps its old meaning so an
-     encoding written before 0.6 still renders correctly rather than silently
-     demoting every satisfied dimension to a stub. Keyed objects may instead
-     carry the grade verbatim ('verified', 'documented', 'derived'), which is
-     what provider frontmatter does — rayState() normalizes either form. */
+     '2' is the 0.6 addition, '3' the 2026-11-02 one. '1' deliberately keeps its old
+     meaning so an encoding written before 0.6 still renders correctly rather
+     than silently demoting every satisfied dimension to a stub. Keyed objects
+     may instead carry the grade verbatim ('verified', 'documented', 'derived'),
+     which is what provider frontmatter does — rayState() normalizes either form.
+
+     THE ALPHABET HERE IS A GATE, NOT A FORMALITY. A trit string this regex
+     rejects is handed to parseJSONAttr instead, which fails on it and returns
+     nothing — so agent_dims comes back EMPTY and all 22 rays draw as
+     unsatisfied, on every page, with no error. Widen this in the same change as
+     any writer that adds a symbol. */
   function readDims(el) {
     const raw = el.getAttribute('data-dims');
-    if (raw && /^[012]+$/.test(raw.trim())) {
+    if (raw && /^[0-3]+$/.test(raw.trim())) {
       const bits = raw.trim(), out = {};
       for (let i = 0; i < DIMENSIONS.length; i++) out[DIMENSIONS[i].id] = bits.charAt(i);
       return out;
