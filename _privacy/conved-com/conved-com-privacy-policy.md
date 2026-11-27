@@ -103,7 +103,7 @@ tags:
 - Company
 - File Conversion
 - Documents
-- Images
+- Image
 - Media
 - MCP
 - CLI

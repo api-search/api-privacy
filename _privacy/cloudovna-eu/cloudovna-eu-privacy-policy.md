@@ -204,7 +204,7 @@ tags:
 - Cloud Hosting
 - Containers
 - Docker
-- Databases
+- Database
 - PostgreSQL
 - SQL Server
 - European Union

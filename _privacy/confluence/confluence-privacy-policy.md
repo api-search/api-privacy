@@ -1,0 +1,612 @@
+---
+api_specs:
+- filename: confluence-content-properties-api-openapi.yml
+  format: yaml
+  label: Confluence Content Properties API
+  slug: confluence-content-properties-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-properties-api-openapi.yml
+- filename: confluence-search-api-openapi.yml
+  format: yaml
+  label: Confluence Search API
+  slug: confluence-search-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-search-api-openapi.yml
+- filename: confluence-content-api-openapi.yml
+  format: yaml
+  label: Confluence Content API
+  slug: confluence-content-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-api-openapi.yml
+- filename: confluence-space-api-openapi.yml
+  format: yaml
+  label: Confluence Space API
+  slug: confluence-space-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-space-api-openapi.yml
+- filename: confluence-content-labels-api-openapi.yml
+  format: yaml
+  label: Confluence Content Labels API
+  slug: confluence-content-labels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-labels-api-openapi.yml
+- filename: confluence-analytics-api-openapi.yml
+  format: yaml
+  label: Confluence Analytics API
+  slug: confluence-analytics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-analytics-api-openapi.yml
+- filename: confluence-audit-api-openapi.yml
+  format: yaml
+  label: Confluence Audit API
+  slug: confluence-audit-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-audit-api-openapi.yml
+- filename: confluence-template-api-openapi.yml
+  format: yaml
+  label: Confluence Template API
+  slug: confluence-template-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-template-api-openapi.yml
+- filename: confluence-group-api-openapi.yml
+  format: yaml
+  label: Confluence Group API
+  slug: confluence-group-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-group-api-openapi.yml
+- filename: confluence-users-api-openapi.yml
+  format: yaml
+  label: Confluence Users API
+  slug: confluence-users-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-users-api-openapi.yml
+- filename: confluence-content-states-api-openapi.yml
+  format: yaml
+  label: Confluence Content States API
+  slug: confluence-content-states-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-states-api-openapi.yml
+- filename: confluence-content-restrictions-api-openapi.yml
+  format: yaml
+  label: Confluence Content Restrictions API
+  slug: confluence-content-restrictions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-restrictions-api-openapi.yml
+- filename: confluence-space-permissions-api-openapi.yml
+  format: yaml
+  label: Confluence Space Permissions API
+  slug: confluence-space-permissions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-space-permissions-api-openapi.yml
+- filename: confluence-content-attachments-api-openapi.yml
+  format: yaml
+  label: Confluence Content Attachments API
+  slug: confluence-content-attachments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-attachments-api-openapi.yml
+- filename: confluence-content-body-api-openapi.yml
+  format: yaml
+  label: Confluence Content Body API
+  slug: confluence-content-body-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-body-api-openapi.yml
+- filename: confluence-content-children-and-descendants-api-openapi.yml
+  format: yaml
+  label: Confluence Content Children and Descendants API
+  slug: confluence-content-children-and-descendants-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-children-and-descendants-api-openapi.yml
+- filename: confluence-content-macro-body-api-openapi.yml
+  format: yaml
+  label: Confluence Content Macro Body API
+  slug: confluence-content-macro-body-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-macro-body-api-openapi.yml
+- filename: confluence-content-permissions-api-openapi.yml
+  format: yaml
+  label: Confluence Content Permissions API
+  slug: confluence-content-permissions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-permissions-api-openapi.yml
+- filename: confluence-content-versions-api-openapi.yml
+  format: yaml
+  label: Confluence Content Versions API
+  slug: confluence-content-versions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-versions-api-openapi.yml
+- filename: confluence-content-watches-api-openapi.yml
+  format: yaml
+  label: Confluence Content Watches API
+  slug: confluence-content-watches-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-watches-api-openapi.yml
+- filename: confluence-dynamic-modules-api-openapi.yml
+  format: yaml
+  label: Confluence Dynamic Modules API
+  slug: confluence-dynamic-modules-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-dynamic-modules-api-openapi.yml
+- filename: confluence-experimental-api-openapi.yml
+  format: yaml
+  label: Confluence Experimental API
+  slug: confluence-experimental-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-experimental-api-openapi.yml
+- filename: confluence-label-info-api-openapi.yml
+  format: yaml
+  label: Confluence Label Info API
+  slug: confluence-label-info-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-label-info-api-openapi.yml
+- filename: confluence-long-running-task-api-openapi.yml
+  format: yaml
+  label: Confluence Long-Running Task API
+  slug: confluence-long-running-task-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-long-running-task-api-openapi.yml
+- filename: confluence-relation-api-openapi.yml
+  format: yaml
+  label: Confluence Relation API
+  slug: confluence-relation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-relation-api-openapi.yml
+- filename: confluence-settings-api-openapi.yml
+  format: yaml
+  label: Confluence Settings API
+  slug: confluence-settings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-settings-api-openapi.yml
+- filename: confluence-space-settings-api-openapi.yml
+  format: yaml
+  label: Confluence Space Settings API
+  slug: confluence-space-settings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-space-settings-api-openapi.yml
+- filename: confluence-themes-api-openapi.yml
+  format: yaml
+  label: Confluence Themes API
+  slug: confluence-themes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-themes-api-openapi.yml
+- filename: confluence-user-properties-api-openapi.yml
+  format: yaml
+  label: Confluence User Properties API
+  slug: confluence-user-properties-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-user-properties-api-openapi.yml
+- filename: confluence-attachment-api-openapi.yml
+  format: yaml
+  label: Confluence Attachment API
+  slug: confluence-attachment-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-attachment-api-openapi.yml
+- filename: confluence-blog-post-api-openapi.yml
+  format: yaml
+  label: Confluence Blog Post API
+  slug: confluence-blog-post-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-blog-post-api-openapi.yml
+- filename: confluence-comment-api-openapi.yml
+  format: yaml
+  label: Confluence Comment API
+  slug: confluence-comment-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-comment-api-openapi.yml
+- filename: confluence-label-api-openapi.yml
+  format: yaml
+  label: Confluence Label API
+  slug: confluence-label-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-label-api-openapi.yml
+- filename: confluence-page-api-openapi.yml
+  format: yaml
+  label: Confluence Page API
+  slug: confluence-page-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-page-api-openapi.yml
+- filename: confluence-space-api-openapi.yml
+  format: yaml
+  label: Confluence Space API
+  slug: confluence-space-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-space-api-openapi.yml
+- filename: confluence-admin-key-api-openapi.yml
+  format: yaml
+  label: Confluence Admin Key API
+  slug: confluence-admin-key-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-admin-key-api-openapi.yml
+- filename: confluence-analytics-api-openapi.yml
+  format: yaml
+  label: Confluence Analytics API
+  slug: confluence-analytics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-analytics-api-openapi.yml
+- filename: confluence-ancestors-api-openapi.yml
+  format: yaml
+  label: Confluence Ancestors API
+  slug: confluence-ancestors-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-ancestors-api-openapi.yml
+- filename: confluence-app-properties-api-openapi.yml
+  format: yaml
+  label: Confluence App Properties API
+  slug: confluence-app-properties-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-app-properties-api-openapi.yml
+- filename: confluence-audit-api-openapi.yml
+  format: yaml
+  label: Confluence Audit API
+  slug: confluence-audit-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-audit-api-openapi.yml
+- filename: confluence-children-api-openapi.yml
+  format: yaml
+  label: Confluence Children API
+  slug: confluence-children-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-children-api-openapi.yml
+- filename: confluence-classification-level-api-openapi.yml
+  format: yaml
+  label: Confluence Classification Level API
+  slug: confluence-classification-level-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-classification-level-api-openapi.yml
+- filename: confluence-content-api-openapi.yml
+  format: yaml
+  label: Confluence Content API
+  slug: confluence-content-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-api-openapi.yml
+- filename: confluence-content-attachments-api-openapi.yml
+  format: yaml
+  label: Confluence Content - attachments API
+  slug: confluence-content-attachments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-attachments-api-openapi.yml
+- filename: confluence-content-body-api-openapi.yml
+  format: yaml
+  label: Confluence Content body API
+  slug: confluence-content-body-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-body-api-openapi.yml
+- filename: confluence-content-children-and-descendants-api-openapi.yml
+  format: yaml
+  label: Confluence Content - children and descendants API
+  slug: confluence-content-children-and-descendants-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-children-and-descendants-api-openapi.yml
+- filename: confluence-content-labels-api-openapi.yml
+  format: yaml
+  label: Confluence Content labels API
+  slug: confluence-content-labels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-labels-api-openapi.yml
+- filename: confluence-content-macro-body-api-openapi.yml
+  format: yaml
+  label: Confluence Content - macro body API
+  slug: confluence-content-macro-body-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-macro-body-api-openapi.yml
+- filename: confluence-content-permissions-api-openapi.yml
+  format: yaml
+  label: Confluence Content permissions API
+  slug: confluence-content-permissions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-permissions-api-openapi.yml
+- filename: confluence-content-properties-api-openapi.yml
+  format: yaml
+  label: Confluence Content Properties API
+  slug: confluence-content-properties-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-properties-api-openapi.yml
+- filename: confluence-content-restrictions-api-openapi.yml
+  format: yaml
+  label: Confluence Content restrictions API
+  slug: confluence-content-restrictions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-restrictions-api-openapi.yml
+- filename: confluence-content-states-api-openapi.yml
+  format: yaml
+  label: Confluence Content states API
+  slug: confluence-content-states-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-states-api-openapi.yml
+- filename: confluence-content-versions-api-openapi.yml
+  format: yaml
+  label: Confluence Content versions API
+  slug: confluence-content-versions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-versions-api-openapi.yml
+- filename: confluence-content-watches-api-openapi.yml
+  format: yaml
+  label: Confluence Content watches API
+  slug: confluence-content-watches-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-content-watches-api-openapi.yml
+- filename: confluence-custom-content-api-openapi.yml
+  format: yaml
+  label: Confluence Custom Content API
+  slug: confluence-custom-content-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-custom-content-api-openapi.yml
+- filename: confluence-data-policies-api-openapi.yml
+  format: yaml
+  label: Confluence Data Policies API
+  slug: confluence-data-policies-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-data-policies-api-openapi.yml
+- filename: confluence-database-api-openapi.yml
+  format: yaml
+  label: Confluence Database API
+  slug: confluence-database-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-database-api-openapi.yml
+- filename: confluence-descendants-api-openapi.yml
+  format: yaml
+  label: Confluence Descendants API
+  slug: confluence-descendants-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-descendants-api-openapi.yml
+- filename: confluence-dynamic-modules-api-openapi.yml
+  format: yaml
+  label: Confluence Dynamic modules API
+  slug: confluence-dynamic-modules-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-dynamic-modules-api-openapi.yml
+- filename: confluence-experimental-api-openapi.yml
+  format: yaml
+  label: Confluence Experimental API
+  slug: confluence-experimental-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-experimental-api-openapi.yml
+- filename: confluence-folder-api-openapi.yml
+  format: yaml
+  label: Confluence Folder API
+  slug: confluence-folder-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-folder-api-openapi.yml
+- filename: confluence-group-api-openapi.yml
+  format: yaml
+  label: Confluence Group API
+  slug: confluence-group-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-group-api-openapi.yml
+- filename: confluence-label-info-api-openapi.yml
+  format: yaml
+  label: Confluence Label info API
+  slug: confluence-label-info-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-label-info-api-openapi.yml
+- filename: confluence-like-api-openapi.yml
+  format: yaml
+  label: Confluence Like API
+  slug: confluence-like-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-like-api-openapi.yml
+- filename: confluence-long-running-task-api-openapi.yml
+  format: yaml
+  label: Confluence Long-running task API
+  slug: confluence-long-running-task-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-long-running-task-api-openapi.yml
+- filename: confluence-operation-api-openapi.yml
+  format: yaml
+  label: Confluence Operation API
+  slug: confluence-operation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-operation-api-openapi.yml
+- filename: confluence-redactions-api-openapi.yml
+  format: yaml
+  label: Confluence Redactions API
+  slug: confluence-redactions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-redactions-api-openapi.yml
+- filename: confluence-relation-api-openapi.yml
+  format: yaml
+  label: Confluence Relation API
+  slug: confluence-relation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-relation-api-openapi.yml
+- filename: confluence-search-api-openapi.yml
+  format: yaml
+  label: Confluence Search API
+  slug: confluence-search-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-search-api-openapi.yml
+- filename: confluence-settings-api-openapi.yml
+  format: yaml
+  label: Confluence Settings API
+  slug: confluence-settings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-settings-api-openapi.yml
+- filename: confluence-smart-link-api-openapi.yml
+  format: yaml
+  label: Confluence Smart Link API
+  slug: confluence-smart-link-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-smart-link-api-openapi.yml
+- filename: confluence-space-permission-transition-api-openapi.yml
+  format: yaml
+  label: Confluence Space Permission Transition API
+  slug: confluence-space-permission-transition-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-space-permission-transition-api-openapi.yml
+- filename: confluence-space-permissions-api-openapi.yml
+  format: yaml
+  label: Confluence Space permissions API
+  slug: confluence-space-permissions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-space-permissions-api-openapi.yml
+- filename: confluence-space-properties-api-openapi.yml
+  format: yaml
+  label: Confluence Space Properties API
+  slug: confluence-space-properties-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-space-properties-api-openapi.yml
+- filename: confluence-space-roles-api-openapi.yml
+  format: yaml
+  label: Confluence Space Roles API
+  slug: confluence-space-roles-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-space-roles-api-openapi.yml
+- filename: confluence-space-settings-api-openapi.yml
+  format: yaml
+  label: Confluence Space settings API
+  slug: confluence-space-settings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-space-settings-api-openapi.yml
+- filename: confluence-task-api-openapi.yml
+  format: yaml
+  label: Confluence Task API
+  slug: confluence-task-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-task-api-openapi.yml
+- filename: confluence-template-api-openapi.yml
+  format: yaml
+  label: Confluence Template API
+  slug: confluence-template-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-template-api-openapi.yml
+- filename: confluence-themes-api-openapi.yml
+  format: yaml
+  label: Confluence Themes API
+  slug: confluence-themes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-themes-api-openapi.yml
+- filename: confluence-user-api-openapi.yml
+  format: yaml
+  label: Confluence User API
+  slug: confluence-user-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-user-api-openapi.yml
+- filename: confluence-user-properties-api-openapi.yml
+  format: yaml
+  label: Confluence User properties API
+  slug: confluence-user-properties-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-user-properties-api-openapi.yml
+- filename: confluence-users-api-openapi.yml
+  format: yaml
+  label: Confluence Users API
+  slug: confluence-users-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-users-api-openapi.yml
+- filename: confluence-version-api-openapi.yml
+  format: yaml
+  label: Confluence Version API
+  slug: confluence-version-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-version-api-openapi.yml
+- filename: confluence-whiteboard-api-openapi.yml
+  format: yaml
+  label: Confluence Whiteboard API
+  slug: confluence-whiteboard-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/confluence/openapi/confluence-whiteboard-api-openapi.yml
+claim_count: 22
+description: ''
+doc:
+  data_categories:
+  - category: identifying
+    text: We collect information when you register for an account, create or modify your profile, set preferences
+  - category: contact
+    text: you provide contact information (e.g., name or email address)
+  - category: financial
+    text: You might also provide payment information, such as payment card details, which we collect via secure payment processing services.
+  - category: location
+    text: We use your IP address and/or country preference to approximate your location to provide you with a better Service experience.
+  - category: behavioral
+    text: We automatically collect information about you when you use our Services, including browsing our websites and taking certain actions within the Services.
+  - category: device
+    text: We collect information about your computer, phone, tablet, or other devices you use to access the Services.
+  deletion:
+    route: in-product settings or request via the account deletion process
+    text: Our Services give you the ability to delete certain information about you from within the Services.
+  dpa:
+    available: true
+    text: as further specified in the Data Processing Addendum entered into with those customers
+    url: null
+  purposes:
+  - purpose: provide the Services and personalize experience
+    text: We use information about you to provide the Services to you, including to process transactions, authenticate you when you log in, provide customer support, and operate, maintain, and improve the Services.
+  - purpose: marketing and promotional activities
+    text: We use information about you and how you use the Services for analysis, research and communications relating to marketing (including targeted advertising of products that may interest you)
+  - purpose: develop and improve services
+    text: We use information and collective learnings (including feedback) about how people use our Services
+  residency:
+  - region: global
+    text: We collect information globally and may transfer, process, and store your information outside of your country of residence
+  retention:
+  - period: as long as your account is active and a reasonable period thereafter
+    scope: Account information
+    text: We retain your account information for as long as your account is active and a reasonable period thereafter in case you decide to re-activate the Services.
+  - period: a reasonable period of time from the date you last expressed interest in our Services
+    scope: Marketing information
+    text: We retain information about your marketing preferences for a reasonable period of time from the date you last expressed interest in our Services
+  rights:
+  - right: access a copy
+    text: to request a copy of your information
+  - right: object to use
+    text: to object to our use of your information (including for marketing purposes)
+  - right: deletion or restriction
+    text: to request the deletion or restriction of your information
+  - right: portability
+    text: to request your information in a structured, electronic format
+  - right: correction
+    text: to request to correct or update your information
+  role:
+    text: This privacy policy describes Atlassian’s data practices as a controller of personal information.
+    value: controller
+  sale_or_sharing:
+    stance: unstated
+    text: null
+  subprocessors:
+    text: null
+    url: null
+  transfers:
+  - mechanism: SCC
+    text: the standard contractual data protection clauses (see here ), which have been approved by the European Commission, to safeguard the transfer of information we collect from the European Economic Area
+  - mechanism: DPF
+    text: Atlassian complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.
+layer: privacy_policy
+layer_version: 0.1.0
+layout: privacy
+method: harvested
+model: claude-haiku-5-5
+name: Confluence
+provenance_date: '2026-11-09'
+provider_name: Confluence
+provider_slug: confluence
+slug: confluence-privacy-policy
+source_date: '2026-11-09'
+source_filename: confluence-privacy-policy.yml
+source_heading: Privacy Policy
+source_page: https://www.atlassian.com/legal/privacy-policy
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\nprivacy_policy: 0.1.0\nprovider: Confluence\naid: confluence\nurl: https://www.atlassian.com/legal/privacy-policy\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\n  truncated: true\nrole:\n  value: controller\n  text: This privacy policy describes Atlassian’s data practices as a controller of personal information.\ndata_categories:\n- category: identifying\n  text: We collect information when you register for an account, create or modify your profile, set preferences\n- category: contact\n  text: you provide contact information (e.g., name or email address)\n- category: financial\n  text: You might also provide payment information, such as payment card details,\
+  \ which we collect via secure payment\n    processing services.\n- category: location\n  text: We use your IP address and/or country preference to approximate your location to provide you with a better\n    Service experience.\n- category: behavioral\n  text: We automatically collect information about you when you use our Services, including browsing our websites\n    and taking certain actions within the Services.\n- category: device\n  text: We collect information about your computer, phone, tablet, or other devices you use to access the Services.\npurposes:\n- purpose: provide the Services and personalize experience\n  text: We use information about you to provide the Services to you, including to process transactions, authenticate\n    you when you log in, provide customer support, and operate, maintain, and improve the Services.\n- purpose: marketing and promotional activities\n  text: We use information about you and how you use the Services for analysis, research and communications\
+  \ relating\n    to marketing (including targeted advertising of products that may interest you)\n- purpose: develop and improve services\n  text: We use information and collective learnings (including feedback) about how people use our Services\nretention:\n- scope: Account information\n  period: as long as your account is active and a reasonable period thereafter\n  text: We retain your account information for as long as your account is active and a reasonable period thereafter\n    in case you decide to re-activate the Services.\n- scope: Marketing information\n  period: a reasonable period of time from the date you last expressed interest in our Services\n  text: We retain information about your marketing preferences for a reasonable period of time from the date you\n    last expressed interest in our Services\nresidency:\n- region: global\n  text: We collect information globally and may transfer, process, and store your information outside of your country\n    of residence\ntransfers:\n\
+  - mechanism: SCC\n  text: the standard contractual data protection clauses (see here ), which have been approved by the European Commission,\n    to safeguard the transfer of information we collect from the European Economic Area\n- mechanism: DPF\n  text: Atlassian complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S.\n    DPF and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.\nsubprocessors:\n  url: null\n  text: null\ndpa:\n  available: true\n  url: null\n  text: as further specified in the Data Processing Addendum entered into with those customers\ndeletion:\n  route: in-product settings or request via the account deletion process\n  text: Our Services give you the ability to delete certain information about you from within the Services.\nrights:\n- right: access a copy\n  text: to request a copy of your information\n- right: object to use\n  text: to object to our use of your information\
+  \ (including for marketing purposes)\n- right: deletion or restriction\n  text: to request the deletion or restriction of your information\n- right: portability\n  text: to request your information in a structured, electronic format\n- right: correction\n  text: to request to correct or update your information\nsale_or_sharing:\n  stance: unstated\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/confluence/privacy/confluence-privacy-policy.yml
+stated_fields:
+- role
+- data_categories
+- purposes
+- retention
+- residency
+- transfers
+- dpa
+- deletion
+- rights
+summary_line: 22 quoted statements, read from Confluence's own page on 2026-11-09.
+synthetic: false
+tags:
+- Collaboration
+- Content Management
+- Documentation
+- Knowledge Base
+- Wiki
+- Knowledge Management
+---

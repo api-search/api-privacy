@@ -1,0 +1,821 @@
+---
+api_specs:
+- filename: forsta-abandon-section-api-openapi.yml
+  format: yaml
+  label: Forsta Abandon Section API
+  slug: forsta-abandon-section-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-abandon-section-api-openapi.yml
+- filename: forsta-api-keys-api-openapi.yml
+  format: yaml
+  label: Forsta API Keys API
+  slug: forsta-api-keys-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-api-keys-api-openapi.yml
+- filename: forsta-apispec-api-openapi.yml
+  format: yaml
+  label: Forsta API Spec API
+  slug: forsta-apispec-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-apispec-api-openapi.yml
+- filename: forsta-app-api-openapi.yml
+  format: yaml
+  label: Forsta App API
+  slug: forsta-app-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-app-api-openapi.yml
+- filename: forsta-archival-reports-api-openapi.yml
+  format: yaml
+  label: Forsta Archival Reports API
+  slug: forsta-archival-reports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-archival-reports-api-openapi.yml
+- filename: forsta-archives-api-openapi.yml
+  format: yaml
+  label: Forsta Archives API
+  slug: forsta-archives-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-archives-api-openapi.yml
+- filename: forsta-augeo-callback-api-openapi.yml
+  format: yaml
+  label: Forsta Augeo Callback API
+  slug: forsta-augeo-callback-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-augeo-callback-api-openapi.yml
+- filename: forsta-auth-api-openapi.yml
+  format: yaml
+  label: Forsta Auth API
+  slug: forsta-auth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-auth-api-openapi.yml
+- filename: forsta-autoclose-api-openapi.yml
+  format: yaml
+  label: Forsta Autoclose API
+  slug: forsta-autoclose-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-autoclose-api-openapi.yml
+- filename: forsta-available-project-parameters-api-openapi.yml
+  format: yaml
+  label: Forsta Available Project Parameters API
+  slug: forsta-available-project-parameters-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-available-project-parameters-api-openapi.yml
+- filename: forsta-available-sections-api-openapi.yml
+  format: yaml
+  label: Forsta Available Sections API
+  slug: forsta-available-sections-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-available-sections-api-openapi.yml
+- filename: forsta-bounced-emails-api-openapi.yml
+  format: yaml
+  label: Forsta Bounced Emails API
+  slug: forsta-bounced-emails-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-bounced-emails-api-openapi.yml
+- filename: forsta-campaign-api-openapi.yml
+  format: yaml
+  label: Forsta Campaign API
+  slug: forsta-campaign-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-campaign-api-openapi.yml
+- filename: forsta-campaign-email-invites-api-openapi.yml
+  format: yaml
+  label: Forsta Campaign Email Invites API
+  slug: forsta-campaign-email-invites-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-campaign-email-invites-api-openapi.yml
+- filename: forsta-campaign-exports-api-openapi.yml
+  format: yaml
+  label: Forsta Campaign Exports API
+  slug: forsta-campaign-exports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-campaign-exports-api-openapi.yml
+- filename: forsta-campaign-lists-api-openapi.yml
+  format: yaml
+  label: Forsta Campaign Lists API
+  slug: forsta-campaign-lists-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-campaign-lists-api-openapi.yml
+- filename: forsta-campaign-sends-api-openapi.yml
+  format: yaml
+  label: Forsta Campaign Sends API
+  slug: forsta-campaign-sends-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-campaign-sends-api-openapi.yml
+- filename: forsta-campaign-status-lists-api-openapi.yml
+  format: yaml
+  label: Forsta Campaign Status Lists API
+  slug: forsta-campaign-status-lists-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-campaign-status-lists-api-openapi.yml
+- filename: forsta-campaigns-api-openapi.yml
+  format: yaml
+  label: Forsta Campaigns API
+  slug: forsta-campaigns-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-campaigns-api-openapi.yml
+- filename: forsta-categories-api-openapi.yml
+  format: yaml
+  label: Forsta Categories API
+  slug: forsta-categories-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-categories-api-openapi.yml
+- filename: forsta-category-api-openapi.yml
+  format: yaml
+  label: Forsta Category API
+  slug: forsta-category-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-category-api-openapi.yml
+- filename: forsta-cati-api-openapi.yml
+  format: yaml
+  label: Forsta CATI API
+  slug: forsta-cati-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-cati-api-openapi.yml
+- filename: forsta-check-in-section-api-openapi.yml
+  format: yaml
+  label: Forsta Check In Section API
+  slug: forsta-check-in-section-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-check-in-section-api-openapi.yml
+- filename: forsta-check-out-section-api-openapi.yml
+  format: yaml
+  label: Forsta Check Out Section API
+  slug: forsta-check-out-section-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-check-out-section-api-openapi.yml
+- filename: forsta-community-api-openapi.yml
+  format: yaml
+  label: Forsta Community API
+  slug: forsta-community-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-community-api-openapi.yml
+- filename: forsta-companies-api-openapi.yml
+  format: yaml
+  label: Forsta Companies API
+  slug: forsta-companies-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-companies-api-openapi.yml
+- filename: forsta-company-element-api-openapi.yml
+  format: yaml
+  label: Forsta Company Element API
+  slug: forsta-company-element-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-company-element-api-openapi.yml
+- filename: forsta-company-elements-api-openapi.yml
+  format: yaml
+  label: Forsta Company Elements API
+  slug: forsta-company-elements-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-company-elements-api-openapi.yml
+- filename: forsta-crosstabs-api-openapi.yml
+  format: yaml
+  label: Forsta Crosstabs API
+  slug: forsta-crosstabs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-crosstabs-api-openapi.yml
+- filename: forsta-crosstabs-configuration-api-openapi.yml
+  format: yaml
+  label: Forsta Crosstabs Configuration API
+  slug: forsta-crosstabs-configuration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-crosstabs-configuration-api-openapi.yml
+- filename: forsta-crosstabs-execution-api-openapi.yml
+  format: yaml
+  label: Forsta Crosstabs Execution API
+  slug: forsta-crosstabs-execution-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-crosstabs-execution-api-openapi.yml
+- filename: forsta-crosstabs-nets-api-openapi.yml
+  format: yaml
+  label: Forsta Crosstabs Nets API
+  slug: forsta-crosstabs-nets-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-crosstabs-nets-api-openapi.yml
+- filename: forsta-crosstabs-rim-weighting-api-openapi.yml
+  format: yaml
+  label: Forsta Crosstabs Rim Weighting API
+  slug: forsta-crosstabs-rim-weighting-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-crosstabs-rim-weighting-api-openapi.yml
+- filename: forsta-crosstabs-table-settings-api-openapi.yml
+  format: yaml
+  label: Forsta Crosstabs Table Settings API
+  slug: forsta-crosstabs-table-settings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-crosstabs-table-settings-api-openapi.yml
+- filename: forsta-crosstabs-validation-api-openapi.yml
+  format: yaml
+  label: Forsta Crosstabs Validation API
+  slug: forsta-crosstabs-validation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-crosstabs-validation-api-openapi.yml
+- filename: forsta-dashboards-api-openapi.yml
+  format: yaml
+  label: Forsta Dashboards API
+  slug: forsta-dashboards-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-dashboards-api-openapi.yml
+- filename: forsta-data-api-openapi.yml
+  format: yaml
+  label: Forsta Data API
+  slug: forsta-data-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-data-api-openapi.yml
+- filename: forsta-data-feed-api-openapi.yml
+  format: yaml
+  label: Forsta Data Feed API
+  slug: forsta-data-feed-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-data-feed-api-openapi.yml
+- filename: forsta-datapoint-api-openapi.yml
+  format: yaml
+  label: Forsta Datapoint API
+  slug: forsta-datapoint-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-datapoint-api-openapi.yml
+- filename: forsta-datasources-data-api-openapi.yml
+  format: yaml
+  label: Forsta Datasources Data API
+  slug: forsta-datasources-data-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-datasources-data-api-openapi.yml
+- filename: forsta-discrete-choice-model-api-calls-api-openapi.yml
+  format: yaml
+  label: Forsta Discrete Choice Model API Calls API
+  slug: forsta-discrete-choice-model-api-calls-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-discrete-choice-model-api-calls-api-openapi.yml
+- filename: forsta-dq-specific-api-calls-api-openapi.yml
+  format: yaml
+  label: Forsta DQ-Specific API Calls API
+  slug: forsta-dq-specific-api-calls-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-dq-specific-api-calls-api-openapi.yml
+- filename: forsta-email-api-openapi.yml
+  format: yaml
+  label: Forsta Email API
+  slug: forsta-email-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-email-api-openapi.yml
+- filename: forsta-email-distribution-api-openapi.yml
+  format: yaml
+  label: Forsta Email Distribution API
+  slug: forsta-email-distribution-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-email-distribution-api-openapi.yml
+- filename: forsta-estimates-api-openapi.yml
+  format: yaml
+  label: Forsta Estimates API
+  slug: forsta-estimates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-estimates-api-openapi.yml
+- filename: forsta-global-search-api-openapi.yml
+  format: yaml
+  label: Forsta Global Search API
+  slug: forsta-global-search-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-global-search-api-openapi.yml
+- filename: forsta-lm-application-data-api-openapi.yml
+  format: yaml
+  label: Forsta LM Application Data API
+  slug: forsta-lm-application-data-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-lm-application-data-api-openapi.yml
+- filename: forsta-lm-application-translations-api-openapi.yml
+  format: yaml
+  label: Forsta LM Application Translations API
+  slug: forsta-lm-application-translations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-lm-application-translations-api-openapi.yml
+- filename: forsta-logic-events-api-openapi.yml
+  format: yaml
+  label: Forsta Logic Events API
+  slug: forsta-logic-events-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-logic-events-api-openapi.yml
+- filename: forsta-logic-nodes-api-openapi.yml
+  format: yaml
+  label: Forsta Logic Nodes API
+  slug: forsta-logic-nodes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-logic-nodes-api-openapi.yml
+- filename: forsta-maxdiff-api-calls-api-openapi.yml
+  format: yaml
+  label: Forsta MaxDiff API Calls API
+  slug: forsta-maxdiff-api-calls-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-maxdiff-api-calls-api-openapi.yml
+- filename: forsta-media-testimonial-api-calls-api-openapi.yml
+  format: yaml
+  label: Forsta Media Testimonial API Calls API
+  slug: forsta-media-testimonial-api-calls-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-media-testimonial-api-calls-api-openapi.yml
+- filename: forsta-miscellaneous-api-openapi.yml
+  format: yaml
+  label: Forsta Miscellaneous API
+  slug: forsta-miscellaneous-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-miscellaneous-api-openapi.yml
+- filename: forsta-modifying-data-api-openapi.yml
+  format: yaml
+  label: Forsta Modifying Data API
+  slug: forsta-modifying-data-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-modifying-data-api-openapi.yml
+- filename: forsta-notes-api-openapi.yml
+  format: yaml
+  label: Forsta Notes API
+  slug: forsta-notes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-notes-api-openapi.yml
+- filename: forsta-other-survey-languages-api-openapi.yml
+  format: yaml
+  label: Forsta Other Survey Languages API
+  slug: forsta-other-survey-languages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-other-survey-languages-api-openapi.yml
+- filename: forsta-panel-api-openapi.yml
+  format: yaml
+  label: Forsta Panel API
+  slug: forsta-panel-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-panel-api-openapi.yml
+- filename: forsta-panel-data-api-openapi.yml
+  format: yaml
+  label: Forsta Panel Data API
+  slug: forsta-panel-data-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-panel-data-api-openapi.yml
+- filename: forsta-panel-datapoints-api-openapi.yml
+  format: yaml
+  label: Forsta Panel Datapoints API
+  slug: forsta-panel-datapoints-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-panel-datapoints-api-openapi.yml
+- filename: forsta-panelist-api-openapi.yml
+  format: yaml
+  label: Forsta Panelist API
+  slug: forsta-panelist-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-panelist-api-openapi.yml
+- filename: forsta-panelists-api-openapi.yml
+  format: yaml
+  label: Forsta Panelists API
+  slug: forsta-panelists-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-panelists-api-openapi.yml
+- filename: forsta-panels-api-openapi.yml
+  format: yaml
+  label: Forsta Panels API
+  slug: forsta-panels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-panels-api-openapi.yml
+- filename: forsta-participant-source-api-openapi.yml
+  format: yaml
+  label: Forsta Participant Source API
+  slug: forsta-participant-source-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-participant-source-api-openapi.yml
+- filename: forsta-participant-sources-api-openapi.yml
+  format: yaml
+  label: Forsta Participant Sources API
+  slug: forsta-participant-sources-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-participant-sources-api-openapi.yml
+- filename: forsta-points-api-openapi.yml
+  format: yaml
+  label: Forsta Points API
+  slug: forsta-points-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-points-api-openapi.yml
+- filename: forsta-primary-survey-language-api-openapi.yml
+  format: yaml
+  label: Forsta Primary Survey Language API
+  slug: forsta-primary-survey-language-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-primary-survey-language-api-openapi.yml
+- filename: forsta-project-api-openapi.yml
+  format: yaml
+  label: Forsta Project API
+  slug: forsta-project-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-project-api-openapi.yml
+- filename: forsta-project-parameters-configuration-api-openapi.yml
+  format: yaml
+  label: Forsta Project Parameters Configuration API
+  slug: forsta-project-parameters-configuration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-project-parameters-configuration-api-openapi.yml
+- filename: forsta-projects-api-openapi.yml
+  format: yaml
+  label: Forsta Projects API
+  slug: forsta-projects-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-projects-api-openapi.yml
+- filename: forsta-quickpoll-api-openapi.yml
+  format: yaml
+  label: Forsta Quickpoll API
+  slug: forsta-quickpoll-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-quickpoll-api-openapi.yml
+- filename: forsta-redemption-api-openapi.yml
+  format: yaml
+  label: Forsta Redemption API
+  slug: forsta-redemption-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-redemption-api-openapi.yml
+- filename: forsta-reminder-api-openapi.yml
+  format: yaml
+  label: Forsta Reminder API
+  slug: forsta-reminder-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-reminder-api-openapi.yml
+- filename: forsta-response-summary-api-openapi.yml
+  format: yaml
+  label: Forsta Response Summary API
+  slug: forsta-response-summary-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-response-summary-api-openapi.yml
+- filename: forsta-reward-api-openapi.yml
+  format: yaml
+  label: Forsta Reward API
+  slug: forsta-reward-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-reward-api-openapi.yml
+- filename: forsta-sample-api-openapi.yml
+  format: yaml
+  label: Forsta Sample API
+  slug: forsta-sample-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-sample-api-openapi.yml
+- filename: forsta-samples-api-openapi.yml
+  format: yaml
+  label: Forsta Samples API
+  slug: forsta-samples-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-samples-api-openapi.yml
+- filename: forsta-saved-crosstabs-api-openapi.yml
+  format: yaml
+  label: Forsta Saved Crosstabs API
+  slug: forsta-saved-crosstabs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-saved-crosstabs-api-openapi.yml
+- filename: forsta-saved-project-parameters-api-openapi.yml
+  format: yaml
+  label: Forsta Saved Project Parameters API
+  slug: forsta-saved-project-parameters-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-saved-project-parameters-api-openapi.yml
+- filename: forsta-section-editor-api-openapi.yml
+  format: yaml
+  label: Forsta Section Editor API
+  slug: forsta-section-editor-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-section-editor-api-openapi.yml
+- filename: forsta-session-api-openapi.yml
+  format: yaml
+  label: Forsta Session API
+  slug: forsta-session-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-session-api-openapi.yml
+- filename: forsta-sftp-distribution-api-openapi.yml
+  format: yaml
+  label: Forsta SFTP Distribution API
+  slug: forsta-sftp-distribution-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-sftp-distribution-api-openapi.yml
+- filename: forsta-share-link-api-openapi.yml
+  format: yaml
+  label: Forsta Share Link API
+  slug: forsta-share-link-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-share-link-api-openapi.yml
+- filename: forsta-shared-campaign-lists-api-openapi.yml
+  format: yaml
+  label: Forsta Shared Campaign Lists API
+  slug: forsta-shared-campaign-lists-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-shared-campaign-lists-api-openapi.yml
+- filename: forsta-simulated-data-api-openapi.yml
+  format: yaml
+  label: Forsta Simulated Data API
+  slug: forsta-simulated-data-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-simulated-data-api-openapi.yml
+- filename: forsta-slack-distribution-api-openapi.yml
+  format: yaml
+  label: Forsta Slack Distribution API
+  slug: forsta-slack-distribution-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-slack-distribution-api-openapi.yml
+- filename: forsta-supression-lists-api-openapi.yml
+  format: yaml
+  label: Forsta Supression Lists API
+  slug: forsta-supression-lists-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-supression-lists-api-openapi.yml
+- filename: forsta-survey-activity-api-openapi.yml
+  format: yaml
+  label: Forsta Survey Activity API
+  slug: forsta-survey-activity-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-survey-activity-api-openapi.yml
+- filename: forsta-survey-api-openapi.yml
+  format: yaml
+  label: Forsta Survey API
+  slug: forsta-survey-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-survey-api-openapi.yml
+- filename: forsta-survey-element-report-settings-api-openapi.yml
+  format: yaml
+  label: Forsta Survey Element Report Settings API
+  slug: forsta-survey-element-report-settings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-survey-element-report-settings-api-openapi.yml
+- filename: forsta-survey-elements-api-openapi.yml
+  format: yaml
+  label: Forsta Survey Elements API
+  slug: forsta-survey-elements-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-survey-elements-api-openapi.yml
+- filename: forsta-survey-evaluate-api-openapi.yml
+  format: yaml
+  label: Forsta Survey Evaluate API
+  slug: forsta-survey-evaluate-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-survey-evaluate-api-openapi.yml
+- filename: forsta-survey-files-api-openapi.yml
+  format: yaml
+  label: Forsta Survey Files API
+  slug: forsta-survey-files-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-survey-files-api-openapi.yml
+- filename: forsta-survey-invitation-api-openapi.yml
+  format: yaml
+  label: Forsta Survey Invitation API
+  slug: forsta-survey-invitation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-survey-invitation-api-openapi.yml
+- filename: forsta-survey-panels-api-openapi.yml
+  format: yaml
+  label: Forsta Survey Panels API
+  slug: forsta-survey-panels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-survey-panels-api-openapi.yml
+- filename: forsta-survey-quotas-api-openapi.yml
+  format: yaml
+  label: Forsta Survey Quotas API
+  slug: forsta-survey-quotas-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-survey-quotas-api-openapi.yml
+- filename: forsta-survey-state-api-openapi.yml
+  format: yaml
+  label: Forsta Survey State API
+  slug: forsta-survey-state-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-survey-state-api-openapi.yml
+- filename: forsta-survey-subscribers-api-openapi.yml
+  format: yaml
+  label: Forsta Survey Subscribers API
+  slug: forsta-survey-subscribers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-survey-subscribers-api-openapi.yml
+- filename: forsta-survey-tasks-api-openapi.yml
+  format: yaml
+  label: Forsta Survey Tasks API
+  slug: forsta-survey-tasks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-survey-tasks-api-openapi.yml
+- filename: forsta-survey-terms-api-openapi.yml
+  format: yaml
+  label: Forsta Survey Terms API
+  slug: forsta-survey-terms-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-survey-terms-api-openapi.yml
+- filename: forsta-survey-users-api-openapi.yml
+  format: yaml
+  label: Forsta Survey Users API
+  slug: forsta-survey-users-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-survey-users-api-openapi.yml
+- filename: forsta-survey-warnings-api-openapi.yml
+  format: yaml
+  label: Forsta Survey Warnings API
+  slug: forsta-survey-warnings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-survey-warnings-api-openapi.yml
+- filename: forsta-surveys-api-openapi.yml
+  format: yaml
+  label: Forsta Surveys API
+  slug: forsta-surveys-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-surveys-api-openapi.yml
+- filename: forsta-sync-section-api-openapi.yml
+  format: yaml
+  label: Forsta Sync Section API
+  slug: forsta-sync-section-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-sync-section-api-openapi.yml
+- filename: forsta-system-api-openapi.yml
+  format: yaml
+  label: Forsta System API
+  slug: forsta-system-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-system-api-openapi.yml
+- filename: forsta-system-information-api-openapi.yml
+  format: yaml
+  label: Forsta System Information API
+  slug: forsta-system-information-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-system-information-api-openapi.yml
+- filename: forsta-token-api-openapi.yml
+  format: yaml
+  label: Forsta Token API
+  slug: forsta-token-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-token-api-openapi.yml
+- filename: forsta-translation-deltas-api-openapi.yml
+  format: yaml
+  label: Forsta Translation Deltas API
+  slug: forsta-translation-deltas-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-translation-deltas-api-openapi.yml
+- filename: forsta-translation-reservations-api-openapi.yml
+  format: yaml
+  label: Forsta Translation Reservations API
+  slug: forsta-translation-reservations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-translation-reservations-api-openapi.yml
+- filename: forsta-translation-resources-api-openapi.yml
+  format: yaml
+  label: Forsta Translation Resources API
+  slug: forsta-translation-resources-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-translation-resources-api-openapi.yml
+- filename: forsta-translations-api-openapi.yml
+  format: yaml
+  label: Forsta Translations API
+  slug: forsta-translations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-translations-api-openapi.yml
+- filename: forsta-umerge-api-openapi.yml
+  format: yaml
+  label: Forsta Umerge API
+  slug: forsta-umerge-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-umerge-api-openapi.yml
+- filename: forsta-unused-survey-languages-api-openapi.yml
+  format: yaml
+  label: Forsta Unused Survey Languages API
+  slug: forsta-unused-survey-languages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-unused-survey-languages-api-openapi.yml
+- filename: forsta-usage-api-openapi.yml
+  format: yaml
+  label: Forsta Usage API
+  slug: forsta-usage-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-usage-api-openapi.yml
+- filename: forsta-users-api-openapi.yml
+  format: yaml
+  label: Forsta Users API
+  slug: forsta-users-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-users-api-openapi.yml
+- filename: forsta-validate-section-api-openapi.yml
+  format: yaml
+  label: Forsta Validate Section API
+  slug: forsta-validate-section-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-validate-section-api-openapi.yml
+- filename: forsta-videos-api-openapi.yml
+  format: yaml
+  label: Forsta Videos API
+  slug: forsta-videos-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-videos-api-openapi.yml
+- filename: forsta-warnings-summary-api-openapi.yml
+  format: yaml
+  label: Forsta Warnings Summary API
+  slug: forsta-warnings-summary-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-warnings-summary-api-openapi.yml
+- filename: forsta-watermarked-videos-api-openapi.yml
+  format: yaml
+  label: Forsta Watermarked Videos API
+  slug: forsta-watermarked-videos-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-watermarked-videos-api-openapi.yml
+- filename: forsta-oauth2-api-openapi.yml
+  format: yaml
+  label: Forsta O Auth2 API
+  slug: forsta-oauth2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-oauth2-api-openapi.yml
+- filename: forsta-data-sources-api-openapi.yml
+  format: yaml
+  label: Forsta Data Sources API
+  slug: forsta-data-sources-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/forsta/openapi/forsta-data-sources-api-openapi.yml
+claim_count: 17
+description: ''
+doc:
+  data_categories:
+  - category: identifying
+    text: your name, physical address, email address, zip code, resume, phone number, and additional contact information
+  - category: location
+    text: we may log IP address and geolocation
+  - category: behavioral
+    text: clickstream data to analyze trends in the aggregate and administer the site
+  - category: professional
+    text: Professional or employment-related information
+  deletion:
+    route: null
+    text: null
+  dpa:
+    available: null
+    text: null
+    url: null
+  purposes:
+  - purpose: Account management and product improvement
+    text: account management, product improvement, invoicing and financial reporting, data protection and cybersecurity, and complying with our legal obligations
+  - purpose: Marketing
+    text: To send you specific marketing materials
+  - purpose: Recruitment
+    text: In connection with a job application or inquiry
+  - purpose: Customer surveys on behalf of customers
+    text: Forsta acts as on behalf of its customers, meaning we do not determine the purpose or means of the processing ourselves
+  retention:
+  - period: null
+    scope: Customer-instructed personal data
+    text: We will retain personal data our customers have instructed us to process for them for as long as needed to provide services to our customers in accordance with the contractual terms in our agreements with them.
+  - period: null
+    scope: Controller personal data
+    text: When we have no ongoing legitimate purpose to process your personal information, we will either delete or anonymize it.
+  rights:
+  - right: Access
+    text: You have the right to seek access to and rectification or erasure of your personal data in accordance with applicable laws as set forth in section 5 below.
+  - right: Deletion
+    text: Right to Request Deletion of Personal Information You have the right to request that we delete any personal information about the consumer that we have collected or that we maintain.
+  - right: Withdraw consent
+    text: Where our processing of your personal data is based on your consent, you have the right to withdraw such consent at any time as set forth in section 5 below.
+  - right: Lodge complaint
+    text: Where applicable laws so prescribe, you have the right to lodge a complaint to a supervisory authority.
+  - right: Non-discrimination
+    text: You have the right not to receive discriminatory treatment from us for the exercise of the privacy rights conferred by CCPA and listed in this CCPA Privacy Notice.
+  role:
+    text: null
+    value: unstated
+  sale_or_sharing:
+    stance: conditional
+    text: We have not sold personal information of consumers in the past twelve months.
+  subprocessors:
+    text: null
+    url: null
+  transfers:
+  - mechanism: SCC
+    text: standard data protection clauses
+layer: privacy_policy
+layer_version: 0.1.0
+layout: privacy
+method: harvested
+model: claude-haiku-5-5
+name: Forsta
+provenance_date: '2026-11-09'
+provider_name: Forsta
+provider_slug: forsta
+slug: forsta-privacy-policy
+source_date: '2026-11-09'
+source_filename: forsta-privacy-policy.yml
+source_heading: Privacy Policy
+source_page: https://legal.forsta.com/legal/privacy-notice/
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\nprivacy_policy: 0.1.0\nprovider: Forsta\naid: forsta\nurl: https://legal.forsta.com/legal/privacy-notice/\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\nrole:\n  value: unstated\n  text: null\ndata_categories:\n- category: identifying\n  text: your name, physical address, email address, zip code, resume, phone number, and additional contact information\n- category: location\n  text: we may log IP address and geolocation\n- category: behavioral\n  text: clickstream data to analyze trends in the aggregate and administer the site\n- category: professional\n  text: Professional or employment-related information\npurposes:\n- purpose: Account management and product\
+  \ improvement\n  text: account management, product improvement, invoicing and financial reporting, data protection and cybersecurity,\n    and complying with our legal obligations\n- purpose: Marketing\n  text: To send you specific marketing materials\n- purpose: Recruitment\n  text: In connection with a job application or inquiry\n- purpose: Customer surveys on behalf of customers\n  text: Forsta acts as on behalf of its customers, meaning we do not determine the purpose or means of the processing\n    ourselves\nretention:\n- scope: Customer-instructed personal data\n  period: null\n  text: We will retain personal data our customers have instructed us to process for them for as long as needed\n    to provide services to our customers in accordance with the contractual terms in our agreements with them.\n- scope: Controller personal data\n  period: null\n  text: When we have no ongoing legitimate purpose to process your personal information, we will either delete or\n    anonymize it.\n\
+  residency: []\ntransfers:\n- mechanism: SCC\n  text: standard data protection clauses\nsubprocessors:\n  url: null\n  text: null\ndpa:\n  available: null\n  url: null\n  text: null\ndeletion:\n  route: null\n  text: null\nrights:\n- right: Access\n  text: You have the right to seek access to and rectification or erasure of your personal data in accordance with\n    applicable laws as set forth in section 5 below.\n- right: Deletion\n  text: Right to Request Deletion of Personal Information You have the right to request that we delete any personal\n    information about the consumer that we have collected or that we maintain.\n- right: Withdraw consent\n  text: Where our processing of your personal data is based on your consent, you have the right to withdraw such\n    consent at any time as set forth in section 5 below.\n- right: Lodge complaint\n  text: Where applicable laws so prescribe, you have the right to lodge a complaint to a supervisory authority.\n- right: Non-discrimination\n\
+  \  text: You have the right not to receive discriminatory treatment from us for the exercise of the privacy rights\n    conferred by CCPA and listed in this CCPA Privacy Notice.\nsale_or_sharing:\n  stance: conditional\n  text: We have not sold personal information of consumers in the past twelve months.\n"
+source_yaml_url: https://artifacts.apis.io/forsta/privacy/forsta-privacy-policy.yml
+stated_fields:
+- data_categories
+- purposes
+- retention
+- transfers
+- rights
+- sale_or_sharing
+summary_line: 17 quoted statements, read from Forsta's own page on 2026-11-09.
+synthetic: false
+tags:
+- Customer Insights
+- Feedback
+- Market Research
+- Surveys
+- Customer Experience
+- Employee Experience
+- Panel Management
+- Data Collection
+- Analytics
+- Voice of the Customer
+---

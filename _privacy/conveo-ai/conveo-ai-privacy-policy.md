@@ -94,7 +94,7 @@ summary_line: 15 quoted statements, read from Conveo's own page on 2026-11-09.
 synthetic: false
 tags:
 - Company
-- AI
+- Artificial Intelligence
 - Qualitative Research
 - Market Research
 - Customer Interviews

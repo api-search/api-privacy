@@ -99,11 +99,11 @@ summary_line: 22 quoted statements, read from Cluvi AI's own page on 2026-11-09.
 synthetic: false
 tags:
 - Company
-- Restaurants
+- Restaurant
 - Hospitality
 - Reservations
 - WhatsApp
 - Messaging
 - AI Receptionist
-- Model Context Protocol
+- MCP
 ---

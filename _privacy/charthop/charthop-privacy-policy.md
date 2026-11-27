@@ -1,0 +1,607 @@
+---
+api_specs:
+- filename: charthop-access-api-openapi.yml
+  format: yaml
+  label: Charthop Access API
+  slug: charthop-access-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-access-api-openapi.yml
+- filename: charthop-action-api-openapi.yml
+  format: yaml
+  label: Charthop Action API
+  slug: charthop-action-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-action-api-openapi.yml
+- filename: charthop-ai-api-openapi.yml
+  format: yaml
+  label: Charthop AI API
+  slug: charthop-ai-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-ai-api-openapi.yml
+- filename: charthop-ai-credit-limit-api-openapi.yml
+  format: yaml
+  label: Charthop AI Credit Limit API
+  slug: charthop-ai-credit-limit-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-ai-credit-limit-api-openapi.yml
+- filename: charthop-ai-hint-api-openapi.yml
+  format: yaml
+  label: Charthop AI Hint API
+  slug: charthop-ai-hint-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-ai-hint-api-openapi.yml
+- filename: charthop-ai-prompt-api-openapi.yml
+  format: yaml
+  label: Charthop AI Prompt API
+  slug: charthop-ai-prompt-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-ai-prompt-api-openapi.yml
+- filename: charthop-app-api-openapi.yml
+  format: yaml
+  label: Charthop App API
+  slug: charthop-app-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-app-api-openapi.yml
+- filename: charthop-approval-api-openapi.yml
+  format: yaml
+  label: Charthop Approval API
+  slug: charthop-approval-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-approval-api-openapi.yml
+- filename: charthop-approval-delegate-api-openapi.yml
+  format: yaml
+  label: Charthop Approval Delegate API
+  slug: charthop-approval-delegate-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-approval-delegate-api-openapi.yml
+- filename: charthop-approval-request-api-openapi.yml
+  format: yaml
+  label: Charthop Approval Request API
+  slug: charthop-approval-request-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-approval-request-api-openapi.yml
+- filename: charthop-assessment-api-openapi.yml
+  format: yaml
+  label: Charthop Assessment API
+  slug: charthop-assessment-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-assessment-api-openapi.yml
+- filename: charthop-band-api-openapi.yml
+  format: yaml
+  label: Charthop Band API
+  slug: charthop-band-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-band-api-openapi.yml
+- filename: charthop-billing-api-openapi.yml
+  format: yaml
+  label: Charthop Billing API
+  slug: charthop-billing-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-billing-api-openapi.yml
+- filename: charthop-budget-api-openapi.yml
+  format: yaml
+  label: Charthop Budget API
+  slug: charthop-budget-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-budget-api-openapi.yml
+- filename: charthop-budget-pool-api-openapi.yml
+  format: yaml
+  label: Charthop Budget Pool API
+  slug: charthop-budget-pool-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-budget-pool-api-openapi.yml
+- filename: charthop-calendar-api-openapi.yml
+  format: yaml
+  label: Charthop Calendar API
+  slug: charthop-calendar-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-calendar-api-openapi.yml
+- filename: charthop-category-api-openapi.yml
+  format: yaml
+  label: Charthop Category API
+  slug: charthop-category-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-category-api-openapi.yml
+- filename: charthop-category-sort-api-openapi.yml
+  format: yaml
+  label: Charthop Category Sort API
+  slug: charthop-category-sort-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-category-sort-api-openapi.yml
+- filename: charthop-change-api-openapi.yml
+  format: yaml
+  label: Charthop Change API
+  slug: charthop-change-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-change-api-openapi.yml
+- filename: charthop-comment-api-openapi.yml
+  format: yaml
+  label: Charthop Comment API
+  slug: charthop-comment-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-comment-api-openapi.yml
+- filename: charthop-comp-review-api-openapi.yml
+  format: yaml
+  label: Charthop Comp Review API
+  slug: charthop-comp-review-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-comp-review-api-openapi.yml
+- filename: charthop-content-api-openapi.yml
+  format: yaml
+  label: Charthop Content API
+  slug: charthop-content-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-content-api-openapi.yml
+- filename: charthop-customer-api-openapi.yml
+  format: yaml
+  label: Charthop Customer API
+  slug: charthop-customer-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-customer-api-openapi.yml
+- filename: charthop-data-view-api-openapi.yml
+  format: yaml
+  label: Charthop Data View API
+  slug: charthop-data-view-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-data-view-api-openapi.yml
+- filename: charthop-email-template-api-openapi.yml
+  format: yaml
+  label: Charthop Email Template API
+  slug: charthop-email-template-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-email-template-api-openapi.yml
+- filename: charthop-event-api-openapi.yml
+  format: yaml
+  label: Charthop Event API
+  slug: charthop-event-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-event-api-openapi.yml
+- filename: charthop-exchange-rate-api-openapi.yml
+  format: yaml
+  label: Charthop Exchange Rate API
+  slug: charthop-exchange-rate-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-exchange-rate-api-openapi.yml
+- filename: charthop-export-api-openapi.yml
+  format: yaml
+  label: Charthop Export API
+  slug: charthop-export-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-export-api-openapi.yml
+- filename: charthop-expression-api-openapi.yml
+  format: yaml
+  label: Charthop Expression API
+  slug: charthop-expression-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-expression-api-openapi.yml
+- filename: charthop-field-api-openapi.yml
+  format: yaml
+  label: Charthop Field API
+  slug: charthop-field-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-field-api-openapi.yml
+- filename: charthop-file-api-openapi.yml
+  format: yaml
+  label: Charthop File API
+  slug: charthop-file-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-file-api-openapi.yml
+- filename: charthop-form-api-openapi.yml
+  format: yaml
+  label: Charthop Form API
+  slug: charthop-form-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-form-api-openapi.yml
+- filename: charthop-form-response-api-openapi.yml
+  format: yaml
+  label: Charthop Form Response API
+  slug: charthop-form-response-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-form-response-api-openapi.yml
+- filename: charthop-goal-api-openapi.yml
+  format: yaml
+  label: Charthop Goal API
+  slug: charthop-goal-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-goal-api-openapi.yml
+- filename: charthop-goal-type-api-openapi.yml
+  format: yaml
+  label: Charthop Goal Type API
+  slug: charthop-goal-type-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-goal-type-api-openapi.yml
+- filename: charthop-goalprogress-api-openapi.yml
+  format: yaml
+  label: Charthop Goal Progress API
+  slug: charthop-goalprogress-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-goalprogress-api-openapi.yml
+- filename: charthop-goaltarget-api-openapi.yml
+  format: yaml
+  label: Charthop Goal Target API
+  slug: charthop-goaltarget-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-goaltarget-api-openapi.yml
+- filename: charthop-group-api-openapi.yml
+  format: yaml
+  label: Charthop Group API
+  slug: charthop-group-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-group-api-openapi.yml
+- filename: charthop-group-type-api-openapi.yml
+  format: yaml
+  label: Charthop Group Type API
+  slug: charthop-group-type-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-group-type-api-openapi.yml
+- filename: charthop-guideline-api-openapi.yml
+  format: yaml
+  label: Charthop Guideline API
+  slug: charthop-guideline-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-guideline-api-openapi.yml
+- filename: charthop-import-api-openapi.yml
+  format: yaml
+  label: Charthop Import API
+  slug: charthop-import-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-import-api-openapi.yml
+- filename: charthop-job-api-openapi.yml
+  format: yaml
+  label: Charthop Job API
+  slug: charthop-job-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-job-api-openapi.yml
+- filename: charthop-job-code-api-openapi.yml
+  format: yaml
+  label: Charthop Job Code API
+  slug: charthop-job-code-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-job-code-api-openapi.yml
+- filename: charthop-job-level-api-openapi.yml
+  format: yaml
+  label: Charthop Job Level API
+  slug: charthop-job-level-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-job-level-api-openapi.yml
+- filename: charthop-legaldoc-api-openapi.yml
+  format: yaml
+  label: Charthop Legal Doc API
+  slug: charthop-legaldoc-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-legaldoc-api-openapi.yml
+- filename: charthop-mcp-api-openapi.yml
+  format: yaml
+  label: Charthop MCP API
+  slug: charthop-mcp-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-mcp-api-openapi.yml
+- filename: charthop-media-api-openapi.yml
+  format: yaml
+  label: Charthop Media API
+  slug: charthop-media-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-media-api-openapi.yml
+- filename: charthop-message-api-openapi.yml
+  format: yaml
+  label: Charthop Message API
+  slug: charthop-message-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-message-api-openapi.yml
+- filename: charthop-metric-api-openapi.yml
+  format: yaml
+  label: Charthop Metric API
+  slug: charthop-metric-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-metric-api-openapi.yml
+- filename: charthop-multiplier-api-openapi.yml
+  format: yaml
+  label: Charthop Multiplier API
+  slug: charthop-multiplier-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-multiplier-api-openapi.yml
+- filename: charthop-notification-api-openapi.yml
+  format: yaml
+  label: Charthop Notification API
+  slug: charthop-notification-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-notification-api-openapi.yml
+- filename: charthop-org-api-openapi.yml
+  format: yaml
+  label: Charthop Org API
+  slug: charthop-org-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-org-api-openapi.yml
+- filename: charthop-org-config-api-openapi.yml
+  format: yaml
+  label: Charthop Org Config API
+  slug: charthop-org-config-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-org-config-api-openapi.yml
+- filename: charthop-person-api-openapi.yml
+  format: yaml
+  label: Charthop Person API
+  slug: charthop-person-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-person-api-openapi.yml
+- filename: charthop-policy-api-openapi.yml
+  format: yaml
+  label: Charthop Policy API
+  slug: charthop-policy-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-policy-api-openapi.yml
+- filename: charthop-preload-api-openapi.yml
+  format: yaml
+  label: Charthop Preload API
+  slug: charthop-preload-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-preload-api-openapi.yml
+- filename: charthop-process-api-openapi.yml
+  format: yaml
+  label: Charthop Process API
+  slug: charthop-process-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-process-api-openapi.yml
+- filename: charthop-product-api-openapi.yml
+  format: yaml
+  label: Charthop Product API
+  slug: charthop-product-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-product-api-openapi.yml
+- filename: charthop-profile-tab-api-openapi.yml
+  format: yaml
+  label: Charthop Profile Tab API
+  slug: charthop-profile-tab-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-profile-tab-api-openapi.yml
+- filename: charthop-query-api-openapi.yml
+  format: yaml
+  label: Charthop Query API
+  slug: charthop-query-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-query-api-openapi.yml
+- filename: charthop-question-api-openapi.yml
+  format: yaml
+  label: Charthop Question API
+  slug: charthop-question-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-question-api-openapi.yml
+- filename: charthop-report-api-openapi.yml
+  format: yaml
+  label: Charthop Report API
+  slug: charthop-report-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-report-api-openapi.yml
+- filename: charthop-reportchart-api-openapi.yml
+  format: yaml
+  label: Charthop Report Chart API
+  slug: charthop-reportchart-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-reportchart-api-openapi.yml
+- filename: charthop-role-api-openapi.yml
+  format: yaml
+  label: Charthop Role API
+  slug: charthop-role-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-role-api-openapi.yml
+- filename: charthop-saml-api-openapi.yml
+  format: yaml
+  label: Charthop Saml API
+  slug: charthop-saml-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-saml-api-openapi.yml
+- filename: charthop-scenario-api-openapi.yml
+  format: yaml
+  label: Charthop Scenario API
+  slug: charthop-scenario-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-scenario-api-openapi.yml
+- filename: charthop-search-api-openapi.yml
+  format: yaml
+  label: Charthop Search API
+  slug: charthop-search-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-search-api-openapi.yml
+- filename: charthop-signature-request-api-openapi.yml
+  format: yaml
+  label: Charthop Signature Request API
+  slug: charthop-signature-request-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-signature-request-api-openapi.yml
+- filename: charthop-status-api-openapi.yml
+  format: yaml
+  label: Charthop Status API
+  slug: charthop-status-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-status-api-openapi.yml
+- filename: charthop-stock-api-openapi.yml
+  format: yaml
+  label: Charthop Stock API
+  slug: charthop-stock-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-stock-api-openapi.yml
+- filename: charthop-stockgrant-api-openapi.yml
+  format: yaml
+  label: Charthop Stockgrant API
+  slug: charthop-stockgrant-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-stockgrant-api-openapi.yml
+- filename: charthop-stripe-api-openapi.yml
+  format: yaml
+  label: Charthop Stripe API
+  slug: charthop-stripe-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-stripe-api-openapi.yml
+- filename: charthop-table-api-openapi.yml
+  format: yaml
+  label: Charthop Table API
+  slug: charthop-table-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-table-api-openapi.yml
+- filename: charthop-task-api-openapi.yml
+  format: yaml
+  label: Charthop Task API
+  slug: charthop-task-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-task-api-openapi.yml
+- filename: charthop-task-config-api-openapi.yml
+  format: yaml
+  label: Charthop Task Config API
+  slug: charthop-task-config-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-task-config-api-openapi.yml
+- filename: charthop-template-api-openapi.yml
+  format: yaml
+  label: Charthop Template API
+  slug: charthop-template-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-template-api-openapi.yml
+- filename: charthop-time-off-ledger-api-openapi.yml
+  format: yaml
+  label: Charthop Time off ledger API
+  slug: charthop-time-off-ledger-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-time-off-ledger-api-openapi.yml
+- filename: charthop-timeoffadjustment-api-openapi.yml
+  format: yaml
+  label: Charthop Timeoff Adjustment API
+  slug: charthop-timeoffadjustment-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-timeoffadjustment-api-openapi.yml
+- filename: charthop-timeoffpolicy-api-openapi.yml
+  format: yaml
+  label: Charthop Time Off Policy API
+  slug: charthop-timeoffpolicy-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-timeoffpolicy-api-openapi.yml
+- filename: charthop-transcript-api-openapi.yml
+  format: yaml
+  label: Charthop Transcript API
+  slug: charthop-transcript-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-transcript-api-openapi.yml
+- filename: charthop-usage-api-openapi.yml
+  format: yaml
+  label: Charthop Usage API
+  slug: charthop-usage-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-usage-api-openapi.yml
+- filename: charthop-user-api-openapi.yml
+  format: yaml
+  label: Charthop User API
+  slug: charthop-user-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-user-api-openapi.yml
+- filename: charthop-webauthn-api-openapi.yml
+  format: yaml
+  label: Charthop Webauthn API
+  slug: charthop-webauthn-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-webauthn-api-openapi.yml
+- filename: charthop-well-known-api-openapi.yml
+  format: yaml
+  label: Charthop Well Known API
+  slug: charthop-well-known-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-well-known-api-openapi.yml
+- filename: charthop-oauth-api-openapi.yml
+  format: yaml
+  label: Charthop OAUTH API
+  slug: charthop-oauth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-oauth-api-openapi.yml
+- filename: charthop-app-config-api-openapi.yml
+  format: yaml
+  label: Charthop App Config API
+  slug: charthop-app-config-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-app-config-api-openapi.yml
+- filename: charthop-time-off-api-openapi.yml
+  format: yaml
+  label: Charthop Time Off API
+  slug: charthop-time-off-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/charthop/openapi/charthop-time-off-api-openapi.yml
+claim_count: 12
+description: ''
+doc:
+  data_categories:
+  - category: contact
+    text: name, email address, and company name
+  - category: financial
+    text: organizational data such as compensation or performance review data
+  - category: device
+    text: Non-personally identifying information, such as your web browser version, your IP address, and the website you clicked from
+  - category: behavioral
+    text: a record of the specific query that the user requested
+  deletion:
+    route: null
+    text: null
+  dpa:
+    available: null
+    text: null
+    url: null
+  purposes:
+  - purpose: marketing and sales follow-up
+    text: We use this information to understand and evaluate the success of our marketing and sales efforts, and follow up with potential customers, including via email.
+  - purpose: providing the platform
+    text: We use Customer Data to serve and provide the platform to Customers, including understanding usage of our product and making improvements to all of the features above.
+  retention:
+  - period: 7 days
+    scope: Access Log
+    text: the third party deletes the log after our standard retention period (currently 7 days)
+  - period: as long as a Customer has an account
+    scope: Change Log
+    text: is stored in our own secure database as long as a Customer has an account
+  rights:
+  - right: unsubscribe from marketing emails
+    text: To unsubscribe from our emails, click the link in the footer of the email.
+  - right: removal from marketing database
+    text: Send us an email at privacy@charthop.com and we will remove it.
+  role:
+    text: Under GDPR, when it comes to our Customer Data, ChartHop is considered the Data Processor, and our Customers are the Data Controllers.
+    value: both
+  sale_or_sharing:
+    stance: prohibited
+    text: Our business model is not based on reselling or sharing private data.
+  subprocessors:
+    text: null
+    url: null
+layer: privacy_policy
+layer_version: 0.1.0
+layout: privacy
+method: harvested
+model: claude-haiku-5-5
+name: Charthop
+provenance_date: '2026-11-09'
+provider_name: Charthop
+provider_slug: charthop
+slug: charthop-privacy-policy
+source_date: '2026-11-09'
+source_filename: charthop-privacy-policy.yml
+source_heading: Privacy Policy
+source_page: https://www.charthop.com/privacy-policy
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\nprivacy_policy: 0.1.0\nprovider: Charthop\naid: charthop\nurl: https://www.charthop.com/privacy-policy\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\nrole:\n  value: both\n  text: Under GDPR, when it comes to our Customer Data, ChartHop is considered the Data Processor, and our Customers\n    are the Data Controllers.\ndata_categories:\n- category: contact\n  text: name, email address, and company name\n- category: financial\n  text: organizational data such as compensation or performance review data\n- category: device\n  text: Non-personally identifying information, such as your web browser version, your IP address, and the website\n    you clicked from\n\
+  - category: behavioral\n  text: a record of the specific query that the user requested\npurposes:\n- purpose: marketing and sales follow-up\n  text: We use this information to understand and evaluate the success of our marketing and sales efforts, and follow\n    up with potential customers, including via email.\n- purpose: providing the platform\n  text: We use Customer Data to serve and provide the platform to Customers, including understanding usage of our\n    product and making improvements to all of the features above.\nretention:\n- scope: Access Log\n  period: 7 days\n  text: the third party deletes the log after our standard retention period (currently 7 days)\n- scope: Change Log\n  period: as long as a Customer has an account\n  text: is stored in our own secure database as long as a Customer has an account\nresidency: []\ntransfers: []\nsubprocessors:\n  url: null\n  text: null\ndpa:\n  available: null\n  url: null\n  text: null\ndeletion:\n  route: null\n  text: null\nrights:\n\
+  - right: unsubscribe from marketing emails\n  text: To unsubscribe from our emails, click the link in the footer of the email.\n- right: removal from marketing database\n  text: Send us an email at privacy@charthop.com and we will remove it.\nsale_or_sharing:\n  stance: prohibited\n  text: Our business model is not based on reselling or sharing private data.\n"
+source_yaml_url: https://artifacts.apis.io/charthop/privacy/charthop-privacy-policy.yml
+stated_fields:
+- role
+- data_categories
+- purposes
+- retention
+- rights
+- sale_or_sharing
+summary_line: 12 quoted statements, read from Charthop's own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- Human Resources
+- People Analytics
+- HRIS
+- Workforce Planning
+- Compensation
+- Org Chart
+- MCP
+---

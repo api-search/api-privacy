@@ -83,6 +83,6 @@ tags:
 - Home Improvement
 - Building Permits
 - Public Records
-- Model Context Protocol
+- MCP
 - Real Estate
 ---

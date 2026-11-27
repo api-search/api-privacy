@@ -104,6 +104,6 @@ tags:
 - Manufacturing
 - Pricing
 - CRM
-- Inventory Management
+- Inventory
 - MCP
 ---

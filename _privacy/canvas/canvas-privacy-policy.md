@@ -1,0 +1,973 @@
+---
+api_specs:
+- filename: canvas-courses-api-openapi.yml
+  format: yaml
+  label: Canvas Courses API
+  slug: canvas-courses-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-courses-api-openapi.yml
+- filename: canvas-access-tokens-api-openapi.yml
+  format: yaml
+  label: Canvas Access Tokens API
+  slug: canvas-access-tokens-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-access-tokens-api-openapi.yml
+- filename: canvas-accessibility-course-scans-api-openapi.yml
+  format: yaml
+  label: Canvas Accessibility Course Scans API
+  slug: canvas-accessibility-course-scans-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-accessibility-course-scans-api-openapi.yml
+- filename: canvas-accessibility-course-statistics-api-openapi.yml
+  format: yaml
+  label: Canvas Accessibility Course Statistics API
+  slug: canvas-accessibility-course-statistics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-accessibility-course-statistics-api-openapi.yml
+- filename: canvas-account-calendars-api-openapi.yml
+  format: yaml
+  label: Canvas Account Calendars API
+  slug: canvas-account-calendars-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-account-calendars-api-openapi.yml
+- filename: canvas-account-domain-lookups-api-openapi.yml
+  format: yaml
+  label: Canvas Account Domain Lookups API
+  slug: canvas-account-domain-lookups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-account-domain-lookups-api-openapi.yml
+- filename: canvas-account-notifications-api-openapi.yml
+  format: yaml
+  label: Canvas Account Notifications API
+  slug: canvas-account-notifications-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-account-notifications-api-openapi.yml
+- filename: canvas-account-reports-api-openapi.yml
+  format: yaml
+  label: Canvas Account Reports API
+  slug: canvas-account-reports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-account-reports-api-openapi.yml
+- filename: canvas-accounts-api-openapi.yml
+  format: yaml
+  label: Canvas Accounts API
+  slug: canvas-accounts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-accounts-api-openapi.yml
+- filename: canvas-accounts-lti-api-openapi.yml
+  format: yaml
+  label: Canvas Accounts (Lti) API
+  slug: canvas-accounts-lti-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-accounts-lti-api-openapi.yml
+- filename: canvas-admins-api-openapi.yml
+  format: yaml
+  label: Canvas Admins API
+  slug: canvas-admins-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-admins-api-openapi.yml
+- filename: canvas-ai-conversations-api-openapi.yml
+  format: yaml
+  label: Canvas Ai Conversations API
+  slug: canvas-ai-conversations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-ai-conversations-api-openapi.yml
+- filename: canvas-ai-experiences-api-openapi.yml
+  format: yaml
+  label: Canvas Ai Experiences API
+  slug: canvas-ai-experiences-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-ai-experiences-api-openapi.yml
+- filename: canvas-analytics-api-openapi.yml
+  format: yaml
+  label: Canvas Analytics API
+  slug: canvas-analytics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-analytics-api-openapi.yml
+- filename: canvas-announcement-external-feeds-api-openapi.yml
+  format: yaml
+  label: Canvas Announcement External Feeds API
+  slug: canvas-announcement-external-feeds-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-announcement-external-feeds-api-openapi.yml
+- filename: canvas-announcements-api-openapi.yml
+  format: yaml
+  label: Canvas Announcements API
+  slug: canvas-announcements-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-announcements-api-openapi.yml
+- filename: canvas-api-token-scopes-api-openapi.yml
+  format: yaml
+  label: Canvas Api Token Scopes API
+  slug: canvas-api-token-scopes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-api-token-scopes-api-openapi.yml
+- filename: canvas-appointment-groups-api-openapi.yml
+  format: yaml
+  label: Canvas Appointment Groups API
+  slug: canvas-appointment-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-appointment-groups-api-openapi.yml
+- filename: canvas-assessment-question-banks-api-openapi.yml
+  format: yaml
+  label: Canvas Assessment Question Banks API
+  slug: canvas-assessment-question-banks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-assessment-question-banks-api-openapi.yml
+- filename: canvas-asset-processor-api-openapi.yml
+  format: yaml
+  label: Canvas Asset Processor API
+  slug: canvas-asset-processor-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-asset-processor-api-openapi.yml
+- filename: canvas-assignment-extensions-api-openapi.yml
+  format: yaml
+  label: Canvas Assignment Extensions API
+  slug: canvas-assignment-extensions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-assignment-extensions-api-openapi.yml
+- filename: canvas-assignment-groups-api-openapi.yml
+  format: yaml
+  label: Canvas Assignment Groups API
+  slug: canvas-assignment-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-assignment-groups-api-openapi.yml
+- filename: canvas-assignments-api-openapi.yml
+  format: yaml
+  label: Canvas Assignments API
+  slug: canvas-assignments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-assignments-api-openapi.yml
+- filename: canvas-authentication-providers-api-openapi.yml
+  format: yaml
+  label: Canvas Authentication Providers API
+  slug: canvas-authentication-providers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-authentication-providers-api-openapi.yml
+- filename: canvas-authentications-log-api-openapi.yml
+  format: yaml
+  label: Canvas Authentications Log API
+  slug: canvas-authentications-log-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-authentications-log-api-openapi.yml
+- filename: canvas-blackout-dates-api-openapi.yml
+  format: yaml
+  label: Canvas Blackout Dates API
+  slug: canvas-blackout-dates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-blackout-dates-api-openapi.yml
+- filename: canvas-block-editor-template-api-openapi.yml
+  format: yaml
+  label: Canvas Block Editor Template API
+  slug: canvas-block-editor-template-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-block-editor-template-api-openapi.yml
+- filename: canvas-blueprint-courses-api-openapi.yml
+  format: yaml
+  label: Canvas Blueprint Courses API
+  slug: canvas-blueprint-courses-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-blueprint-courses-api-openapi.yml
+- filename: canvas-bookmarks-api-openapi.yml
+  format: yaml
+  label: Canvas Bookmarks API
+  slug: canvas-bookmarks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-bookmarks-api-openapi.yml
+- filename: canvas-brand-configs-api-openapi.yml
+  format: yaml
+  label: Canvas Brand Configs API
+  slug: canvas-brand-configs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-brand-configs-api-openapi.yml
+- filename: canvas-calendar-events-api-openapi.yml
+  format: yaml
+  label: Canvas Calendar Events API
+  slug: canvas-calendar-events-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-calendar-events-api-openapi.yml
+- filename: canvas-canvas-career-experiences-api-openapi.yml
+  format: yaml
+  label: Canvas Canvas Career Experiences API
+  slug: canvas-canvas-career-experiences-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-canvas-career-experiences-api-openapi.yml
+- filename: canvas-canvas-career-user-context-api-openapi.yml
+  format: yaml
+  label: Canvas Canvas Career User Context API
+  slug: canvas-canvas-career-user-context-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-canvas-career-user-context-api-openapi.yml
+- filename: canvas-collaborations-api-openapi.yml
+  format: yaml
+  label: Canvas Collaborations API
+  slug: canvas-collaborations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-collaborations-api-openapi.yml
+- filename: canvas-comm-messages-api-openapi.yml
+  format: yaml
+  label: Canvas Comm Messages API
+  slug: canvas-comm-messages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-comm-messages-api-openapi.yml
+- filename: canvas-communication-channels-api-openapi.yml
+  format: yaml
+  label: Canvas Communication Channels API
+  slug: canvas-communication-channels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-communication-channels-api-openapi.yml
+- filename: canvas-conferences-api-openapi.yml
+  format: yaml
+  label: Canvas Conferences API
+  slug: canvas-conferences-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-conferences-api-openapi.yml
+- filename: canvas-content-exports-api-openapi.yml
+  format: yaml
+  label: Canvas Content Exports API
+  slug: canvas-content-exports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-content-exports-api-openapi.yml
+- filename: canvas-content-migrations-api-openapi.yml
+  format: yaml
+  label: Canvas Content Migrations API
+  slug: canvas-content-migrations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-content-migrations-api-openapi.yml
+- filename: canvas-content-security-policy-settings-api-openapi.yml
+  format: yaml
+  label: Canvas Content Security Policy Settings API
+  slug: canvas-content-security-policy-settings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-content-security-policy-settings-api-openapi.yml
+- filename: canvas-content-shares-api-openapi.yml
+  format: yaml
+  label: Canvas Content Shares API
+  slug: canvas-content-shares-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-content-shares-api-openapi.yml
+- filename: canvas-conversations-api-openapi.yml
+  format: yaml
+  label: Canvas Conversations API
+  slug: canvas-conversations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-conversations-api-openapi.yml
+- filename: canvas-course-audit-log-api-openapi.yml
+  format: yaml
+  label: Canvas Course Audit Log API
+  slug: canvas-course-audit-log-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-course-audit-log-api-openapi.yml
+- filename: canvas-course-pace-api-openapi.yml
+  format: yaml
+  label: Canvas Course Pace API
+  slug: canvas-course-pace-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-course-pace-api-openapi.yml
+- filename: canvas-course-quiz-extensions-api-openapi.yml
+  format: yaml
+  label: Canvas Course Quiz Extensions API
+  slug: canvas-course-quiz-extensions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-course-quiz-extensions-api-openapi.yml
+- filename: canvas-course-reports-api-openapi.yml
+  format: yaml
+  label: Canvas Course Reports API
+  slug: canvas-course-reports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-course-reports-api-openapi.yml
+- filename: canvas-custom-gradebook-columns-api-openapi.yml
+  format: yaml
+  label: Canvas Custom Gradebook Columns API
+  slug: canvas-custom-gradebook-columns-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-custom-gradebook-columns-api-openapi.yml
+- filename: canvas-developer-key-account-bindings-api-openapi.yml
+  format: yaml
+  label: Canvas Developer Key Account Bindings API
+  slug: canvas-developer-key-account-bindings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-developer-key-account-bindings-api-openapi.yml
+- filename: canvas-developer-keys-api-openapi.yml
+  format: yaml
+  label: Canvas Developer Keys API
+  slug: canvas-developer-keys-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-developer-keys-api-openapi.yml
+- filename: canvas-discovery-pages-api-openapi.yml
+  format: yaml
+  label: Canvas Discovery Pages API
+  slug: canvas-discovery-pages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-discovery-pages-api-openapi.yml
+- filename: canvas-discussion-topics-api-openapi.yml
+  format: yaml
+  label: Canvas Discussion Topics API
+  slug: canvas-discussion-topics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-discussion-topics-api-openapi.yml
+- filename: canvas-e-portfolios-api-openapi.yml
+  format: yaml
+  label: Canvas E Portfolios API
+  slug: canvas-e-portfolios-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-e-portfolios-api-openapi.yml
+- filename: canvas-e-pub-exports-api-openapi.yml
+  format: yaml
+  label: Canvas E Pub Exports API
+  slug: canvas-e-pub-exports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-e-pub-exports-api-openapi.yml
+- filename: canvas-enrollment-terms-api-openapi.yml
+  format: yaml
+  label: Canvas Enrollment Terms API
+  slug: canvas-enrollment-terms-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-enrollment-terms-api-openapi.yml
+- filename: canvas-enrollments-api-openapi.yml
+  format: yaml
+  label: Canvas Enrollments API
+  slug: canvas-enrollments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-enrollments-api-openapi.yml
+- filename: canvas-error-reports-api-openapi.yml
+  format: yaml
+  label: Canvas Error Reports API
+  slug: canvas-error-reports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-error-reports-api-openapi.yml
+- filename: canvas-external-tools-api-openapi.yml
+  format: yaml
+  label: Canvas External Tools API
+  slug: canvas-external-tools-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-external-tools-api-openapi.yml
+- filename: canvas-favorites-api-openapi.yml
+  format: yaml
+  label: Canvas Favorites API
+  slug: canvas-favorites-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-favorites-api-openapi.yml
+- filename: canvas-feature-flags-api-openapi.yml
+  format: yaml
+  label: Canvas Feature Flags API
+  slug: canvas-feature-flags-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-feature-flags-api-openapi.yml
+- filename: canvas-files-api-openapi.yml
+  format: yaml
+  label: Canvas Files API
+  slug: canvas-files-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-files-api-openapi.yml
+- filename: canvas-grade-change-log-api-openapi.yml
+  format: yaml
+  label: Canvas Grade Change Log API
+  slug: canvas-grade-change-log-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-grade-change-log-api-openapi.yml
+- filename: canvas-gradebook-history-api-openapi.yml
+  format: yaml
+  label: Canvas Gradebook History API
+  slug: canvas-gradebook-history-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-gradebook-history-api-openapi.yml
+- filename: canvas-grading-period-sets-api-openapi.yml
+  format: yaml
+  label: Canvas Grading Period Sets API
+  slug: canvas-grading-period-sets-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-grading-period-sets-api-openapi.yml
+- filename: canvas-grading-periods-api-openapi.yml
+  format: yaml
+  label: Canvas Grading Periods API
+  slug: canvas-grading-periods-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-grading-periods-api-openapi.yml
+- filename: canvas-grading-standards-api-openapi.yml
+  format: yaml
+  label: Canvas Grading Standards API
+  slug: canvas-grading-standards-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-grading-standards-api-openapi.yml
+- filename: canvas-group-categories-api-openapi.yml
+  format: yaml
+  label: Canvas Group Categories API
+  slug: canvas-group-categories-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-group-categories-api-openapi.yml
+- filename: canvas-groups-api-openapi.yml
+  format: yaml
+  label: Canvas Groups API
+  slug: canvas-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-groups-api-openapi.yml
+- filename: canvas-history-api-openapi.yml
+  format: yaml
+  label: Canvas History API
+  slug: canvas-history-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-history-api-openapi.yml
+- filename: canvas-inst-access-tokens-api-openapi.yml
+  format: yaml
+  label: Canvas Inst Access Tokens API
+  slug: canvas-inst-access-tokens-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-inst-access-tokens-api-openapi.yml
+- filename: canvas-late-policy-api-openapi.yml
+  format: yaml
+  label: Canvas Late Policy API
+  slug: canvas-late-policy-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-late-policy-api-openapi.yml
+- filename: canvas-learning-object-dates-api-openapi.yml
+  format: yaml
+  label: Canvas Learning Object Dates API
+  slug: canvas-learning-object-dates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-learning-object-dates-api-openapi.yml
+- filename: canvas-line-items-api-openapi.yml
+  format: yaml
+  label: Canvas Line Items API
+  slug: canvas-line-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-line-items-api-openapi.yml
+- filename: canvas-live-assessments-api-openapi.yml
+  format: yaml
+  label: Canvas Live Assessments API
+  slug: canvas-live-assessments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-live-assessments-api-openapi.yml
+- filename: canvas-logins-api-openapi.yml
+  format: yaml
+  label: Canvas Logins API
+  slug: canvas-logins-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-logins-api-openapi.yml
+- filename: canvas-lti-context-controls-api-openapi.yml
+  format: yaml
+  label: Canvas Lti Context Controls API
+  slug: canvas-lti-context-controls-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-lti-context-controls-api-openapi.yml
+- filename: canvas-lti-launch-definitions-api-openapi.yml
+  format: yaml
+  label: Canvas Lti Launch Definitions API
+  slug: canvas-lti-launch-definitions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-lti-launch-definitions-api-openapi.yml
+- filename: canvas-lti-registrations-api-openapi.yml
+  format: yaml
+  label: Canvas Lti Registrations API
+  slug: canvas-lti-registrations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-lti-registrations-api-openapi.yml
+- filename: canvas-lti-resource-links-api-openapi.yml
+  format: yaml
+  label: Canvas Lti Resource Links API
+  slug: canvas-lti-resource-links-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-lti-resource-links-api-openapi.yml
+- filename: canvas-media-objects-api-openapi.yml
+  format: yaml
+  label: Canvas Media Objects API
+  slug: canvas-media-objects-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-media-objects-api-openapi.yml
+- filename: canvas-moderated-grading-api-openapi.yml
+  format: yaml
+  label: Canvas Moderated Grading API
+  slug: canvas-moderated-grading-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-moderated-grading-api-openapi.yml
+- filename: canvas-modules-api-openapi.yml
+  format: yaml
+  label: Canvas Modules API
+  slug: canvas-modules-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-modules-api-openapi.yml
+- filename: canvas-names-and-role-api-openapi.yml
+  format: yaml
+  label: Canvas Names And Role API
+  slug: canvas-names-and-role-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-names-and-role-api-openapi.yml
+- filename: canvas-new-quiz-items-api-openapi.yml
+  format: yaml
+  label: Canvas New Quiz Items API
+  slug: canvas-new-quiz-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-new-quiz-items-api-openapi.yml
+- filename: canvas-new-quizzes-accommodations-api-openapi.yml
+  format: yaml
+  label: Canvas New Quizzes Accommodations API
+  slug: canvas-new-quizzes-accommodations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-new-quizzes-accommodations-api-openapi.yml
+- filename: canvas-new-quizzes-api-openapi.yml
+  format: yaml
+  label: Canvas New Quizzes API
+  slug: canvas-new-quizzes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-new-quizzes-api-openapi.yml
+- filename: canvas-new-quizzes-reports-api-openapi.yml
+  format: yaml
+  label: Canvas New Quizzes Reports API
+  slug: canvas-new-quizzes-reports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-new-quizzes-reports-api-openapi.yml
+- filename: canvas-notice-handlers-api-openapi.yml
+  format: yaml
+  label: Canvas Notice Handlers API
+  slug: canvas-notice-handlers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-notice-handlers-api-openapi.yml
+- filename: canvas-notification-preferences-api-openapi.yml
+  format: yaml
+  label: Canvas Notification Preferences API
+  slug: canvas-notification-preferences-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-notification-preferences-api-openapi.yml
+- filename: canvas-originality-reports-api-openapi.yml
+  format: yaml
+  label: Canvas Originality Reports API
+  slug: canvas-originality-reports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-originality-reports-api-openapi.yml
+- filename: canvas-outcome-groups-api-openapi.yml
+  format: yaml
+  label: Canvas Outcome Groups API
+  slug: canvas-outcome-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-outcome-groups-api-openapi.yml
+- filename: canvas-outcome-imports-api-openapi.yml
+  format: yaml
+  label: Canvas Outcome Imports API
+  slug: canvas-outcome-imports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-outcome-imports-api-openapi.yml
+- filename: canvas-outcome-results-api-openapi.yml
+  format: yaml
+  label: Canvas Outcome Results API
+  slug: canvas-outcome-results-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-outcome-results-api-openapi.yml
+- filename: canvas-outcomes-api-openapi.yml
+  format: yaml
+  label: Canvas Outcomes API
+  slug: canvas-outcomes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-outcomes-api-openapi.yml
+- filename: canvas-pages-api-openapi.yml
+  format: yaml
+  label: Canvas Pages API
+  slug: canvas-pages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-pages-api-openapi.yml
+- filename: canvas-peer-reviews-api-openapi.yml
+  format: yaml
+  label: Canvas Peer Reviews API
+  slug: canvas-peer-reviews-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-peer-reviews-api-openapi.yml
+- filename: canvas-plagiarism-detection-platform-assignments-api-openapi.yml
+  format: yaml
+  label: Canvas Plagiarism Detection Platform Assignments API
+  slug: canvas-plagiarism-detection-platform-assignments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-plagiarism-detection-platform-assignments-api-openapi.yml
+- filename: canvas-plagiarism-detection-platform-users-api-openapi.yml
+  format: yaml
+  label: Canvas Plagiarism Detection Platform Users API
+  slug: canvas-plagiarism-detection-platform-users-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-plagiarism-detection-platform-users-api-openapi.yml
+- filename: canvas-plagiarism-detection-submissions-api-openapi.yml
+  format: yaml
+  label: Canvas Plagiarism Detection Submissions API
+  slug: canvas-plagiarism-detection-submissions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-plagiarism-detection-submissions-api-openapi.yml
+- filename: canvas-planner-api-openapi.yml
+  format: yaml
+  label: Canvas Planner API
+  slug: canvas-planner-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-planner-api-openapi.yml
+- filename: canvas-poll-choices-api-openapi.yml
+  format: yaml
+  label: Canvas Poll Choices API
+  slug: canvas-poll-choices-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-poll-choices-api-openapi.yml
+- filename: canvas-poll-sessions-api-openapi.yml
+  format: yaml
+  label: Canvas Poll Sessions API
+  slug: canvas-poll-sessions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-poll-sessions-api-openapi.yml
+- filename: canvas-poll-submissions-api-openapi.yml
+  format: yaml
+  label: Canvas Poll Submissions API
+  slug: canvas-poll-submissions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-poll-submissions-api-openapi.yml
+- filename: canvas-polls-api-openapi.yml
+  format: yaml
+  label: Canvas Polls API
+  slug: canvas-polls-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-polls-api-openapi.yml
+- filename: canvas-portfolio-notifications-api-openapi.yml
+  format: yaml
+  label: Canvas Portfolio Notifications API
+  slug: canvas-portfolio-notifications-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-portfolio-notifications-api-openapi.yml
+- filename: canvas-proficiency-ratings-api-openapi.yml
+  format: yaml
+  label: Canvas Proficiency Ratings API
+  slug: canvas-proficiency-ratings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-proficiency-ratings-api-openapi.yml
+- filename: canvas-progress-api-openapi.yml
+  format: yaml
+  label: Canvas Progress API
+  slug: canvas-progress-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-progress-api-openapi.yml
+- filename: canvas-public-jwk-api-openapi.yml
+  format: yaml
+  label: Canvas Public Jwk API
+  slug: canvas-public-jwk-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-public-jwk-api-openapi.yml
+- filename: canvas-quiz-assignment-overrides-api-openapi.yml
+  format: yaml
+  label: Canvas Quiz Assignment Overrides API
+  slug: canvas-quiz-assignment-overrides-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-quiz-assignment-overrides-api-openapi.yml
+- filename: canvas-quiz-extensions-api-openapi.yml
+  format: yaml
+  label: Canvas Quiz Extensions API
+  slug: canvas-quiz-extensions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-quiz-extensions-api-openapi.yml
+- filename: canvas-quiz-ip-filters-api-openapi.yml
+  format: yaml
+  label: Canvas Quiz Ip Filters API
+  slug: canvas-quiz-ip-filters-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-quiz-ip-filters-api-openapi.yml
+- filename: canvas-quiz-question-groups-api-openapi.yml
+  format: yaml
+  label: Canvas Quiz Question Groups API
+  slug: canvas-quiz-question-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-quiz-question-groups-api-openapi.yml
+- filename: canvas-quiz-questions-api-openapi.yml
+  format: yaml
+  label: Canvas Quiz Questions API
+  slug: canvas-quiz-questions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-quiz-questions-api-openapi.yml
+- filename: canvas-quiz-reports-api-openapi.yml
+  format: yaml
+  label: Canvas Quiz Reports API
+  slug: canvas-quiz-reports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-quiz-reports-api-openapi.yml
+- filename: canvas-quiz-statistics-api-openapi.yml
+  format: yaml
+  label: Canvas Quiz Statistics API
+  slug: canvas-quiz-statistics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-quiz-statistics-api-openapi.yml
+- filename: canvas-quiz-submission-events-api-openapi.yml
+  format: yaml
+  label: Canvas Quiz Submission Events API
+  slug: canvas-quiz-submission-events-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-quiz-submission-events-api-openapi.yml
+- filename: canvas-quiz-submission-files-api-openapi.yml
+  format: yaml
+  label: Canvas Quiz Submission Files API
+  slug: canvas-quiz-submission-files-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-quiz-submission-files-api-openapi.yml
+- filename: canvas-quiz-submission-questions-api-openapi.yml
+  format: yaml
+  label: Canvas Quiz Submission Questions API
+  slug: canvas-quiz-submission-questions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-quiz-submission-questions-api-openapi.yml
+- filename: canvas-quiz-submission-user-list-api-openapi.yml
+  format: yaml
+  label: Canvas Quiz Submission User List API
+  slug: canvas-quiz-submission-user-list-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-quiz-submission-user-list-api-openapi.yml
+- filename: canvas-quiz-submissions-api-openapi.yml
+  format: yaml
+  label: Canvas Quiz Submissions API
+  slug: canvas-quiz-submissions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-quiz-submissions-api-openapi.yml
+- filename: canvas-quizzes-api-openapi.yml
+  format: yaml
+  label: Canvas Quizzes API
+  slug: canvas-quizzes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-quizzes-api-openapi.yml
+- filename: canvas-result-api-openapi.yml
+  format: yaml
+  label: Canvas Result API
+  slug: canvas-result-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-result-api-openapi.yml
+- filename: canvas-roles-api-openapi.yml
+  format: yaml
+  label: Canvas Roles API
+  slug: canvas-roles-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-roles-api-openapi.yml
+- filename: canvas-rubrics-api-openapi.yml
+  format: yaml
+  label: Canvas Rubrics API
+  slug: canvas-rubrics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-rubrics-api-openapi.yml
+- filename: canvas-sandboxes-api-openapi.yml
+  format: yaml
+  label: Canvas Sandboxes API
+  slug: canvas-sandboxes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-sandboxes-api-openapi.yml
+- filename: canvas-score-api-openapi.yml
+  format: yaml
+  label: Canvas Score API
+  slug: canvas-score-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-score-api-openapi.yml
+- filename: canvas-search-api-openapi.yml
+  format: yaml
+  label: Canvas Search API
+  slug: canvas-search-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-search-api-openapi.yml
+- filename: canvas-sections-api-openapi.yml
+  format: yaml
+  label: Canvas Sections API
+  slug: canvas-sections-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-sections-api-openapi.yml
+- filename: canvas-services-api-openapi.yml
+  format: yaml
+  label: Canvas Services API
+  slug: canvas-services-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-services-api-openapi.yml
+- filename: canvas-shared-brand-configs-api-openapi.yml
+  format: yaml
+  label: Canvas Shared Brand Configs API
+  slug: canvas-shared-brand-configs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-shared-brand-configs-api-openapi.yml
+- filename: canvas-sis-import-errors-api-openapi.yml
+  format: yaml
+  label: Canvas Sis Import Errors API
+  slug: canvas-sis-import-errors-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-sis-import-errors-api-openapi.yml
+- filename: canvas-sis-imports-api-openapi.yml
+  format: yaml
+  label: Canvas Sis Imports API
+  slug: canvas-sis-imports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-sis-imports-api-openapi.yml
+- filename: canvas-sis-integration-api-openapi.yml
+  format: yaml
+  label: Canvas Sis Integration API
+  slug: canvas-sis-integration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-sis-integration-api-openapi.yml
+- filename: canvas-smart-search-api-openapi.yml
+  format: yaml
+  label: Canvas Smart Search API
+  slug: canvas-smart-search-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-smart-search-api-openapi.yml
+- filename: canvas-study-assist-api-openapi.yml
+  format: yaml
+  label: Canvas Study Assist API
+  slug: canvas-study-assist-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-study-assist-api-openapi.yml
+- filename: canvas-submission-comments-api-openapi.yml
+  format: yaml
+  label: Canvas Submission Comments API
+  slug: canvas-submission-comments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-submission-comments-api-openapi.yml
+- filename: canvas-submissions-api-openapi.yml
+  format: yaml
+  label: Canvas Submissions API
+  slug: canvas-submissions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-submissions-api-openapi.yml
+- filename: canvas-tabs-api-openapi.yml
+  format: yaml
+  label: Canvas Tabs API
+  slug: canvas-tabs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-tabs-api-openapi.yml
+- filename: canvas-temporary-enrollment-pairings-api-openapi.yml
+  format: yaml
+  label: Canvas Temporary Enrollment Pairings API
+  slug: canvas-temporary-enrollment-pairings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-temporary-enrollment-pairings-api-openapi.yml
+- filename: canvas-user-observees-api-openapi.yml
+  format: yaml
+  label: Canvas User Observees API
+  slug: canvas-user-observees-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-user-observees-api-openapi.yml
+- filename: canvas-users-api-openapi.yml
+  format: yaml
+  label: Canvas Users API
+  slug: canvas-users-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-users-api-openapi.yml
+- filename: canvas-webhooks-subscriptions-for-plagiarism-platform-api-openapi.yml
+  format: yaml
+  label: Canvas Webhooks Subscriptions For Plagiarism Platform API
+  slug: canvas-webhooks-subscriptions-for-plagiarism-platform-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-webhooks-subscriptions-for-plagiarism-platform-api-openapi.yml
+- filename: canvas-what-if-grades-api-openapi.yml
+  format: yaml
+  label: Canvas What If Grades API
+  slug: canvas-what-if-grades-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-what-if-grades-api-openapi.yml
+- filename: canvas-live-events-asyncapi.yml
+  format: yaml
+  label: Canvas Live Events
+  slug: canvas-live-events
+  spec_type: AsyncAPI
+  url: https://artifacts.apis.io/canvas/asyncapi/canvas-live-events-asyncapi.yml
+- filename: canvas-jwts-api-openapi.yml
+  format: yaml
+  label: Canvas JWTs API
+  slug: canvas-jwts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/canvas/openapi/canvas-jwts-api-openapi.yml
+claim_count: 21
+description: ''
+doc:
+  data_categories:
+  - category: identifying
+    text: First and last name; gender or preferred pronouns; email address; academic institution or company; username and password
+  - category: contact
+    text: phone or mobile number
+  - category: financial
+    text: payment card information (Canvas Catalog only)
+  - category: location
+    text: geographic information such as location
+  - category: behavioral
+    text: Your interactions with other users, including messages, comments, and uploaded files; product performance information, such as how you use certain features
+  - category: device
+    text: Browser type, language, settings, and preferences; device type; operating system; location information such as country or state; persistent identifiers; IP address
+  - category: communication
+    text: Information you submit in communications and interactions, including contact information, email or chat content, reviews, and other content posted on the products
+  - category: professional
+    text: Career and professional achievement information, such as information required by an employer, which may include personal information like a resume
+  - category: demographic
+    text: student demographic information
+  deletion:
+    route: Email privacy@instructure.com or submit a help desk ticket through the Products
+    text: You may also request that we modify or delete information by emailing us at privacy@instructure.com or submitting a help desk ticket through our Products.
+  dpa:
+    available: null
+    text: null
+    url: null
+  purposes:
+  - purpose: Provide, analyze, and improve Products
+    text: We use the information described above to provide, analyze, and improve our Products, including to
+  - purpose: Troubleshooting, security and fraud detection
+    text: Troubleshooting, security and fraud detection, and performance monitoring. We use information captured in log files for these purposes.
+  - purpose: Customer support
+    text: Provide customer support.
+  residency:
+  - region: Outside the user's country
+    text: the personal information we collect may be transferred to and maintained on servers or databases located outside your county
+  retention:
+  - period: 30 days
+    scope: Account information deletion requests
+    text: We will respond to your request, when permitted by law and subject to exceptions, within 30 days.
+  rights:
+  - right: Access
+    text: Residents of the EU, UK, and Switzerland have the right to access the personal data that Instructure maintains
+  - right: Limit use and disclosure
+    text: in some cases, have choices to limit the use and disclosure of personal data
+  - right: Deletion or no further collection (parents/educators)
+    text: Parents and educators may review information collected from children, request deletion of this information, or request no further collection or use of this information
+  role:
+    text: If you use our Products through an Academic Institution or company, that school or company determines how the personal information collected about you is used.
+    value: both
+  sale_or_sharing:
+    stance: prohibited
+    text: Additionally, we do not sell or rent personal information to third parties.
+  subprocessors:
+    text: null
+    url: null
+  transfers:
+  - mechanism: DPF
+    text: Instructure (which includes Parchment) complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework
+layer: privacy_policy
+layer_version: 0.1.0
+layout: privacy
+method: harvested
+model: claude-haiku-5-5
+name: Canvas
+provenance_date: '2026-11-09'
+provider_name: Canvas
+provider_slug: canvas
+slug: canvas-privacy-policy
+source_date: '2026-11-09'
+source_filename: canvas-privacy-policy.yml
+source_heading: Privacy Policy
+source_page: https://www.instructure.com/policies/product-privacy-policy
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\nprivacy_policy: 0.1.0\nprovider: Canvas\naid: canvas\nurl: https://www.instructure.com/policies/product-privacy-policy\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\nrole:\n  value: both\n  text: If you use our Products through an Academic Institution or company, that school or company determines how\n    the personal information collected about you is used.\ndata_categories:\n- category: identifying\n  text: First and last name; gender or preferred pronouns; email address; academic institution or company; username\n    and password\n- category: contact\n  text: phone or mobile number\n- category: financial\n  text: payment card information (Canvas Catalog\
+  \ only)\n- category: location\n  text: geographic information such as location\n- category: behavioral\n  text: Your interactions with other users, including messages, comments, and uploaded files; product performance\n    information, such as how you use certain features\n- category: device\n  text: Browser type, language, settings, and preferences; device type; operating system; location information such\n    as country or state; persistent identifiers; IP address\n- category: communication\n  text: Information you submit in communications and interactions, including contact information, email or chat\n    content, reviews, and other content posted on the products\n- category: professional\n  text: Career and professional achievement information, such as information required by an employer, which may\n    include personal information like a resume\n- category: demographic\n  text: student demographic information\npurposes:\n- purpose: Provide, analyze, and improve Products\n  text: We\
+  \ use the information described above to provide, analyze, and improve our Products, including to\n- purpose: Troubleshooting, security and fraud detection\n  text: Troubleshooting, security and fraud detection, and performance monitoring. We use information captured in\n    log files for these purposes.\n- purpose: Customer support\n  text: Provide customer support.\nretention:\n- scope: Account information deletion requests\n  period: 30 days\n  text: We will respond to your request, when permitted by law and subject to exceptions, within 30 days.\nresidency:\n- region: Outside the user's country\n  text: the personal information we collect may be transferred to and maintained on servers or databases located\n    outside your county\ntransfers:\n- mechanism: DPF\n  text: Instructure (which includes Parchment) complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”),\n    the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework\nsubprocessors:\n  url: null\n\
+  \  text: null\ndpa:\n  available: null\n  url: null\n  text: null\ndeletion:\n  route: Email privacy@instructure.com or submit a help desk ticket through the Products\n  text: You may also request that we modify or delete information by emailing us at privacy@instructure.com or submitting\n    a help desk ticket through our Products.\nrights:\n- right: Access\n  text: Residents of the EU, UK, and Switzerland have the right to access the personal data that Instructure maintains\n- right: Limit use and disclosure\n  text: in some cases, have choices to limit the use and disclosure of personal data\n- right: Deletion or no further collection (parents/educators)\n  text: Parents and educators may review information collected from children, request deletion of this information,\n    or request no further collection or use of this information\nsale_or_sharing:\n  stance: prohibited\n  text: Additionally, we do not sell or rent personal information to third parties.\n"
+source_yaml_url: https://artifacts.apis.io/canvas/privacy/canvas-privacy-policy.yml
+stated_fields:
+- role
+- data_categories
+- purposes
+- retention
+- residency
+- transfers
+- deletion
+- rights
+- sale_or_sharing
+summary_line: 21 quoted statements, read from Canvas's own page on 2026-11-09.
+synthetic: false
+tags:
+- Canvas
+- Education
+- EdTech
+- GraphQL
+- LMS
+- LTI
+- Open Source
+- REST
+- Higher Education
+- K-12
+- AGPL
+---

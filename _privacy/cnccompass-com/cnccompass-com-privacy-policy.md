@@ -117,5 +117,5 @@ tags:
 - Sourcing
 - Procurement
 - MCP
-- Search API
+- SERP
 ---

@@ -117,7 +117,7 @@ tags:
 - Grants
 - Funding
 - Sports
-- Nonprofit
+- Non-Profit
 - Open Data
 - United Kingdom
 - MCP

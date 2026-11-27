@@ -562,7 +562,7 @@ synthetic: false
 tags:
 - Company
 - Hackathons
-- Events
+- Event
 - Developer Community
 - Judging
 - Project Showcase

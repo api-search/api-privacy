@@ -62,7 +62,7 @@ tags:
 - Generators
 - Electrical Connectors
 - Calculators
-- Model Context Protocol
+- MCP
 - Home Energy
 - Reference
 ---

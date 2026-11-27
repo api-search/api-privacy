@@ -108,7 +108,7 @@ tags:
 - Company
 - Comparison
 - Job Management Software
-- Trades
+- Trade
 - United Kingdom
 - Pricing Data
 - Datasets

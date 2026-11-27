@@ -159,7 +159,7 @@ synthetic: false
 tags:
 - Company
 - OpenAI Codex
-- Usage Limits
+- usage-limits
 - Forecasting
 - Alerts
 - MCP

@@ -89,7 +89,7 @@ tags:
 - Company
 - Cocktails
 - Recipes
-- Food and Drink
+- Food and Beverage
 - Ingredient Finder
 - MCP
 - Germany

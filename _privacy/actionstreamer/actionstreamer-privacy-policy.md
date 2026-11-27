@@ -1,0 +1,384 @@
+---
+api_specs:
+- filename: actionstreamer-agent-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Agent API
+  slug: actionstreamer-agent-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-agent-api-openapi.yml
+- filename: actionstreamer-agenttype-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Agent Type API
+  slug: actionstreamer-agenttype-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-agenttype-api-openapi.yml
+- filename: actionstreamer-audioclip-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Audio Clip API
+  slug: actionstreamer-audioclip-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-audioclip-api-openapi.yml
+- filename: actionstreamer-caption-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Caption API
+  slug: actionstreamer-caption-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-caption-api-openapi.yml
+- filename: actionstreamer-collectionitem-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Collection Item API
+  slug: actionstreamer-collectionitem-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-collectionitem-api-openapi.yml
+- filename: actionstreamer-device-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Device API
+  slug: actionstreamer-device-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-device-api-openapi.yml
+- filename: actionstreamer-devicecomment-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Device Comment API
+  slug: actionstreamer-devicecomment-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-devicecomment-api-openapi.yml
+- filename: actionstreamer-devicewificonnection-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Device Wifi Connection API
+  slug: actionstreamer-devicewificonnection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-devicewificonnection-api-openapi.yml
+- filename: actionstreamer-event-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Event API
+  slug: actionstreamer-event-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-event-api-openapi.yml
+- filename: actionstreamer-eventpreset-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Event Preset API
+  slug: actionstreamer-eventpreset-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-eventpreset-api-openapi.yml
+- filename: actionstreamer-file-api-openapi.yml
+  format: yaml
+  label: ActionStreamer File API
+  slug: actionstreamer-file-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-file-api-openapi.yml
+- filename: actionstreamer-image-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Image API
+  slug: actionstreamer-image-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-image-api-openapi.yml
+- filename: actionstreamer-logmessage-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Log Message API
+  slug: actionstreamer-logmessage-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-logmessage-api-openapi.yml
+- filename: actionstreamer-mediarouterauth-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Media Router Auth API
+  slug: actionstreamer-mediarouterauth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-mediarouterauth-api-openapi.yml
+- filename: actionstreamer-notification-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Notification API
+  slug: actionstreamer-notification-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-notification-api-openapi.yml
+- filename: actionstreamer-package-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Package API
+  slug: actionstreamer-package-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-package-api-openapi.yml
+- filename: actionstreamer-password-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Password API
+  slug: actionstreamer-password-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-password-api-openapi.yml
+- filename: actionstreamer-permissiontype-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Permission Type API
+  slug: actionstreamer-permissiontype-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-permissiontype-api-openapi.yml
+- filename: actionstreamer-project-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Project API
+  slug: actionstreamer-project-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-project-api-openapi.yml
+- filename: actionstreamer-register-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Register API
+  slug: actionstreamer-register-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-register-api-openapi.yml
+- filename: actionstreamer-session-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Session API
+  slug: actionstreamer-session-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-session-api-openapi.yml
+- filename: actionstreamer-sessionvariable-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Session Variable API
+  slug: actionstreamer-sessionvariable-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-sessionvariable-api-openapi.yml
+- filename: actionstreamer-setting-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Setting API
+  slug: actionstreamer-setting-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-setting-api-openapi.yml
+- filename: actionstreamer-shareditem-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Shared Item API
+  slug: actionstreamer-shareditem-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-shareditem-api-openapi.yml
+- filename: actionstreamer-signinhistory-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Sign In History API
+  slug: actionstreamer-signinhistory-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-signinhistory-api-openapi.yml
+- filename: actionstreamer-stream-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Stream API
+  slug: actionstreamer-stream-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-stream-api-openapi.yml
+- filename: actionstreamer-tag-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Tag API
+  slug: actionstreamer-tag-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-tag-api-openapi.yml
+- filename: actionstreamer-test-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Test API
+  slug: actionstreamer-test-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-test-api-openapi.yml
+- filename: actionstreamer-timezone-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Time Zone API
+  slug: actionstreamer-timezone-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-timezone-api-openapi.yml
+- filename: actionstreamer-token-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Token API
+  slug: actionstreamer-token-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-token-api-openapi.yml
+- filename: actionstreamer-user-api-openapi.yml
+  format: yaml
+  label: ActionStreamer User API
+  slug: actionstreamer-user-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-user-api-openapi.yml
+- filename: actionstreamer-userbrowser-api-openapi.yml
+  format: yaml
+  label: ActionStreamer User Browser API
+  slug: actionstreamer-userbrowser-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-userbrowser-api-openapi.yml
+- filename: actionstreamer-verify-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Verify API
+  slug: actionstreamer-verify-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-verify-api-openapi.yml
+- filename: actionstreamer-version-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Version API
+  slug: actionstreamer-version-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-version-api-openapi.yml
+- filename: actionstreamer-videoclip-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Video Clip API
+  slug: actionstreamer-videoclip-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-videoclip-api-openapi.yml
+- filename: actionstreamer-wificonnection-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Wifi Connection API
+  slug: actionstreamer-wificonnection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-wificonnection-api-openapi.yml
+- filename: actionstreamer-device-group-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Device Group API
+  slug: actionstreamer-device-group-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-device-group-api-openapi.yml
+- filename: actionstreamer-devicecapability-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Device Capability API
+  slug: actionstreamer-devicecapability-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-devicecapability-api-openapi.yml
+- filename: actionstreamer-mediaserver-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Media Server API
+  slug: actionstreamer-mediaserver-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-mediaserver-api-openapi.yml
+- filename: actionstreamer-moq-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Mo Q API
+  slug: actionstreamer-moq-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-moq-api-openapi.yml
+- filename: actionstreamer-moqstream-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Moq Stream API
+  slug: actionstreamer-moqstream-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-moqstream-api-openapi.yml
+- filename: actionstreamer-sensor-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Sensor API
+  slug: actionstreamer-sensor-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-sensor-api-openapi.yml
+- filename: actionstreamer-srt-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Srt API
+  slug: actionstreamer-srt-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-srt-api-openapi.yml
+- filename: actionstreamer-srtstream-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Srt Stream API
+  slug: actionstreamer-srtstream-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-srtstream-api-openapi.yml
+- filename: actionstreamer-streamsession-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Stream Session API
+  slug: actionstreamer-streamsession-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-streamsession-api-openapi.yml
+- filename: actionstreamer-api-key-api-openapi.yml
+  format: yaml
+  label: ActionStreamer API Key API
+  slug: actionstreamer-api-key-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-api-key-api-openapi.yml
+- filename: actionstreamer-device-health-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Device Health API
+  slug: actionstreamer-device-health-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-device-health-api-openapi.yml
+- filename: actionstreamer-event-status-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Event Status API
+  slug: actionstreamer-event-status-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-event-status-api-openapi.yml
+- filename: actionstreamer-event-type-api-openapi.yml
+  format: yaml
+  label: ActionStreamer Event Type API
+  slug: actionstreamer-event-type-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-event-type-api-openapi.yml
+- filename: actionstreamer-multi-factor-auth-api-openapi.yml
+  format: yaml
+  label: ActionStreamer multi factor auth API
+  slug: actionstreamer-multi-factor-auth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-multi-factor-auth-api-openapi.yml
+- filename: actionstreamer-user-group-api-openapi.yml
+  format: yaml
+  label: ActionStreamer User Group API
+  slug: actionstreamer-user-group-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/actionstreamer/openapi/actionstreamer-user-group-api-openapi.yml
+claim_count: 10
+description: ''
+doc:
+  data_categories:
+  - category: identifying
+    text: Name
+  - category: contact
+    text: Email address
+  - category: contact
+    text: Contact information
+  - category: behavioral
+    text: Usage data
+  deletion:
+    route: contact provider to remove information
+    text: please contact us to remove such information from our systems
+  dpa:
+    available: null
+    text: null
+    url: null
+  purposes:
+  - purpose: administering and enhancing functionality
+    text: We collect and use personal information for the sole purpose of administering and enhancing the functionality of ActionStreamer.
+  rights:
+  - right: access, update, or delete
+    text: Access, update, or delete your personal information
+  - right: object to processing
+    text: Object to the processing of your personal information
+  - right: withdraw consent
+    text: Withdraw consent for processing your personal information
+  role:
+    text: null
+    value: unstated
+  sale_or_sharing:
+    stance: conditional
+    text: 'We do not share your personal information with third parties without obtaining additional consent from you, except in the following circumstances: When required by law or legal process'
+  subprocessors:
+    text: null
+    url: null
+layer: privacy_policy
+layer_version: 0.1.0
+layout: privacy
+method: harvested
+model: claude-haiku-5-5
+name: ActionStreamer
+provenance_date: '2026-11-09'
+provider_name: ActionStreamer
+provider_slug: actionstreamer
+slug: actionstreamer-privacy-policy
+source_date: '2026-11-09'
+source_filename: actionstreamer-privacy-policy.yml
+source_heading: Privacy Policy
+source_page: https://actionstreamer.com/privacy-policy
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\nprivacy_policy: 0.1.0\nprovider: ActionStreamer\naid: actionstreamer\nurl: https://actionstreamer.com/privacy-policy\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\nrole:\n  value: unstated\n  text: null\ndata_categories:\n- category: identifying\n  text: Name\n- category: contact\n  text: Email address\n- category: contact\n  text: Contact information\n- category: behavioral\n  text: Usage data\npurposes:\n- purpose: administering and enhancing functionality\n  text: We collect and use personal information for the sole purpose of administering and enhancing the functionality\n    of ActionStreamer.\nretention: []\nresidency: []\ntransfers: []\nsubprocessors:\n\
+  \  url: null\n  text: null\ndpa:\n  available: null\n  url: null\n  text: null\ndeletion:\n  route: contact provider to remove information\n  text: please contact us to remove such information from our systems\nrights:\n- right: access, update, or delete\n  text: Access, update, or delete your personal information\n- right: object to processing\n  text: Object to the processing of your personal information\n- right: withdraw consent\n  text: Withdraw consent for processing your personal information\nsale_or_sharing:\n  stance: conditional\n  text: 'We do not share your personal information with third parties without obtaining additional consent from\n    you, except in the following circumstances: When required by law or legal process'\n"
+source_yaml_url: https://artifacts.apis.io/actionstreamer/privacy/actionstreamer-privacy-policy.yml
+stated_fields:
+- data_categories
+- purposes
+- deletion
+- rights
+- sale_or_sharing
+summary_line: 10 quoted statements, read from ActionStreamer's own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- Video
+- Live Streaming
+- Wearables
+- IoT
+- Device Management
+- Public Safety
+- Industrial
+- Computer Vision
+- Media
+---

@@ -1,0 +1,655 @@
+---
+api_specs:
+- filename: amberai-bom-components-api-openapi.yml
+  format: yaml
+  label: Amberai Bom Components API
+  slug: amberai-bom-components-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-bom-components-api-openapi.yml
+- filename: amberai-bom-sections-api-openapi.yml
+  format: yaml
+  label: Amberai Bom Sections API
+  slug: amberai-bom-sections-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-bom-sections-api-openapi.yml
+- filename: amberai-bom-skus-api-openapi.yml
+  format: yaml
+  label: Amberai Bom Skus API
+  slug: amberai-bom-skus-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-bom-skus-api-openapi.yml
+- filename: amberai-boms-api-openapi.yml
+  format: yaml
+  label: Amberai Boms API
+  slug: amberai-boms-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-boms-api-openapi.yml
+- filename: amberai-booking-items-api-openapi.yml
+  format: yaml
+  label: Amberai Booking Items API
+  slug: amberai-booking-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-booking-items-api-openapi.yml
+- filename: amberai-bookings-api-openapi.yml
+  format: yaml
+  label: Amberai Bookings API
+  slug: amberai-bookings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-bookings-api-openapi.yml
+- filename: amberai-brand-api-openapi.yml
+  format: yaml
+  label: Amberai Brand API
+  slug: amberai-brand-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-brand-api-openapi.yml
+- filename: amberai-brand-locations-api-openapi.yml
+  format: yaml
+  label: Amberai Brand Locations API
+  slug: amberai-brand-locations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-brand-locations-api-openapi.yml
+- filename: amberai-carton-sizes-api-openapi.yml
+  format: yaml
+  label: Amberai Carton Sizes API
+  slug: amberai-carton-sizes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-carton-sizes-api-openapi.yml
+- filename: amberai-categories-api-openapi.yml
+  format: yaml
+  label: Amberai Categories API
+  slug: amberai-categories-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-categories-api-openapi.yml
+- filename: amberai-checklists-api-openapi.yml
+  format: yaml
+  label: Amberai Checklists API
+  slug: amberai-checklists-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-checklists-api-openapi.yml
+- filename: amberai-collections-api-openapi.yml
+  format: yaml
+  label: Amberai Collections API
+  slug: amberai-collections-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-collections-api-openapi.yml
+- filename: amberai-colors-api-openapi.yml
+  format: yaml
+  label: Amberai Colors API
+  slug: amberai-colors-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-colors-api-openapi.yml
+- filename: amberai-contacts-api-openapi.yml
+  format: yaml
+  label: Amberai Contacts API
+  slug: amberai-contacts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-contacts-api-openapi.yml
+- filename: amberai-countries-api-openapi.yml
+  format: yaml
+  label: Amberai Countries API
+  slug: amberai-countries-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-countries-api-openapi.yml
+- filename: amberai-couriers-api-openapi.yml
+  format: yaml
+  label: Amberai Couriers API
+  slug: amberai-couriers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-couriers-api-openapi.yml
+- filename: amberai-custom-field-definitions-api-openapi.yml
+  format: yaml
+  label: Amberai Custom Field Definitions API
+  slug: amberai-custom-field-definitions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-custom-field-definitions-api-openapi.yml
+- filename: amberai-dimension-curve-axes-api-openapi.yml
+  format: yaml
+  label: Amberai Dimension Curve Axes API
+  slug: amberai-dimension-curve-axes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-dimension-curve-axes-api-openapi.yml
+- filename: amberai-dimension-curve-axis-values-api-openapi.yml
+  format: yaml
+  label: Amberai Dimension Curve Axis Values API
+  slug: amberai-dimension-curve-axis-values-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-dimension-curve-axis-values-api-openapi.yml
+- filename: amberai-dimension-curve-cells-api-openapi.yml
+  format: yaml
+  label: Amberai Dimension Curve Cells API
+  slug: amberai-dimension-curve-cells-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-dimension-curve-cells-api-openapi.yml
+- filename: amberai-dimension-curves-api-openapi.yml
+  format: yaml
+  label: Amberai Dimension Curves API
+  slug: amberai-dimension-curves-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-dimension-curves-api-openapi.yml
+- filename: amberai-dimension-group-dimensions-api-openapi.yml
+  format: yaml
+  label: Amberai Dimension Group Dimensions API
+  slug: amberai-dimension-group-dimensions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-dimension-group-dimensions-api-openapi.yml
+- filename: amberai-dimension-groups-api-openapi.yml
+  format: yaml
+  label: Amberai Dimension Groups API
+  slug: amberai-dimension-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-dimension-groups-api-openapi.yml
+- filename: amberai-dimension-values-api-openapi.yml
+  format: yaml
+  label: Amberai Dimension Values API
+  slug: amberai-dimension-values-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-dimension-values-api-openapi.yml
+- filename: amberai-dimensions-api-openapi.yml
+  format: yaml
+  label: Amberai Dimensions API
+  slug: amberai-dimensions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-dimensions-api-openapi.yml
+- filename: amberai-document-types-api-openapi.yml
+  format: yaml
+  label: Amberai Document Types API
+  slug: amberai-document-types-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-document-types-api-openapi.yml
+- filename: amberai-documents-api-openapi.yml
+  format: yaml
+  label: Amberai Documents API
+  slug: amberai-documents-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-documents-api-openapi.yml
+- filename: amberai-goods-receipt-lines-api-openapi.yml
+  format: yaml
+  label: Amberai Goods Receipt Lines API
+  slug: amberai-goods-receipt-lines-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-goods-receipt-lines-api-openapi.yml
+- filename: amberai-goods-receipts-api-openapi.yml
+  format: yaml
+  label: Amberai Goods Receipts API
+  slug: amberai-goods-receipts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-goods-receipts-api-openapi.yml
+- filename: amberai-images-api-openapi.yml
+  format: yaml
+  label: Amberai Images API
+  slug: amberai-images-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-images-api-openapi.yml
+- filename: amberai-inventory-api-openapi.yml
+  format: yaml
+  label: Amberai Inventory API
+  slug: amberai-inventory-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-inventory-api-openapi.yml
+- filename: amberai-invoice-lines-api-openapi.yml
+  format: yaml
+  label: Amberai Invoice Lines API
+  slug: amberai-invoice-lines-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-invoice-lines-api-openapi.yml
+- filename: amberai-invoices-api-openapi.yml
+  format: yaml
+  label: Amberai Invoices API
+  slug: amberai-invoices-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-invoices-api-openapi.yml
+- filename: amberai-launch-windows-api-openapi.yml
+  format: yaml
+  label: Amberai Launch Windows API
+  slug: amberai-launch-windows-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-launch-windows-api-openapi.yml
+- filename: amberai-leg-items-api-openapi.yml
+  format: yaml
+  label: Amberai Leg Items API
+  slug: amberai-leg-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-leg-items-api-openapi.yml
+- filename: amberai-legs-api-openapi.yml
+  format: yaml
+  label: Amberai Legs API
+  slug: amberai-legs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-legs-api-openapi.yml
+- filename: amberai-locations-api-openapi.yml
+  format: yaml
+  label: Amberai Locations API
+  slug: amberai-locations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-locations-api-openapi.yml
+- filename: amberai-material-variants-api-openapi.yml
+  format: yaml
+  label: Amberai Material Variants API
+  slug: amberai-material-variants-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-material-variants-api-openapi.yml
+- filename: amberai-materials-api-openapi.yml
+  format: yaml
+  label: Amberai Materials API
+  slug: amberai-materials-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-materials-api-openapi.yml
+- filename: amberai-measurement-table-skus-api-openapi.yml
+  format: yaml
+  label: Amberai Measurement Table Skus API
+  slug: amberai-measurement-table-skus-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-measurement-table-skus-api-openapi.yml
+- filename: amberai-measurement-tables-api-openapi.yml
+  format: yaml
+  label: Amberai Measurement Tables API
+  slug: amberai-measurement-tables-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-measurement-tables-api-openapi.yml
+- filename: amberai-notes-api-openapi.yml
+  format: yaml
+  label: Amberai Notes API
+  slug: amberai-notes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-notes-api-openapi.yml
+- filename: amberai-option-values-api-openapi.yml
+  format: yaml
+  label: Amberai Option Values API
+  slug: amberai-option-values-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-option-values-api-openapi.yml
+- filename: amberai-options-api-openapi.yml
+  format: yaml
+  label: Amberai Options API
+  slug: amberai-options-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-options-api-openapi.yml
+- filename: amberai-order-amendments-api-openapi.yml
+  format: yaml
+  label: Amberai Order Amendments API
+  slug: amberai-order-amendments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-order-amendments-api-openapi.yml
+- filename: amberai-order-items-api-openapi.yml
+  format: yaml
+  label: Amberai Order Items API
+  slug: amberai-order-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-order-items-api-openapi.yml
+- filename: amberai-order-shipments-api-openapi.yml
+  format: yaml
+  label: Amberai Order Shipments API
+  slug: amberai-order-shipments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-order-shipments-api-openapi.yml
+- filename: amberai-orders-api-openapi.yml
+  format: yaml
+  label: Amberai Orders API
+  slug: amberai-orders-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-orders-api-openapi.yml
+- filename: amberai-packing-list-lines-api-openapi.yml
+  format: yaml
+  label: Amberai Packing List Lines API
+  slug: amberai-packing-list-lines-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-packing-list-lines-api-openapi.yml
+- filename: amberai-packing-lists-api-openapi.yml
+  format: yaml
+  label: Amberai Packing Lists API
+  slug: amberai-packing-lists-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-packing-lists-api-openapi.yml
+- filename: amberai-packing-templates-api-openapi.yml
+  format: yaml
+  label: Amberai Packing Templates API
+  slug: amberai-packing-templates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-packing-templates-api-openapi.yml
+- filename: amberai-parent-products-api-openapi.yml
+  format: yaml
+  label: Amberai Parent Products API
+  slug: amberai-parent-products-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-parent-products-api-openapi.yml
+- filename: amberai-partner-locations-api-openapi.yml
+  format: yaml
+  label: Amberai Partner Locations API
+  slug: amberai-partner-locations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-partner-locations-api-openapi.yml
+- filename: amberai-partners-api-openapi.yml
+  format: yaml
+  label: Amberai Partners API
+  slug: amberai-partners-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-partners-api-openapi.yml
+- filename: amberai-payment-agreements-api-openapi.yml
+  format: yaml
+  label: Amberai Payment Agreements API
+  slug: amberai-payment-agreements-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-payment-agreements-api-openapi.yml
+- filename: amberai-payment-milestones-api-openapi.yml
+  format: yaml
+  label: Amberai Payment Milestones API
+  slug: amberai-payment-milestones-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-payment-milestones-api-openapi.yml
+- filename: amberai-payment-receipts-api-openapi.yml
+  format: yaml
+  label: Amberai Payment Receipts API
+  slug: amberai-payment-receipts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-payment-receipts-api-openapi.yml
+- filename: amberai-payment-settlements-api-openapi.yml
+  format: yaml
+  label: Amberai Payment Settlements API
+  slug: amberai-payment-settlements-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-payment-settlements-api-openapi.yml
+- filename: amberai-payment-terms-api-openapi.yml
+  format: yaml
+  label: Amberai Payment Terms API
+  slug: amberai-payment-terms-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-payment-terms-api-openapi.yml
+- filename: amberai-payments-api-openapi.yml
+  format: yaml
+  label: Amberai Payments API
+  slug: amberai-payments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-payments-api-openapi.yml
+- filename: amberai-product-collections-api-openapi.yml
+  format: yaml
+  label: Amberai Product Collections API
+  slug: amberai-product-collections-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-product-collections-api-openapi.yml
+- filename: amberai-product-launch-windows-api-openapi.yml
+  format: yaml
+  label: Amberai Product Launch Windows API
+  slug: amberai-product-launch-windows-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-product-launch-windows-api-openapi.yml
+- filename: amberai-product-option-collections-api-openapi.yml
+  format: yaml
+  label: Amberai Product Option Collections API
+  slug: amberai-product-option-collections-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-product-option-collections-api-openapi.yml
+- filename: amberai-product-option-dimension-values-api-openapi.yml
+  format: yaml
+  label: Amberai Product Option Dimension Values API
+  slug: amberai-product-option-dimension-values-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-product-option-dimension-values-api-openapi.yml
+- filename: amberai-product-option-prices-api-openapi.yml
+  format: yaml
+  label: Amberai Product Option Prices API
+  slug: amberai-product-option-prices-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-product-option-prices-api-openapi.yml
+- filename: amberai-product-option-values-api-openapi.yml
+  format: yaml
+  label: Amberai Product Option Values API
+  slug: amberai-product-option-values-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-product-option-values-api-openapi.yml
+- filename: amberai-product-options-api-openapi.yml
+  format: yaml
+  label: Amberai Product Options API
+  slug: amberai-product-options-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-product-options-api-openapi.yml
+- filename: amberai-product-relations-api-openapi.yml
+  format: yaml
+  label: Amberai Product Relations API
+  slug: amberai-product-relations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-product-relations-api-openapi.yml
+- filename: amberai-product-tags-api-openapi.yml
+  format: yaml
+  label: Amberai Product Tags API
+  slug: amberai-product-tags-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-product-tags-api-openapi.yml
+- filename: amberai-product-versions-api-openapi.yml
+  format: yaml
+  label: Amberai Product Versions API
+  slug: amberai-product-versions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-product-versions-api-openapi.yml
+- filename: amberai-production-run-item-revisions-api-openapi.yml
+  format: yaml
+  label: Amberai Production Run Item Revisions API
+  slug: amberai-production-run-item-revisions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-production-run-item-revisions-api-openapi.yml
+- filename: amberai-production-run-items-api-openapi.yml
+  format: yaml
+  label: Amberai Production Run Items API
+  slug: amberai-production-run-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-production-run-items-api-openapi.yml
+- filename: amberai-production-runs-api-openapi.yml
+  format: yaml
+  label: Amberai Production Runs API
+  slug: amberai-production-runs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-production-runs-api-openapi.yml
+- filename: amberai-quote-items-api-openapi.yml
+  format: yaml
+  label: Amberai Quote Items API
+  slug: amberai-quote-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-quote-items-api-openapi.yml
+- filename: amberai-quote-notes-api-openapi.yml
+  format: yaml
+  label: Amberai Quote Notes API
+  slug: amberai-quote-notes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-quote-notes-api-openapi.yml
+- filename: amberai-quote-price-bands-api-openapi.yml
+  format: yaml
+  label: Amberai Quote Price Bands API
+  slug: amberai-quote-price-bands-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-quote-price-bands-api-openapi.yml
+- filename: amberai-quote-revisions-api-openapi.yml
+  format: yaml
+  label: Amberai Quote Revisions API
+  slug: amberai-quote-revisions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-quote-revisions-api-openapi.yml
+- filename: amberai-quotes-api-openapi.yml
+  format: yaml
+  label: Amberai Quotes API
+  slug: amberai-quotes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-quotes-api-openapi.yml
+- filename: amberai-sample-checklist-results-api-openapi.yml
+  format: yaml
+  label: Amberai Sample Checklist Results API
+  slug: amberai-sample-checklist-results-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-sample-checklist-results-api-openapi.yml
+- filename: amberai-sample-rounds-api-openapi.yml
+  format: yaml
+  label: Amberai Sample Rounds API
+  slug: amberai-sample-rounds-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-sample-rounds-api-openapi.yml
+- filename: amberai-samples-api-openapi.yml
+  format: yaml
+  label: Amberai Samples API
+  slug: amberai-samples-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-samples-api-openapi.yml
+- filename: amberai-shipment-bookings-api-openapi.yml
+  format: yaml
+  label: Amberai Shipment Bookings API
+  slug: amberai-shipment-bookings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-shipment-bookings-api-openapi.yml
+- filename: amberai-shipment-carton-items-api-openapi.yml
+  format: yaml
+  label: Amberai Shipment Carton Items API
+  slug: amberai-shipment-carton-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-shipment-carton-items-api-openapi.yml
+- filename: amberai-shipment-cartons-api-openapi.yml
+  format: yaml
+  label: Amberai Shipment Cartons API
+  slug: amberai-shipment-cartons-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-shipment-cartons-api-openapi.yml
+- filename: amberai-shipment-charges-api-openapi.yml
+  format: yaml
+  label: Amberai Shipment Charges API
+  slug: amberai-shipment-charges-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-shipment-charges-api-openapi.yml
+- filename: amberai-shipment-item-lineages-api-openapi.yml
+  format: yaml
+  label: Amberai Shipment Item Lineages API
+  slug: amberai-shipment-item-lineages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-shipment-item-lineages-api-openapi.yml
+- filename: amberai-shipment-items-api-openapi.yml
+  format: yaml
+  label: Amberai Shipment Items API
+  slug: amberai-shipment-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-shipment-items-api-openapi.yml
+- filename: amberai-shipments-api-openapi.yml
+  format: yaml
+  label: Amberai Shipments API
+  slug: amberai-shipments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-shipments-api-openapi.yml
+- filename: amberai-sku-dimension-values-api-openapi.yml
+  format: yaml
+  label: Amberai Sku Dimension Values API
+  slug: amberai-sku-dimension-values-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-sku-dimension-values-api-openapi.yml
+- filename: amberai-skus-api-openapi.yml
+  format: yaml
+  label: Amberai SKUs API
+  slug: amberai-skus-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-skus-api-openapi.yml
+- filename: amberai-suppliers-api-openapi.yml
+  format: yaml
+  label: Amberai Suppliers API
+  slug: amberai-suppliers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-suppliers-api-openapi.yml
+- filename: amberai-tags-api-openapi.yml
+  format: yaml
+  label: Amberai Tags API
+  slug: amberai-tags-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-tags-api-openapi.yml
+- filename: amberai-units-of-measure-api-openapi.yml
+  format: yaml
+  label: Amberai Units Of Measure API
+  slug: amberai-units-of-measure-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/amberai/openapi/amberai-units-of-measure-api-openapi.yml
+claim_count: 18
+description: ''
+doc:
+  data_categories:
+  - category: identifying
+    text: 'Account information: name, business email address, job title, company, and log-in details.'
+  - category: financial
+    text: 'Billing information: billing contact, billing address, and tax information.'
+  - category: communication
+    text: 'Calls and meetings: when you join a call or meeting with Amber, we may record it and create notes and transcripts using meeting assistant tools.'
+  - category: device
+    text: 'Usage and device information: IP address, browser and device type, operating system, approximate location derived from IP address, pages and features used, and dates and times of access.'
+  - category: location
+    text: approximate location derived from IP address
+  deletion:
+    route: Email legal@amber.ai to request deletion
+    text: Rights. Depending on where you live, you may have the right to request access to, correction of, deletion of, or a copy of your personal information
+  dpa:
+    available: true
+    text: our Data Processing Addendum at amber.ai/legal/dpa
+    url: amber.ai/legal/dpa
+  purposes:
+  - purpose: provide and operate Amber
+    text: provide, operate, and support Amber, including creating and managing accounts
+  - purpose: process payments and billing
+    text: process payments and send invoices and billing notices
+  - purpose: security and fraud prevention
+    text: secure Amber and prevent fraud and abuse
+  - purpose: no targeted advertising
+    text: We do not use personal information for targeted advertising, and we do not sell personal information.
+  residency:
+  - region: United States
+    text: Amber is based in the United States, and personal information is hosted in the United States.
+  retention:
+  - period: while the account is active
+    scope: Account information
+    text: 'Account information: while the account is active, and for a reasonable period afterward to handle questions, disputes, and legal requirements.'
+  - period: as long as required for tax and accounting purposes
+    scope: Billing records
+    text: 'Billing records: as long as required for tax and accounting purposes.'
+  - period: null
+    scope: Customer Data
+    text: Customer Data is kept and deleted under our agreement with the relevant brand.
+  rights:
+  - right: access
+    text: you may have the right to request access to, correction of, deletion of, or a copy of your personal information
+  - right: appeal
+    text: and to appeal our decision on your request
+  role:
+    text: null
+    value: unstated
+  sale_or_sharing:
+    stance: prohibited
+    text: We do not sell personal information and do not share it for cross-context behavioral advertising.
+  subprocessors:
+    text: null
+    url: null
+layer: privacy_policy
+layer_version: 0.1.0
+layout: privacy
+method: harvested
+model: claude-haiku-5-5
+name: Amberai
+provenance_date: '2026-11-09'
+provider_name: Amberai
+provider_slug: amberai
+slug: amberai-privacy-policy
+source_date: '2026-11-09'
+source_filename: amberai-privacy-policy.yml
+source_heading: Privacy Policy
+source_page: https://amber.ai/legal/privacy
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\nprivacy_policy: 0.1.0\nprovider: Amberai\naid: amberai\nurl: https://amber.ai/legal/privacy\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\nrole:\n  value: unstated\n  text: null\ndata_categories:\n- category: identifying\n  text: 'Account information: name, business email address, job title, company, and log-in details.'\n- category: financial\n  text: 'Billing information: billing contact, billing address, and tax information.'\n- category: communication\n  text: 'Calls and meetings: when you join a call or meeting with Amber, we may record it and create notes and transcripts\n    using meeting assistant tools.'\n- category: device\n  text: 'Usage and device\
+  \ information: IP address, browser and device type, operating system, approximate location\n    derived from IP address, pages and features used, and dates and times of access.'\n- category: location\n  text: approximate location derived from IP address\npurposes:\n- purpose: provide and operate Amber\n  text: provide, operate, and support Amber, including creating and managing accounts\n- purpose: process payments and billing\n  text: process payments and send invoices and billing notices\n- purpose: security and fraud prevention\n  text: secure Amber and prevent fraud and abuse\n- purpose: no targeted advertising\n  text: We do not use personal information for targeted advertising, and we do not sell personal information.\nretention:\n- scope: Account information\n  period: while the account is active\n  text: 'Account information: while the account is active, and for a reasonable period afterward to handle questions,\n    disputes, and legal requirements.'\n- scope: Billing records\n\
+  \  period: as long as required for tax and accounting purposes\n  text: 'Billing records: as long as required for tax and accounting purposes.'\n- scope: Customer Data\n  period: null\n  text: Customer Data is kept and deleted under our agreement with the relevant brand.\nresidency:\n- region: United States\n  text: Amber is based in the United States, and personal information is hosted in the United States.\ntransfers: []\nsubprocessors:\n  url: null\n  text: null\ndpa:\n  available: true\n  url: amber.ai/legal/dpa\n  text: our Data Processing Addendum at amber.ai/legal/dpa\ndeletion:\n  route: Email legal@amber.ai to request deletion\n  text: Rights. Depending on where you live, you may have the right to request access to, correction of, deletion\n    of, or a copy of your personal information\nrights:\n- right: access\n  text: you may have the right to request access to, correction of, deletion of, or a copy of your personal information\n- right: appeal\n  text: and to appeal our decision\
+  \ on your request\nsale_or_sharing:\n  stance: prohibited\n  text: We do not sell personal information and do not share it for cross-context behavioral advertising.\n"
+source_yaml_url: https://artifacts.apis.io/amberai/privacy/amberai-privacy-policy.yml
+stated_fields:
+- data_categories
+- purposes
+- retention
+- residency
+- dpa
+- deletion
+- rights
+- sale_or_sharing
+summary_line: 18 quoted statements, read from Amberai's own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- Artificial Intelligence
+- Operating System
+- Automation
+- Supply Chain
+---

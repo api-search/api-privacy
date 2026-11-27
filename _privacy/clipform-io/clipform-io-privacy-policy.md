@@ -158,7 +158,7 @@ tags:
 - Form Builder
 - Video
 - Surveys
-- Webhooks
+- Webhook
 - MCP
 - Lead Capture
 ---

@@ -75,9 +75,8 @@ synthetic: false
 tags:
 - Company
 - MCP
-- Model Context Protocol
 - AI Agents
-- Gateway
+- Gateways
 - Access Control
 - Serverless
 - Developer Tools

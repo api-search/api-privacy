@@ -1,0 +1,161 @@
+---
+api_specs:
+- filename: met-office-capabilities-api-openapi.yml
+  format: yaml
+  label: Met Office Capabilities API
+  slug: met-office-capabilities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/met-office/openapi/met-office-capabilities-api-openapi.yml
+- filename: met-office-collection-metadata-api-openapi.yml
+  format: yaml
+  label: Met Office Collection Metadata API
+  slug: met-office-collection-metadata-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/met-office/openapi/met-office-collection-metadata-api-openapi.yml
+- filename: met-office-instance-data-api-openapi.yml
+  format: yaml
+  label: Met Office Instance Data API
+  slug: met-office-instance-data-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/met-office/openapi/met-office-instance-data-api-openapi.yml
+- filename: met-office-instance-metadata-api-openapi.yml
+  format: yaml
+  label: Met Office Instance Metadata API
+  slug: met-office-instance-metadata-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/met-office/openapi/met-office-instance-metadata-api-openapi.yml
+- filename: met-office-met-office-land-observations-public-api-api-openapi.yml
+  format: yaml
+  label: Met Office Met Office Land Observations Public API
+  slug: met-office-met-office-land-observations-public-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/met-office/openapi/met-office-met-office-land-observations-public-api-api-openapi.yml
+- filename: met-office-nearest-api-openapi.yml
+  format: yaml
+  label: Met Office Nearest API
+  slug: met-office-nearest-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/met-office/openapi/met-office-nearest-api-openapi.yml
+- filename: met-office-objects-api-openapi.yml
+  format: yaml
+  label: Met Office Objects API
+  slug: met-office-objects-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/met-office/openapi/met-office-objects-api-openapi.yml
+- filename: met-office-orders-api-openapi.yml
+  format: yaml
+  label: Met Office Orders API
+  slug: met-office-orders-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/met-office/openapi/met-office-orders-api-openapi.yml
+- filename: met-office-point-api-openapi.yml
+  format: yaml
+  label: Met Office Point API
+  slug: met-office-point-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/met-office/openapi/met-office-point-api-openapi.yml
+- filename: met-office-runs-api-openapi.yml
+  format: yaml
+  label: Met Office Runs API
+  slug: met-office-runs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/met-office/openapi/met-office-runs-api-openapi.yml
+claim_count: 18
+description: ''
+doc:
+  data_categories:
+  - category: contact
+    text: Information that you provide, for example when you place an order for data or data services together with the details necessary to administer your account.
+  - category: communication
+    text: Information that you provide to us when you write to us, including by email or when we speak to you by telephone.
+  - category: behavioral
+    text: Information that you provide to us by completing feedback, surveys or participating in competitions.
+  deletion:
+    route: null
+    text: null
+  dpa:
+    available: null
+    text: null
+    url: null
+  purposes:
+  - purpose: administer account and deliver services
+    text: Registration details and customer information will be used to administer your account, to keep a record of which services you have subscribed to and to deliver the services you have requested.
+  - purpose: direct marketing
+    text: To provide you with information about Met Office offers and services (direct marketing) that you request from us or which we believe may be of interest to you
+  - purpose: website contact management
+    text: To ensure that contact from the Met Office website is presented in the most effective manner.
+  residency:
+  - region: United Kingdom
+    text: The Met Office is responsible for the processing of your personal information and is based in the United Kingdom (UK).
+  retention:
+  - period: null
+    scope: personal information
+    text: We will only retain your personal information for as long as necessary to fulfil the purposes we collected it for, including the purposes of satisfying any legal and regulatory requirements.
+  rights:
+  - right: access
+    text: The right of access
+  - right: rectification
+    text: The right to rectification
+  - right: erasure
+    text: The right to erasure
+  - right: restrict processing
+    text: The right to restrict processing
+  - right: data portability
+    text: The right to data portability
+  - right: object
+    text: The right to object
+  role:
+    text: The Data Controller is the Met Office, FitzRoy Road, Exeter, Devon, EX1 3PB on behalf of the Department for Business, Innovation, Science and Trade of the United Kingdom of Great Britain and Northern Ireland (BIST).
+    value: controller
+  sale_or_sharing:
+    stance: prohibited
+    text: We do not sell your personal information to any other organisations.
+  subprocessors:
+    text: null
+    url: null
+  transfers:
+  - mechanism: adequacy
+    text: We will only transfer your personal information to countries that have been deemed to provide an adequate level of protection for personal information by the European Commission.
+  - mechanism: SCC
+    text: Where we use certain data processors, we may use specific contractual clauses approved by the European Commission which give personal information the same protection it has in Europe.
+layer: privacy_policy
+layer_version: 0.1.0
+layout: privacy
+method: harvested
+model: claude-haiku-5-5
+name: Met Office
+provenance_date: '2026-11-10'
+provider_name: Met Office
+provider_slug: met-office
+slug: met-office-privacy-policy
+source_date: '2026-11-10'
+source_filename: met-office-privacy-policy.yml
+source_heading: Privacy Policy
+source_page: https://www.metoffice.gov.uk/policies/privacy
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\nprivacy_policy: 0.1.0\nprovider: Met Office\naid: met-office\nurl: https://www.metoffice.gov.uk/policies/privacy\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\nrole:\n  value: controller\n  text: The Data Controller is the Met Office, FitzRoy Road, Exeter, Devon, EX1 3PB on behalf of the Department\n    for Business, Innovation, Science and Trade of the United Kingdom of Great Britain and Northern Ireland (BIST).\ndata_categories:\n- category: contact\n  text: Information that you provide, for example when you place an order for data or data services together with\n    the details necessary to administer your account.\n- category: communication\n  text: Information\
+  \ that you provide to us when you write to us, including by email or when we speak to you by telephone.\n- category: behavioral\n  text: Information that you provide to us by completing feedback, surveys or participating in competitions.\npurposes:\n- purpose: administer account and deliver services\n  text: Registration details and customer information will be used to administer your account, to keep a record\n    of which services you have subscribed to and to deliver the services you have requested.\n- purpose: direct marketing\n  text: To provide you with information about Met Office offers and services (direct marketing) that you request\n    from us or which we believe may be of interest to you\n- purpose: website contact management\n  text: To ensure that contact from the Met Office website is presented in the most effective manner.\nretention:\n- scope: personal information\n  period: null\n  text: We will only retain your personal information for as long as necessary to fulfil\
+  \ the purposes we collected\n    it for, including the purposes of satisfying any legal and regulatory requirements.\nresidency:\n- region: United Kingdom\n  text: The Met Office is responsible for the processing of your personal information and is based in the United\n    Kingdom (UK).\ntransfers:\n- mechanism: adequacy\n  text: We will only transfer your personal information to countries that have been deemed to provide an adequate\n    level of protection for personal information by the European Commission.\n- mechanism: SCC\n  text: Where we use certain data processors, we may use specific contractual clauses approved by the European Commission\n    which give personal information the same protection it has in Europe.\nsubprocessors:\n  url: null\n  text: null\ndpa:\n  available: null\n  url: null\n  text: null\ndeletion:\n  route: null\n  text: null\nrights:\n- right: access\n  text: The right of access\n- right: rectification\n  text: The right to rectification\n- right: erasure\n\
+  \  text: The right to erasure\n- right: restrict processing\n  text: The right to restrict processing\n- right: data portability\n  text: The right to data portability\n- right: object\n  text: The right to object\nsale_or_sharing:\n  stance: prohibited\n  text: We do not sell your personal information to any other organisations.\n"
+source_yaml_url: https://artifacts.apis.io/met-office/privacy/met-office-privacy-policy.yml
+stated_fields:
+- role
+- data_categories
+- purposes
+- retention
+- residency
+- transfers
+- rights
+- sale_or_sharing
+summary_line: 18 quoted statements, read from Met Office's own page on 2026-11-10.
+synthetic: false
+tags:
+- Company
+- Weather
+- Climate
+- Forecast
+- Meteorology
+- Government
+- Open Data
+- United Kingdom
+---

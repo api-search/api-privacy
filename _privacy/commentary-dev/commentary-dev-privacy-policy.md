@@ -260,7 +260,7 @@ synthetic: false
 tags:
 - Company
 - AI Agents
-- Human In The Loop
+- Human-in-the-Loop
 - Code Review
 - Document Review
 - Markdown

@@ -126,6 +126,6 @@ tags:
 - Knowledge Management
 - Note Taking
 - Collaboration
-- Model Context Protocol
+- MCP
 - Productivity
 ---

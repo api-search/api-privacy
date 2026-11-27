@@ -115,9 +115,9 @@ tags:
 - Company
 - Headless CMS
 - Content Management
-- Content API
+- content-api
 - AI Agents
 - MCP
-- Webhooks
+- Webhook
 - JAMstack
 ---

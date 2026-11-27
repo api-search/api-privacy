@@ -178,11 +178,11 @@ synthetic: false
 tags:
 - Company
 - Git Hosting
-- Source Code Management
+- Version Control
 - Continuous Integration
 - Forgejo
 - Developer Tools
-- EU Hosted
+- EU-hosted
 - Data Sovereignty
 - MCP
 ---

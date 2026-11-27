@@ -103,7 +103,7 @@ tags:
 - Software Development
 - Consulting
 - Artificial Intelligence
-- Mobile Apps
+- Mobile App
 - Design
 - Flutter
 - MCP

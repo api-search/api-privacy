@@ -1,0 +1,87 @@
+---
+claim_count: 13
+description: ''
+doc:
+  data_categories:
+  - category: identifying
+    text: Identifier, such as your first and last name and email address.
+  - category: device
+    text: including IP address, geographical location, browser type, operating system, referral source, length of visit, page views, and navigation paths.
+  - category: communication
+    text: Call recordings may include voice recordings, caller identification information, and information voluntarily provided during the call.
+  deletion:
+    route: null
+    text: null
+  dpa:
+    available: null
+    text: null
+    url: null
+  purposes:
+  - purpose: Provide and maintain Services
+    text: To provide, maintain, and perform our Services, including to train Corey AI and its underlying models.
+  - purpose: Analyze and improve Services
+    text: To analyze your use of and interaction with our Services in order to operate, maintain, and improve the same
+  - purpose: Marketing communications
+    text: To contact you, respond to your requests, and otherwise to communicate with you, including informing you via marketing communications about our products and / or services that we think you may be interested in
+  residency:
+  - region: Europe
+    text: Data from European Clients is stored in the Dublin, Ireland data center.
+  - region: United States, Canada, Australia, Europe
+    text: When your organization initially sets up its account with CoreView, it has a choice of five (5) data center locations. Two are located in the United States, one in Canada, one in Australia, and one in Europe (Dublin, Ireland).
+  rights:
+  - right: access
+    text: To be informed of and request access to the Personal Data that we process (right of access).
+  - right: rectification
+    text: To request that we amend or update your Personal Data if it is inaccurate or incomplete (right of rectification).
+  - right: erasure
+    text: To request that we delete your Personal Data (right to erasure).
+  - right: object
+    text: To object to us processing your Personal Data on grounds relating to your particular situation at any time (right to object).
+  role:
+    text: null
+    value: unstated
+  sale_or_sharing:
+    stance: prohibited
+    text: We do not sell or share personal data with third parties in exchange for payment.
+  subprocessors:
+    text: null
+    url: null
+layer: privacy_policy
+layer_version: 0.1.0
+layout: privacy
+method: harvested
+model: claude-haiku-5-5
+name: CoreView (FKA 4ward365)
+provenance_date: '2026-11-09'
+provider_name: CoreView (FKA 4ward365)
+provider_slug: coreview-fka-4ward365
+slug: coreview-fka-4ward365-privacy-policy
+source_date: '2026-11-09'
+source_filename: coreview-fka-4ward365-privacy-policy.yml
+source_heading: Privacy Policy
+source_page: https://www.coreview.com/privacy-policy
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\nprivacy_policy: 0.1.0\nprovider: CoreView (FKA 4ward365)\naid: coreview-fka-4ward365\nurl: https://www.coreview.com/privacy-policy\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\nrole:\n  value: unstated\n  text: null\ndata_categories:\n- category: identifying\n  text: Identifier, such as your first and last name and email address.\n- category: device\n  text: including IP address, geographical location, browser type, operating system, referral source, length of\n    visit, page views, and navigation paths.\n- category: communication\n  text: Call recordings may include voice recordings, caller identification information, and information voluntarily\n    provided\
+  \ during the call.\npurposes:\n- purpose: Provide and maintain Services\n  text: To provide, maintain, and perform our Services, including to train Corey AI and its underlying models.\n- purpose: Analyze and improve Services\n  text: To analyze your use of and interaction with our Services in order to operate, maintain, and improve the\n    same\n- purpose: Marketing communications\n  text: To contact you, respond to your requests, and otherwise to communicate with you, including informing you\n    via marketing communications about our products and / or services that we think you may be interested in\nretention: []\nresidency:\n- region: Europe\n  text: Data from European Clients is stored in the Dublin, Ireland data center.\n- region: United States, Canada, Australia, Europe\n  text: When your organization initially sets up its account with CoreView, it has a choice of five (5) data center\n    locations. Two are located in the United States, one in Canada, one in Australia, and one\
+  \ in Europe (Dublin,\n    Ireland).\ntransfers: []\nsubprocessors:\n  url: null\n  text: null\ndpa:\n  available: null\n  url: null\n  text: null\ndeletion:\n  route: null\n  text: null\nrights:\n- right: access\n  text: To be informed of and request access to the Personal Data that we process (right of access).\n- right: rectification\n  text: To request that we amend or update your Personal Data if it is inaccurate or incomplete (right of rectification).\n- right: erasure\n  text: To request that we delete your Personal Data (right to erasure).\n- right: object\n  text: To object to us processing your Personal Data on grounds relating to your particular situation at any time\n    (right to object).\nsale_or_sharing:\n  stance: prohibited\n  text: We do not sell or share personal data with third parties in exchange for payment.\n"
+source_yaml_url: https://artifacts.apis.io/coreview-fka-4ward365/privacy/coreview-fka-4ward365-privacy-policy.yml
+stated_fields:
+- data_categories
+- purposes
+- residency
+- rights
+- sale_or_sharing
+summary_line: 13 quoted statements, read from CoreView (FKA 4ward365)'s own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- Microsoft 365
+- SaaS Management
+- Governance
+- Security
+- Identity
+- Automation
+- Workflows
+- License Management
+- IT Operations
+---

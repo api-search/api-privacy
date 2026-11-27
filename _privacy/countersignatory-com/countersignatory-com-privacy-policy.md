@@ -96,7 +96,7 @@ summary_line: 19 quoted statements, read from Countersignatory's own page on 202
 synthetic: false
 tags:
 - Company
-- Human In The Loop
+- Human-in-the-Loop
 - AI Agents
 - Human Verification
 - Marketplace

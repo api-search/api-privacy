@@ -108,7 +108,7 @@ synthetic: false
 tags:
 - Company
 - Conferences
-- Events
+- Event
 - Trade Shows
 - Sales Intelligence
 - B2B

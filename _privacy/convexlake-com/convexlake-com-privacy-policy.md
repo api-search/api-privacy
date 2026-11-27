@@ -79,7 +79,7 @@ tags:
 - Prediction Markets
 - Orderbook Data
 - Quantitative Finance
-- Crypto
+- Cryptocurrency
 - Derivatives
 - Historical Data
 - MCP

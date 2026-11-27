@@ -94,7 +94,7 @@ synthetic: false
 tags:
 - Company
 - AI Memory
-- Model Context Protocol
+- MCP
 - MCP Server
 - Knowledge Management
 - Markdown

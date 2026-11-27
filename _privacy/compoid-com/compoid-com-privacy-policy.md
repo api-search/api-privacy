@@ -204,7 +204,7 @@ synthetic: false
 tags:
 - Company
 - AI Agents
-- Model Context Protocol
+- MCP
 - Digital Repository
 - Research Data
 - Datasets

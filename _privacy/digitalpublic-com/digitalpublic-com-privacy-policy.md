@@ -1,0 +1,433 @@
+---
+api_specs:
+- filename: digitalpublic-com-aeo-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com AEO API
+  slug: digitalpublic-com-aeo-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-aeo-api-openapi.yml
+- filename: digitalpublic-com-agent-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Agent API
+  slug: digitalpublic-com-agent-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-agent-api-openapi.yml
+- filename: digitalpublic-com-analytics-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Analytics API
+  slug: digitalpublic-com-analytics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-analytics-api-openapi.yml
+- filename: digitalpublic-com-apify-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Apify API
+  slug: digitalpublic-com-apify-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-apify-api-openapi.yml
+- filename: digitalpublic-com-blog-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Blog API
+  slug: digitalpublic-com-blog-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-blog-api-openapi.yml
+- filename: digitalpublic-com-chatgpt-ads-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com ChatGPT Ads API
+  slug: digitalpublic-com-chatgpt-ads-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-chatgpt-ads-api-openapi.yml
+- filename: digitalpublic-com-codex-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Codex API
+  slug: digitalpublic-com-codex-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-codex-api-openapi.yml
+- filename: digitalpublic-com-comments-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Comments API
+  slug: digitalpublic-com-comments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-comments-api-openapi.yml
+- filename: digitalpublic-com-communications-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Communications API
+  slug: digitalpublic-com-communications-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-communications-api-openapi.yml
+- filename: digitalpublic-com-creatives-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Creatives API
+  slug: digitalpublic-com-creatives-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-creatives-api-openapi.yml
+- filename: digitalpublic-com-crm-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com CRM API
+  slug: digitalpublic-com-crm-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-crm-api-openapi.yml
+- filename: digitalpublic-com-discovery-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Discovery API
+  slug: digitalpublic-com-discovery-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-discovery-api-openapi.yml
+- filename: digitalpublic-com-evidence-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Evidence API
+  slug: digitalpublic-com-evidence-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-evidence-api-openapi.yml
+- filename: digitalpublic-com-google-ads-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Google Ads API
+  slug: digitalpublic-com-google-ads-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-google-ads-api-openapi.yml
+- filename: digitalpublic-com-google-business-profile-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Google Business Profile API
+  slug: digitalpublic-com-google-business-profile-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-google-business-profile-api-openapi.yml
+- filename: digitalpublic-com-google-tag-manager-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Google Tag Manager API
+  slug: digitalpublic-com-google-tag-manager-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-google-tag-manager-api-openapi.yml
+- filename: digitalpublic-com-governance-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Governance API
+  slug: digitalpublic-com-governance-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-governance-api-openapi.yml
+- filename: digitalpublic-com-knowledge-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Knowledge API
+  slug: digitalpublic-com-knowledge-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-knowledge-api-openapi.yml
+- filename: digitalpublic-com-landing-pages-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Landing Pages API
+  slug: digitalpublic-com-landing-pages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-landing-pages-api-openapi.yml
+- filename: digitalpublic-com-landingpages-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Landing Pages API
+  slug: digitalpublic-com-landingpages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-landingpages-api-openapi.yml
+- filename: digitalpublic-com-linkedin-ads-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com LinkedIn Ads API
+  slug: digitalpublic-com-linkedin-ads-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-linkedin-ads-api-openapi.yml
+- filename: digitalpublic-com-mailings-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Mailings API
+  slug: digitalpublic-com-mailings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-mailings-api-openapi.yml
+- filename: digitalpublic-com-meta-ads-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Meta Ads API
+  slug: digitalpublic-com-meta-ads-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-meta-ads-api-openapi.yml
+- filename: digitalpublic-com-orchestrator-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Orchestrator API
+  slug: digitalpublic-com-orchestrator-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-orchestrator-api-openapi.yml
+- filename: digitalpublic-com-outbound-crawl-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Outbound Crawl API
+  slug: digitalpublic-com-outbound-crawl-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-outbound-crawl-api-openapi.yml
+- filename: digitalpublic-com-platform-operations-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Platform Operations API
+  slug: digitalpublic-com-platform-operations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-platform-operations-api-openapi.yml
+- filename: digitalpublic-com-portfolio-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Portfolio API
+  slug: digitalpublic-com-portfolio-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-portfolio-api-openapi.yml
+- filename: digitalpublic-com-process-designer-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Process Designer API
+  slug: digitalpublic-com-process-designer-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-process-designer-api-openapi.yml
+- filename: digitalpublic-com-processes-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Processes API
+  slug: digitalpublic-com-processes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-processes-api-openapi.yml
+- filename: digitalpublic-com-product-feedback-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Product feedback API
+  slug: digitalpublic-com-product-feedback-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-product-feedback-api-openapi.yml
+- filename: digitalpublic-com-products-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Products API
+  slug: digitalpublic-com-products-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-products-api-openapi.yml
+- filename: digitalpublic-com-project-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Project API
+  slug: digitalpublic-com-project-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-project-api-openapi.yml
+- filename: digitalpublic-com-project-worker-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Project Worker API
+  slug: digitalpublic-com-project-worker-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-project-worker-api-openapi.yml
+- filename: digitalpublic-com-projectgroups-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Project Groups API
+  slug: digitalpublic-com-projectgroups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-projectgroups-api-openapi.yml
+- filename: digitalpublic-com-reports-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Reports API
+  slug: digitalpublic-com-reports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-reports-api-openapi.yml
+- filename: digitalpublic-com-research-data-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Research Data API
+  slug: digitalpublic-com-research-data-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-research-data-api-openapi.yml
+- filename: digitalpublic-com-scheduled-tasks-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Scheduled tasks API
+  slug: digitalpublic-com-scheduled-tasks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-scheduled-tasks-api-openapi.yml
+- filename: digitalpublic-com-scheduling-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Scheduling API
+  slug: digitalpublic-com-scheduling-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-scheduling-api-openapi.yml
+- filename: digitalpublic-com-search-console-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Search Console API
+  slug: digitalpublic-com-search-console-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-search-console-api-openapi.yml
+- filename: digitalpublic-com-seo-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com SEO API
+  slug: digitalpublic-com-seo-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-seo-api-openapi.yml
+- filename: digitalpublic-com-social-organic-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Social Organic API
+  slug: digitalpublic-com-social-organic-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-social-organic-api-openapi.yml
+- filename: digitalpublic-com-web-editorial-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Web Editorial API
+  slug: digitalpublic-com-web-editorial-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-web-editorial-api-openapi.yml
+- filename: digitalpublic-com-wordpress-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Word Press API
+  slug: digitalpublic-com-wordpress-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-wordpress-api-openapi.yml
+- filename: digitalpublic-com-capabilities-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Capabilities API
+  slug: digitalpublic-com-capabilities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-capabilities-api-openapi.yml
+- filename: digitalpublic-com-catalog-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Catalog API
+  slug: digitalpublic-com-catalog-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-catalog-api-openapi.yml
+- filename: digitalpublic-com-catalog-validation-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Catalog Validation API
+  slug: digitalpublic-com-catalog-validation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-catalog-validation-api-openapi.yml
+- filename: digitalpublic-com-checkout-intents-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Checkout Intents API
+  slug: digitalpublic-com-checkout-intents-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-checkout-intents-api-openapi.yml
+- filename: digitalpublic-com-company-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Company API
+  slug: digitalpublic-com-company-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-company-api-openapi.yml
+- filename: digitalpublic-com-fit-assessments-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Fit Assessments API
+  slug: digitalpublic-com-fit-assessments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-fit-assessments-api-openapi.yml
+- filename: digitalpublic-com-projects-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Projects API
+  slug: digitalpublic-com-projects-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-projects-api-openapi.yml
+- filename: digitalpublic-com-readiness-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Readiness API
+  slug: digitalpublic-com-readiness-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-readiness-api-openapi.yml
+- filename: digitalpublic-com-roi-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Roi API
+  slug: digitalpublic-com-roi-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-roi-api-openapi.yml
+- filename: digitalpublic-com-status-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Status API
+  slug: digitalpublic-com-status-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-status-api-openapi.yml
+- filename: digitalpublic-com-trials-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Trials API
+  slug: digitalpublic-com-trials-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-trials-api-openapi.yml
+- filename: digitalpublic-com-trust-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Trust API
+  slug: digitalpublic-com-trust-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-trust-api-openapi.yml
+- filename: digitalpublic-com-use-cases-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Use Cases API
+  slug: digitalpublic-com-use-cases-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-use-cases-api-openapi.yml
+- filename: digitalpublic-com-connections-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Connections API
+  slug: digitalpublic-com-connections-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-connections-api-openapi.yml
+- filename: digitalpublic-com-navigator-api-openapi.yml
+  format: yaml
+  label: digitalpublic-com Navigator API
+  slug: digitalpublic-com-navigator-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/digitalpublic-com/openapi/digitalpublic-com-navigator-api-openapi.yml
+claim_count: 15
+description: ''
+doc:
+  data_categories:
+  - category: identifying
+    text: Identidad, contacto, cuenta, equipo, plan, facturación y soporte.
+  - category: device
+    text: IP, dispositivo, seguridad, auditoría, consentimiento y actividad del servicio.
+  - category: other
+    text: Credenciales OAuth y API, cifradas o protegidas según su naturaleza.
+  - category: communication
+    text: Proyectos, campañas, contenidos, leads, comunicaciones, informes y datos de proveedores conectados.
+  deletion:
+    route: privacy@digitalpublic.com
+    text: Puedes solicitar la eliminación de tus datos a privacy@digitalpublic.com.
+  dpa:
+    available: null
+    text: null
+    url: null
+  purposes:
+  - purpose: provide service
+    text: Tratamos datos para prestar el portal, API y MCP
+  - purpose: billing
+    text: facturar mediante Stripe
+  - purpose: security and audit
+    text: proteger y auditar el servicio
+  retention:
+  - period: null
+    scope: project and connections after trial
+    text: Proyecto y conexiones se conservan cifrados durante 30 días para facilitar una contratación
+  - period: null
+    scope: trial credentials
+    text: Al terminar la prueba suspendemos credenciales y revocamos tokens.
+  rights:
+  - right: access, rectification, erasure, objection, restriction, portability
+    text: Puedes ejercer acceso, rectificación, supresión, oposición, limitación y portabilidad en privacy@digitalpublic.com
+  - right: complaint to authority
+    text: reclamar ante la AEPD
+  role:
+    text: Responsable CENTRO PUBLICIDAD ELECTRÓNICA ESPAÑA, S.L., CIF B53449120
+    value: controller
+  sale_or_sharing:
+    stance: prohibited
+    text: No vendemos datos personales.
+  subprocessors:
+    text: Usamos proveedores necesarios publicados en /subprocessors
+    url: /subprocessors
+layer: privacy_policy
+layer_version: 0.1.0
+layout: privacy
+method: harvested
+model: claude-haiku-5-5
+name: digitalpublic-com
+provenance_date: '2026-11-09'
+provider_name: digitalpublic-com
+provider_slug: digitalpublic-com
+slug: digitalpublic-com-privacy-policy
+source_date: '2026-11-09'
+source_filename: digitalpublic-com-privacy-policy.yml
+source_heading: Privacy Policy
+source_page: https://digitalpublic.com/politica-privacidad
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\nprivacy_policy: 0.1.0\nprovider: digitalpublic-com\naid: digitalpublic-com\nurl: https://digitalpublic.com/politica-privacidad\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\nrole:\n  value: controller\n  text: Responsable CENTRO PUBLICIDAD ELECTRÓNICA ESPAÑA, S.L., CIF B53449120\ndata_categories:\n- category: identifying\n  text: Identidad, contacto, cuenta, equipo, plan, facturación y soporte.\n- category: device\n  text: IP, dispositivo, seguridad, auditoría, consentimiento y actividad del servicio.\n- category: other\n  text: Credenciales OAuth y API, cifradas o protegidas según su naturaleza.\n- category: communication\n  text: Proyectos, campañas, contenidos,\
+  \ leads, comunicaciones, informes y datos de proveedores conectados.\npurposes:\n- purpose: provide service\n  text: Tratamos datos para prestar el portal, API y MCP\n- purpose: billing\n  text: facturar mediante Stripe\n- purpose: security and audit\n  text: proteger y auditar el servicio\nretention:\n- scope: project and connections after trial\n  period: null\n  text: Proyecto y conexiones se conservan cifrados durante 30 días para facilitar una contratación\n- scope: trial credentials\n  period: null\n  text: Al terminar la prueba suspendemos credenciales y revocamos tokens.\nresidency: []\ntransfers: []\nsubprocessors:\n  url: /subprocessors\n  text: Usamos proveedores necesarios publicados en /subprocessors\ndpa:\n  available: null\n  url: null\n  text: null\ndeletion:\n  route: privacy@digitalpublic.com\n  text: Puedes solicitar la eliminación de tus datos a privacy@digitalpublic.com.\nrights:\n- right: access, rectification, erasure, objection, restriction, portability\n  text:\
+  \ Puedes ejercer acceso, rectificación, supresión, oposición, limitación y portabilidad en privacy@digitalpublic.com\n- right: complaint to authority\n  text: reclamar ante la AEPD\nsale_or_sharing:\n  stance: prohibited\n  text: No vendemos datos personales.\n"
+source_yaml_url: https://artifacts.apis.io/digitalpublic-com/privacy/digitalpublic-com-privacy-policy.yml
+stated_fields:
+- role
+- data_categories
+- purposes
+- retention
+- subprocessors
+- deletion
+- rights
+- sale_or_sharing
+summary_line: 15 quoted statements, read from digitalpublic-com's own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- Data
+- Public
+- Civic
+---

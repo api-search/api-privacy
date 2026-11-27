@@ -110,7 +110,7 @@ tags:
 - Commercial Real Estate
 - Refinance
 - Lending
-- Mortgages
+- Mortgage
 - Financial Data
 - Datasets
 ---

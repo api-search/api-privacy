@@ -81,5 +81,5 @@ tags:
 - Dock Equipment
 - Facility Maintenance
 - Ontario
-- Model Context Protocol
+- MCP
 ---

@@ -75,7 +75,7 @@ summary_line: 13 quoted statements, read from Cosmonote's own page on 2026-11-09
 synthetic: false
 tags:
 - Company
-- AI
+- Artificial Intelligence
 - Note Taking
 - Transcription
 - Meetings

@@ -241,7 +241,7 @@ tags:
 - Email
 - AI Agents
 - Inboxes
-- Webhooks
+- Webhook
 - MCP
 - SMS
 ---

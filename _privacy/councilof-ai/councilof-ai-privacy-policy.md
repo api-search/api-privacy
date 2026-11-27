@@ -1,0 +1,862 @@
+---
+api_specs:
+- filename: councilof-ai-a2a-api-openapi.yml
+  format: yaml
+  label: Council of AI A2a API
+  slug: councilof-ai-a2a-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-a2a-api-openapi.yml
+- filename: councilof-ai-action-jobs-api-openapi.yml
+  format: yaml
+  label: Council of AI Action Jobs API
+  slug: councilof-ai-action-jobs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-action-jobs-api-openapi.yml
+- filename: councilof-ai-agentic-fix-api-openapi.yml
+  format: yaml
+  label: Council of AI Agentic Fix API
+  slug: councilof-ai-agentic-fix-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-agentic-fix-api-openapi.yml
+- filename: councilof-ai-article50-api-openapi.yml
+  format: yaml
+  label: Council of AI Article50 API
+  slug: councilof-ai-article50-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-article50-api-openapi.yml
+- filename: councilof-ai-assembly-api-openapi.yml
+  format: yaml
+  label: Council of AI Assembly API
+  slug: councilof-ai-assembly-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-assembly-api-openapi.yml
+- filename: councilof-ai-assess-api-openapi.yml
+  format: yaml
+  label: Council of AI Assess API
+  slug: councilof-ai-assess-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-assess-api-openapi.yml
+- filename: councilof-ai-atlas-api-openapi.yml
+  format: yaml
+  label: Council of AI Atlas API
+  slug: councilof-ai-atlas-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-atlas-api-openapi.yml
+- filename: councilof-ai-axis-register-api-openapi.yml
+  format: yaml
+  label: Council of AI Axis Register API
+  slug: councilof-ai-axis-register-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-axis-register-api-openapi.yml
+- filename: councilof-ai-badge-api-openapi.yml
+  format: yaml
+  label: Council of AI Badge API
+  slug: councilof-ai-badge-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-badge-api-openapi.yml
+- filename: councilof-ai-bank-complete-api-openapi.yml
+  format: yaml
+  label: Council of AI Bank Complete API
+  slug: councilof-ai-bank-complete-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-bank-complete-api-openapi.yml
+- filename: councilof-ai-benchmark-quality-api-openapi.yml
+  format: yaml
+  label: Council of AI Benchmark Quality API
+  slug: councilof-ai-benchmark-quality-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-benchmark-quality-api-openapi.yml
+- filename: councilof-ai-board-sign-api-openapi.yml
+  format: yaml
+  label: Council of AI Board Sign API
+  slug: councilof-ai-board-sign-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-board-sign-api-openapi.yml
+- filename: councilof-ai-body-state-api-openapi.yml
+  format: yaml
+  label: Council of AI Body State API
+  slug: councilof-ai-body-state-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-body-state-api-openapi.yml
+- filename: councilof-ai-cards-api-openapi.yml
+  format: yaml
+  label: Council of AI Cards API
+  slug: councilof-ai-cards-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-cards-api-openapi.yml
+- filename: councilof-ai-certificate-schema-api-openapi.yml
+  format: yaml
+  label: Council of AI Certificate Schema API
+  slug: councilof-ai-certificate-schema-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-certificate-schema-api-openapi.yml
+- filename: councilof-ai-challenge-api-openapi.yml
+  format: yaml
+  label: Council of AI Challenge API
+  slug: councilof-ai-challenge-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-challenge-api-openapi.yml
+- filename: councilof-ai-chat-api-openapi.yml
+  format: yaml
+  label: Council of AI Chat API
+  slug: councilof-ai-chat-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-chat-api-openapi.yml
+- filename: councilof-ai-checkout-api-openapi.yml
+  format: yaml
+  label: Council of AI Checkout API
+  slug: councilof-ai-checkout-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-checkout-api-openapi.yml
+- filename: councilof-ai-clarity-api-openapi.yml
+  format: yaml
+  label: Council of AI Clarity API
+  slug: councilof-ai-clarity-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-clarity-api-openapi.yml
+- filename: councilof-ai-commission-queue-api-openapi.yml
+  format: yaml
+  label: Council of AI Commission Queue API
+  slug: councilof-ai-commission-queue-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-commission-queue-api-openapi.yml
+- filename: councilof-ai-commissions-api-openapi.yml
+  format: yaml
+  label: Council of AI Commissions API
+  slug: councilof-ai-commissions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-commissions-api-openapi.yml
+- filename: councilof-ai-comparison-api-openapi.yml
+  format: yaml
+  label: Council of AI Comparison API
+  slug: councilof-ai-comparison-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-comparison-api-openapi.yml
+- filename: councilof-ai-compute-api-openapi.yml
+  format: yaml
+  label: Council of AI Compute API
+  slug: councilof-ai-compute-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-compute-api-openapi.yml
+- filename: councilof-ai-contact-api-openapi.yml
+  format: yaml
+  label: Council of AI Contact API
+  slug: councilof-ai-contact-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-contact-api-openapi.yml
+- filename: councilof-ai-corpus-watch-api-openapi.yml
+  format: yaml
+  label: Council of AI Corpus Watch API
+  slug: councilof-ai-corpus-watch-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-corpus-watch-api-openapi.yml
+- filename: councilof-ai-corrections-api-openapi.yml
+  format: yaml
+  label: Council of AI Corrections API
+  slug: councilof-ai-corrections-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-corrections-api-openapi.yml
+- filename: councilof-ai-counters-api-openapi.yml
+  format: yaml
+  label: Council of AI Counters API
+  slug: councilof-ai-counters-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-counters-api-openapi.yml
+- filename: councilof-ai-coverage-api-openapi.yml
+  format: yaml
+  label: Council of AI Coverage API
+  slug: councilof-ai-coverage-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-coverage-api-openapi.yml
+- filename: councilof-ai-coverage-truth-api-openapi.yml
+  format: yaml
+  label: Council of AI Coverage Truth API
+  slug: councilof-ai-coverage-truth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-coverage-truth-api-openapi.yml
+- filename: councilof-ai-cross-api-openapi.yml
+  format: yaml
+  label: Council of AI Cross API
+  slug: councilof-ai-cross-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-cross-api-openapi.yml
+- filename: councilof-ai-dashboard-api-openapi.yml
+  format: yaml
+  label: Council of AI Dashboard API
+  slug: councilof-ai-dashboard-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-dashboard-api-openapi.yml
+- filename: councilof-ai-decide-api-openapi.yml
+  format: yaml
+  label: Council of AI Decide API
+  slug: councilof-ai-decide-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-decide-api-openapi.yml
+- filename: councilof-ai-detect-api-openapi.yml
+  format: yaml
+  label: Council of AI Detect API
+  slug: councilof-ai-detect-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-detect-api-openapi.yml
+- filename: councilof-ai-detector-interop-api-openapi.yml
+  format: yaml
+  label: Council of AI Detector Interop API
+  slug: councilof-ai-detector-interop-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-detector-interop-api-openapi.yml
+- filename: councilof-ai-distribution-ledger-api-openapi.yml
+  format: yaml
+  label: Council of AI Distribution Ledger API
+  slug: councilof-ai-distribution-ledger-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-distribution-ledger-api-openapi.yml
+- filename: councilof-ai-east-west-bench-api-openapi.yml
+  format: yaml
+  label: Council of AI East West Bench API
+  slug: councilof-ai-east-west-bench-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-east-west-bench-api-openapi.yml
+- filename: councilof-ai-embed-api-openapi.yml
+  format: yaml
+  label: Council of AI Embed API
+  slug: councilof-ai-embed-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-embed-api-openapi.yml
+- filename: councilof-ai-eu-ai-act-api-openapi.yml
+  format: yaml
+  label: Council of AI Eu Ai Act API
+  slug: councilof-ai-eu-ai-act-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-eu-ai-act-api-openapi.yml
+- filename: councilof-ai-evidence-intake-api-openapi.yml
+  format: yaml
+  label: Council of AI Evidence Intake API
+  slug: councilof-ai-evidence-intake-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-evidence-intake-api-openapi.yml
+- filename: councilof-ai-evidence-pack-api-openapi.yml
+  format: yaml
+  label: Council of AI Evidence Pack API
+  slug: councilof-ai-evidence-pack-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-evidence-pack-api-openapi.yml
+- filename: councilof-ai-fabric-api-openapi.yml
+  format: yaml
+  label: Council of AI Fabric API
+  slug: councilof-ai-fabric-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-fabric-api-openapi.yml
+- filename: councilof-ai-feed-xml-api-openapi.yml
+  format: yaml
+  label: Council of AI Feed.xml API
+  slug: councilof-ai-feed-xml-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-feed-xml-api-openapi.yml
+- filename: councilof-ai-files-api-openapi.yml
+  format: yaml
+  label: Council of AI Files API
+  slug: councilof-ai-files-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-files-api-openapi.yml
+- filename: councilof-ai-findings-api-openapi.yml
+  format: yaml
+  label: Council of AI Findings API
+  slug: councilof-ai-findings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-findings-api-openapi.yml
+- filename: councilof-ai-fines-api-openapi.yml
+  format: yaml
+  label: Council of AI Fines API
+  slug: councilof-ai-fines-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-fines-api-openapi.yml
+- filename: councilof-ai-free-api-openapi.yml
+  format: yaml
+  label: Council of AI Free API
+  slug: councilof-ai-free-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-free-api-openapi.yml
+- filename: councilof-ai-fulfill-api-openapi.yml
+  format: yaml
+  label: Council of AI Fulfill API
+  slug: councilof-ai-fulfill-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-fulfill-api-openapi.yml
+- filename: councilof-ai-growth-loops-api-openapi.yml
+  format: yaml
+  label: Council of AI Growth Loops API
+  slug: councilof-ai-growth-loops-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-growth-loops-api-openapi.yml
+- filename: councilof-ai-gspc-api-openapi.yml
+  format: yaml
+  label: Council of AI Gspc API
+  slug: councilof-ai-gspc-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-gspc-api-openapi.yml
+- filename: councilof-ai-hf-spaces-api-openapi.yml
+  format: yaml
+  label: Council of AI Hf Spaces API
+  slug: councilof-ai-hf-spaces-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-hf-spaces-api-openapi.yml
+- filename: councilof-ai-hub-cards-api-openapi.yml
+  format: yaml
+  label: Council of AI Hub Cards API
+  slug: councilof-ai-hub-cards-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-hub-cards-api-openapi.yml
+- filename: councilof-ai-include-api-openapi.yml
+  format: yaml
+  label: Council of AI Include API
+  slug: councilof-ai-include-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-include-api-openapi.yml
+- filename: councilof-ai-interop-bulk-api-openapi.yml
+  format: yaml
+  label: Council of AI Interop Bulk API
+  slug: councilof-ai-interop-bulk-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-interop-bulk-api-openapi.yml
+- filename: councilof-ai-issuance-api-openapi.yml
+  format: yaml
+  label: Council of AI Issuance API
+  slug: councilof-ai-issuance-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-issuance-api-openapi.yml
+- filename: councilof-ai-lead-api-openapi.yml
+  format: yaml
+  label: Council of AI Lead API
+  slug: councilof-ai-lead-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-lead-api-openapi.yml
+- filename: councilof-ai-learn-loop-api-openapi.yml
+  format: yaml
+  label: Council of AI Learn Loop API
+  slug: councilof-ai-learn-loop-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-learn-loop-api-openapi.yml
+- filename: councilof-ai-learning-scenarios-api-openapi.yml
+  format: yaml
+  label: Council of AI Learning Scenarios API
+  slug: councilof-ai-learning-scenarios-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-learning-scenarios-api-openapi.yml
+- filename: councilof-ai-locale-api-openapi.yml
+  format: yaml
+  label: Council of AI Locale API
+  slug: councilof-ai-locale-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-locale-api-openapi.yml
+- filename: councilof-ai-mcp-api-openapi.yml
+  format: yaml
+  label: Council of AI MCP API
+  slug: councilof-ai-mcp-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-mcp-api-openapi.yml
+- filename: councilof-ai-memory-api-openapi.yml
+  format: yaml
+  label: Council of AI Memory API
+  slug: councilof-ai-memory-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-memory-api-openapi.yml
+- filename: councilof-ai-methodology-api-openapi.yml
+  format: yaml
+  label: Council of AI Methodology API
+  slug: councilof-ai-methodology-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-methodology-api-openapi.yml
+- filename: councilof-ai-mint-api-openapi.yml
+  format: yaml
+  label: Council of AI Mint API
+  slug: councilof-ai-mint-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-mint-api-openapi.yml
+- filename: councilof-ai-observability-api-openapi.yml
+  format: yaml
+  label: Council of AI Observability API
+  slug: councilof-ai-observability-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-observability-api-openapi.yml
+- filename: councilof-ai-og-api-openapi.yml
+  format: yaml
+  label: Council of AI Og API
+  slug: councilof-ai-og-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-og-api-openapi.yml
+- filename: councilof-ai-openapi-json-api-openapi.yml
+  format: yaml
+  label: Council of AI Openapi.json API
+  slug: councilof-ai-openapi-json-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-openapi-json-api-openapi.yml
+- filename: councilof-ai-operator-api-openapi.yml
+  format: yaml
+  label: Council of AI Operator API
+  slug: councilof-ai-operator-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-operator-api-openapi.yml
+- filename: councilof-ai-otel-api-openapi.yml
+  format: yaml
+  label: Council of AI Otel API
+  slug: councilof-ai-otel-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-otel-api-openapi.yml
+- filename: councilof-ai-owasp-report-api-openapi.yml
+  format: yaml
+  label: Council of AI Owasp Report API
+  slug: councilof-ai-owasp-report-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-owasp-report-api-openapi.yml
+- filename: councilof-ai-paddle-webhook-api-openapi.yml
+  format: yaml
+  label: Council of AI Paddle Webhook API
+  slug: councilof-ai-paddle-webhook-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-paddle-webhook-api-openapi.yml
+- filename: councilof-ai-pqc-api-openapi.yml
+  format: yaml
+  label: Council of AI Pqc API
+  slug: councilof-ai-pqc-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-pqc-api-openapi.yml
+- filename: councilof-ai-press-json-api-openapi.yml
+  format: yaml
+  label: Council of AI Press.json API
+  slug: councilof-ai-press-json-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-press-json-api-openapi.yml
+- filename: councilof-ai-prod-readiness-api-openapi.yml
+  format: yaml
+  label: Council of AI Prod Readiness API
+  slug: councilof-ai-prod-readiness-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-prod-readiness-api-openapi.yml
+- filename: councilof-ai-provider-canary-api-openapi.yml
+  format: yaml
+  label: Council of AI Provider Canary API
+  slug: councilof-ai-provider-canary-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-provider-canary-api-openapi.yml
+- filename: councilof-ai-receipt-status-api-openapi.yml
+  format: yaml
+  label: Council of AI Receipt Status API
+  slug: councilof-ai-receipt-status-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-receipt-status-api-openapi.yml
+- filename: councilof-ai-refund-api-openapi.yml
+  format: yaml
+  label: Council of AI Refund API
+  slug: councilof-ai-refund-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-refund-api-openapi.yml
+- filename: councilof-ai-registers-api-openapi.yml
+  format: yaml
+  label: Council of AI Registers API
+  slug: councilof-ai-registers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-registers-api-openapi.yml
+- filename: councilof-ai-regulation-api-openapi.yml
+  format: yaml
+  label: Council of AI Regulation API
+  slug: councilof-ai-regulation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-regulation-api-openapi.yml
+- filename: councilof-ai-regulator-findings-api-openapi.yml
+  format: yaml
+  label: Council of AI Regulator Findings API
+  slug: councilof-ai-regulator-findings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-regulator-findings-api-openapi.yml
+- filename: councilof-ai-report-api-openapi.yml
+  format: yaml
+  label: Council of AI Report API
+  slug: councilof-ai-report-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-report-api-openapi.yml
+- filename: councilof-ai-reported-api-openapi.yml
+  format: yaml
+  label: Council of AI Reported API
+  slug: councilof-ai-reported-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-reported-api-openapi.yml
+- filename: councilof-ai-revenue-api-openapi.yml
+  format: yaml
+  label: Council of AI Revenue API
+  slug: councilof-ai-revenue-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-revenue-api-openapi.yml
+- filename: councilof-ai-root-api-openapi.yml
+  format: yaml
+  label: Council of AI Root API
+  slug: councilof-ai-root-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-root-api-openapi.yml
+- filename: councilof-ai-router-api-openapi.yml
+  format: yaml
+  label: Council of AI Router API
+  slug: councilof-ai-router-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-router-api-openapi.yml
+- filename: councilof-ai-sandbox-api-openapi.yml
+  format: yaml
+  label: Council of AI Sandbox API
+  slug: councilof-ai-sandbox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-sandbox-api-openapi.yml
+- filename: councilof-ai-security-api-openapi.yml
+  format: yaml
+  label: Council of AI Security API
+  slug: councilof-ai-security-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-security-api-openapi.yml
+- filename: councilof-ai-specialists-api-openapi.yml
+  format: yaml
+  label: Council of AI Specialists API
+  slug: councilof-ai-specialists-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-specialists-api-openapi.yml
+- filename: councilof-ai-state-api-openapi.yml
+  format: yaml
+  label: Council of AI State API
+  slug: councilof-ai-state-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-state-api-openapi.yml
+- filename: councilof-ai-subscribe-api-openapi.yml
+  format: yaml
+  label: Council of AI Subscribe API
+  slug: councilof-ai-subscribe-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-subscribe-api-openapi.yml
+- filename: councilof-ai-summary-api-openapi.yml
+  format: yaml
+  label: Council of AI Summary API
+  slug: councilof-ai-summary-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-summary-api-openapi.yml
+- filename: councilof-ai-swift-api-openapi.yml
+  format: yaml
+  label: Council of AI Swift API
+  slug: councilof-ai-swift-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-swift-api-openapi.yml
+- filename: councilof-ai-synthesis-api-openapi.yml
+  format: yaml
+  label: Council of AI Synthesis API
+  slug: councilof-ai-synthesis-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-synthesis-api-openapi.yml
+- filename: councilof-ai-tools-api-openapi.yml
+  format: yaml
+  label: Council of AI Tools API
+  slug: councilof-ai-tools-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-tools-api-openapi.yml
+- filename: councilof-ai-trace-api-openapi.yml
+  format: yaml
+  label: Council of AI Trace API
+  slug: councilof-ai-trace-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-trace-api-openapi.yml
+- filename: councilof-ai-verify-api-openapi.yml
+  format: yaml
+  label: Council of AI Verify API
+  slug: councilof-ai-verify-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-verify-api-openapi.yml
+- filename: councilof-ai-verify-batch-api-openapi.yml
+  format: yaml
+  label: Council of AI Verify Batch API
+  slug: councilof-ai-verify-batch-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-verify-batch-api-openapi.yml
+- filename: councilof-ai-verify-card-api-openapi.yml
+  format: yaml
+  label: Council of AI Verify Card API
+  slug: councilof-ai-verify-card-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-verify-card-api-openapi.yml
+- filename: councilof-ai-verify-tally-api-openapi.yml
+  format: yaml
+  label: Council of AI Verify Tally API
+  slug: councilof-ai-verify-tally-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-verify-tally-api-openapi.yml
+- filename: councilof-ai-wave-dashboard-api-openapi.yml
+  format: yaml
+  label: Council of AI Wave Dashboard API
+  slug: councilof-ai-wave-dashboard-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-wave-dashboard-api-openapi.yml
+- filename: councilof-ai-webhooks-api-openapi.yml
+  format: yaml
+  label: Council of AI Webhooks API
+  slug: councilof-ai-webhooks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-webhooks-api-openapi.yml
+- filename: councilof-ai-witness-api-openapi.yml
+  format: yaml
+  label: Council of AI Witness API
+  slug: councilof-ai-witness-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-witness-api-openapi.yml
+- filename: councilof-ai-worker-api-openapi.yml
+  format: yaml
+  label: Council of AI Worker API
+  slug: councilof-ai-worker-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-worker-api-openapi.yml
+- filename: councilof-ai-x402-api-openapi.yml
+  format: yaml
+  label: Council of AI X402 API
+  slug: councilof-ai-x402-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-x402-api-openapi.yml
+- filename: councilof-ai-x402-trust-seller-api-openapi.yml
+  format: yaml
+  label: Council of AI X402 Trust Seller API
+  slug: councilof-ai-x402-trust-seller-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-x402-trust-seller-api-openapi.yml
+- filename: councilof-ai-xrpl-api-openapi.yml
+  format: yaml
+  label: Council of AI Xrpl API
+  slug: councilof-ai-xrpl-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-xrpl-api-openapi.yml
+- filename: councilof-ai-yield-api-openapi.yml
+  format: yaml
+  label: Council of AI Yield API
+  slug: councilof-ai-yield-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-yield-api-openapi.yml
+- filename: councilof-ai-arena-api-openapi.yml
+  format: yaml
+  label: Council of AI Arena API
+  slug: councilof-ai-arena-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-arena-api-openapi.yml
+- filename: councilof-ai-booking-webhook-api-openapi.yml
+  format: yaml
+  label: Council of AI Booking Webhook API
+  slug: councilof-ai-booking-webhook-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-booking-webhook-api-openapi.yml
+- filename: councilof-ai-claims-api-openapi.yml
+  format: yaml
+  label: Council of AI Claims API
+  slug: councilof-ai-claims-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-claims-api-openapi.yml
+- filename: councilof-ai-door-settles-api-openapi.yml
+  format: yaml
+  label: Council of AI Door Settles API
+  slug: councilof-ai-door-settles-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-door-settles-api-openapi.yml
+- filename: councilof-ai-evidence-api-openapi.yml
+  format: yaml
+  label: Council of AI Evidence API
+  slug: councilof-ai-evidence-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-evidence-api-openapi.yml
+- filename: councilof-ai-footprint-api-openapi.yml
+  format: yaml
+  label: Council of AI Footprint API
+  slug: councilof-ai-footprint-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-footprint-api-openapi.yml
+- filename: councilof-ai-momentum-api-openapi.yml
+  format: yaml
+  label: Council of AI Momentum API
+  slug: councilof-ai-momentum-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-momentum-api-openapi.yml
+- filename: councilof-ai-owm-api-openapi.yml
+  format: yaml
+  label: Council of AI Owm API
+  slug: councilof-ai-owm-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-owm-api-openapi.yml
+- filename: councilof-ai-receipts-api-openapi.yml
+  format: yaml
+  label: Council of AI Receipts API
+  slug: councilof-ai-receipts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-receipts-api-openapi.yml
+- filename: councilof-ai-route-api-openapi.yml
+  format: yaml
+  label: Council of AI Route API
+  slug: councilof-ai-route-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-route-api-openapi.yml
+- filename: councilof-ai-rulings-api-openapi.yml
+  format: yaml
+  label: Council of AI Rulings API
+  slug: councilof-ai-rulings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-rulings-api-openapi.yml
+- filename: councilof-ai-sign-api-openapi.yml
+  format: yaml
+  label: Council of AI Sign API
+  slug: councilof-ai-sign-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-sign-api-openapi.yml
+- filename: councilof-ai-sov-town-api-openapi.yml
+  format: yaml
+  label: Council of AI Sov Town API
+  slug: councilof-ai-sov-town-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-sov-town-api-openapi.yml
+- filename: councilof-ai-usage-api-openapi.yml
+  format: yaml
+  label: Council of AI Usage API
+  slug: councilof-ai-usage-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-usage-api-openapi.yml
+- filename: councilof-ai-waitlist-api-openapi.yml
+  format: yaml
+  label: Council of AI Waitlist API
+  slug: councilof-ai-waitlist-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-waitlist-api-openapi.yml
+- filename: councilof-ai-wrapper-api-openapi.yml
+  format: yaml
+  label: Council of AI Wrapper API
+  slug: councilof-ai-wrapper-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-wrapper-api-openapi.yml
+- filename: councilof-ai-x402-listing-402index-api-openapi.yml
+  format: yaml
+  label: Council of AI X402 Listing 402index API
+  slug: councilof-ai-x402-listing-402index-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-x402-listing-402index-api-openapi.yml
+- filename: councilof-ai-x402-listing-api-openapi.yml
+  format: yaml
+  label: Council of AI X402 Listing API
+  slug: councilof-ai-x402-listing-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-x402-listing-api-openapi.yml
+- filename: councilof-ai-x402-quotes-api-openapi.yml
+  format: yaml
+  label: Council of AI X402 Quotes API
+  slug: councilof-ai-x402-quotes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-x402-quotes-api-openapi.yml
+- filename: councilof-ai-xl-api-openapi.yml
+  format: yaml
+  label: Council of AI Xl API
+  slug: councilof-ai-xl-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/councilof-ai/openapi/councilof-ai-xl-api-openapi.yml
+claim_count: 21
+description: ''
+doc:
+  data_categories:
+  - category: financial
+    text: the settlement transaction hash, the payer wallet address, network, amount, the resource URL paid for (including any query parameters), and time
+  - category: identifying
+    text: email address, name, subject, message, any report or service reference you enter
+  - category: contact
+    text: 'Workspace accounts, if you register: email, name, a salted password hash'
+  - category: device
+    text: 'Request logs: IP address, user agent, URL and time of each request.'
+  deletion:
+    route: Write to the privacy contact address for an erasure request
+    text: You can ask for access, correction, deletion, restriction or a portable copy of your data.
+  dpa:
+    available: null
+    text: null
+    url: null
+  purposes:
+  - purpose: supplying what was paid for
+    text: Contract (supplying what was paid for); legal obligation (accounting records); legitimate interests (preventing a payment being replayed).
+  - purpose: providing purchase recovery and recording result decisions
+    text: Contract (providing purchase recovery and recording the buyer's result decision); legitimate interests (resolving delivery disputes).
+  - purpose: providing the account
+    text: Contract (providing the account).
+  - purpose: running and securing the service
+    text: Legitimate interests (running and securing the service).
+  retention:
+  - period: No automatic expiry is configured
+    scope: x402 payment and delivery records
+    text: No automatic expiry is configured for these records, including private retained outputs.
+  - period: No automatic expiry is configured
+    scope: Account-bound purchase history
+    text: No automatic expiry is configured. We retain these records for the applicable contract and dispute period
+  - period: No automatic expiry
+    scope: Contact and lead submissions
+    text: No automatic expiry. We delete it when the enquiry is closed and there is no continuing need
+  - period: For the life of the account
+    scope: Workspace accounts
+    text: For the life of the account; deleted on a valid erasure request where no exemption applies.
+  - period: Under Cloudflare's own retention
+    scope: Request logs
+    text: Under Cloudflare's own retention; we keep no copy.
+  rights:
+  - right: access
+    text: You can ask for access, correction, deletion, restriction or a portable copy of your data.
+  - right: object
+    text: You can object to processing based on legitimate interests, and withdraw consent at any time.
+  - right: complain to regulator
+    text: 'you can complain to the UK Information Commissioner''s Office: ico.org.uk/make-a-complaint'
+  role:
+    text: CSOAI Ltd, a private limited company registered in England and Wales, Companies House No. 16939677.
+    value: controller
+  sale_or_sharing:
+    stance: prohibited
+    text: We sell no personal data and share it with no one else unless the law requires it.
+  subprocessors:
+    text: Cloudflare hosts the site, runs its functions and provides the KV store. A payment facilitator verifies and settles x402 payments. Namecheap Private Email carries email.
+    url: null
+  transfers:
+  - mechanism: other
+    text: Some of these providers may process data outside the UK, under their own transfer safeguards.
+layer: privacy_policy
+layer_version: 0.1.0
+layout: privacy
+method: harvested
+model: claude-haiku-5-5
+name: Council of AI
+provenance_date: '2026-11-09'
+provider_name: Council of AI
+provider_slug: councilof-ai
+slug: councilof-ai-privacy-policy
+source_date: '2026-11-09'
+source_filename: councilof-ai-privacy-policy.yml
+source_heading: Privacy Policy
+source_page: https://councilof.ai/privacy/
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\nprivacy_policy: 0.1.0\nprovider: Council of AI\naid: councilof-ai\nurl: https://councilof.ai/privacy/\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\nrole:\n  value: controller\n  text: CSOAI Ltd, a private limited company registered in England and Wales, Companies House No. 16939677.\ndata_categories:\n- category: financial\n  text: the settlement transaction hash, the payer wallet address, network, amount, the resource URL paid for (including\n    any query parameters), and time\n- category: identifying\n  text: email address, name, subject, message, any report or service reference you enter\n- category: contact\n  text: 'Workspace accounts, if you register:\
+  \ email, name, a salted password hash'\n- category: device\n  text: 'Request logs: IP address, user agent, URL and time of each request.'\npurposes:\n- purpose: supplying what was paid for\n  text: Contract (supplying what was paid for); legal obligation (accounting records); legitimate interests (preventing\n    a payment being replayed).\n- purpose: providing purchase recovery and recording result decisions\n  text: Contract (providing purchase recovery and recording the buyer's result decision); legitimate interests (resolving\n    delivery disputes).\n- purpose: providing the account\n  text: Contract (providing the account).\n- purpose: running and securing the service\n  text: Legitimate interests (running and securing the service).\nretention:\n- scope: x402 payment and delivery records\n  period: No automatic expiry is configured\n  text: No automatic expiry is configured for these records, including private retained outputs.\n- scope: Account-bound purchase history\n  period:\
+  \ No automatic expiry is configured\n  text: No automatic expiry is configured. We retain these records for the applicable contract and dispute period\n- scope: Contact and lead submissions\n  period: No automatic expiry\n  text: No automatic expiry. We delete it when the enquiry is closed and there is no continuing need\n- scope: Workspace accounts\n  period: For the life of the account\n  text: For the life of the account; deleted on a valid erasure request where no exemption applies.\n- scope: Request logs\n  period: Under Cloudflare's own retention\n  text: Under Cloudflare's own retention; we keep no copy.\nresidency: []\ntransfers:\n- mechanism: other\n  text: Some of these providers may process data outside the UK, under their own transfer safeguards.\nsubprocessors:\n  url: null\n  text: Cloudflare hosts the site, runs its functions and provides the KV store. A payment facilitator verifies\n    and settles x402 payments. Namecheap Private Email carries email.\ndpa:\n  available:\
+  \ null\n  url: null\n  text: null\ndeletion:\n  route: Write to the privacy contact address for an erasure request\n  text: You can ask for access, correction, deletion, restriction or a portable copy of your data.\nrights:\n- right: access\n  text: You can ask for access, correction, deletion, restriction or a portable copy of your data.\n- right: object\n  text: You can object to processing based on legitimate interests, and withdraw consent at any time.\n- right: complain to regulator\n  text: 'you can complain to the UK Information Commissioner''s Office: ico.org.uk/make-a-complaint'\nsale_or_sharing:\n  stance: prohibited\n  text: We sell no personal data and share it with no one else unless the law requires it.\n"
+source_yaml_url: https://artifacts.apis.io/councilof-ai/privacy/councilof-ai-privacy-policy.yml
+stated_fields:
+- role
+- data_categories
+- purposes
+- retention
+- transfers
+- subprocessors
+- deletion
+- rights
+- sale_or_sharing
+summary_line: 21 quoted statements, read from Council of AI's own page on 2026-11-09.
+synthetic: false
+tags:
+- AI Governance
+- AI Measurement
+- AI Safety
+- EU AI Act
+- Compliance
+- Provenance
+- Agents
+- A2A
+- MCP
+- x402
+- Agentic Commerce
+- Agent-Native
+- United Kingdom
+---

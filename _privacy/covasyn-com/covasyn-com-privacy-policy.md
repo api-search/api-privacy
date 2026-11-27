@@ -104,7 +104,7 @@ tags:
 - Company
 - Chemistry
 - Pharma
-- Biotech
+- Biotechnology
 - Cheminformatics
 - MCP
 - Artificial Intelligence

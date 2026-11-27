@@ -64,7 +64,6 @@ synthetic: false
 tags:
 - Company
 - Research
-- Web Tools
 - Website Auditing
 - Open Source
 - MCP

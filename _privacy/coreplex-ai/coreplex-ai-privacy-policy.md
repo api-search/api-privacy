@@ -83,7 +83,7 @@ summary_line: 16 quoted statements, read from Coreplex's own page on 2026-11-09.
 synthetic: false
 tags:
 - Company
-- Ecommerce
+- E-Commerce
 - Shopping
 - Shopify
 - Product Comparison

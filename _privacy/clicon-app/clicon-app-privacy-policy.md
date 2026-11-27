@@ -81,6 +81,6 @@ tags:
 - MCP
 - AI Crawlers
 - Analytics
-- Business Tools
+- BusinessTools
 - SEO
 ---

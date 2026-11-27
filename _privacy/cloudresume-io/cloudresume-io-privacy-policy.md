@@ -67,7 +67,7 @@ summary_line: 11 quoted statements, read from cloudresume.io's own page on 2026-
 synthetic: false
 tags:
 - Company
-- Resumes
+- Resume
 - Resume Builder
 - Careers
 - Artificial Intelligence

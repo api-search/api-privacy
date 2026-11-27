@@ -110,7 +110,7 @@ tags:
 - Generative AI
 - Image Generation
 - Video Generation
-- Text To Speech
+- Text-to-Speech
 - MCP
 - Creative Tools
 ---

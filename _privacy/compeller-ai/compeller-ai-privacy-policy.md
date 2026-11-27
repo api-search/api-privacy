@@ -158,7 +158,7 @@ summary_line: 27 quoted statements, read from Compeller's own page on 2026-11-09
 synthetic: false
 tags:
 - Company
-- AI
+- Artificial Intelligence
 - Music
 - Video Generation
 - Live Performance

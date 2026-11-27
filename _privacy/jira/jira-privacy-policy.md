@@ -1,0 +1,875 @@
+---
+api_specs:
+- filename: jira-issue-comments-api-openapi.yml
+  format: yaml
+  label: Jira Issue Comments API
+  slug: jira-issue-comments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-comments-api-openapi.yml
+- filename: jira-issue-priorities-api-openapi.yml
+  format: yaml
+  label: Jira Issue Priorities API
+  slug: jira-issue-priorities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-priorities-api-openapi.yml
+- filename: jira-issue-search-api-openapi.yml
+  format: yaml
+  label: Jira Issue Search API
+  slug: jira-issue-search-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-search-api-openapi.yml
+- filename: jira-issue-statuses-api-openapi.yml
+  format: yaml
+  label: Jira Issue Statuses API
+  slug: jira-issue-statuses-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-statuses-api-openapi.yml
+- filename: jira-issue-transitions-api-openapi.yml
+  format: yaml
+  label: Jira Issue Transitions API
+  slug: jira-issue-transitions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-transitions-api-openapi.yml
+- filename: jira-issue-types-api-openapi.yml
+  format: yaml
+  label: Jira Issue Types API
+  slug: jira-issue-types-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-types-api-openapi.yml
+- filename: jira-issues-api-openapi.yml
+  format: yaml
+  label: Jira Issues API
+  slug: jira-issues-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issues-api-openapi.yml
+- filename: jira-projects-api-openapi.yml
+  format: yaml
+  label: Jira Projects API
+  slug: jira-projects-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-projects-api-openapi.yml
+- filename: jira-issue-comments-api-openapi.yml
+  format: yaml
+  label: Atlassian Jira Issue Comments API
+  slug: atlassian-jira-issue-comments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-comments-api-openapi.yml
+- filename: jira-issue-search-api-openapi.yml
+  format: yaml
+  label: Atlassian Jira Issue Search API
+  slug: atlassian-jira-issue-search-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-search-api-openapi.yml
+- filename: jira-issue-transitions-api-openapi.yml
+  format: yaml
+  label: Atlassian Jira Issue Transitions API
+  slug: atlassian-jira-issue-transitions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-transitions-api-openapi.yml
+- filename: jira-issue-worklogs-api-openapi.yml
+  format: yaml
+  label: Atlassian Jira Issue Worklogs API
+  slug: atlassian-jira-issue-worklogs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-worklogs-api-openapi.yml
+- filename: jira-issues-api-openapi.yml
+  format: yaml
+  label: Atlassian Jira Issues API
+  slug: atlassian-jira-issues-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issues-api-openapi.yml
+- filename: jira-projects-api-openapi.yml
+  format: yaml
+  label: Atlassian Jira Projects API
+  slug: atlassian-jira-projects-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-projects-api-openapi.yml
+- filename: jira-users-api-openapi.yml
+  format: yaml
+  label: Atlassian Jira Users API
+  slug: atlassian-jira-users-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-users-api-openapi.yml
+- filename: jira-announcement-banner-api-openapi.yml
+  format: yaml
+  label: Jira Announcement banner API
+  slug: jira-announcement-banner-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-announcement-banner-api-openapi.yml
+- filename: jira-app-data-policies-api-openapi.yml
+  format: yaml
+  label: Jira App data policies API
+  slug: jira-app-data-policies-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-app-data-policies-api-openapi.yml
+- filename: jira-app-migration-api-openapi.yml
+  format: yaml
+  label: Jira App migration API
+  slug: jira-app-migration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-app-migration-api-openapi.yml
+- filename: jira-app-properties-api-openapi.yml
+  format: yaml
+  label: Jira App properties API
+  slug: jira-app-properties-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-app-properties-api-openapi.yml
+- filename: jira-application-roles-api-openapi.yml
+  format: yaml
+  label: Jira Application roles API
+  slug: jira-application-roles-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-application-roles-api-openapi.yml
+- filename: jira-assets-api-openapi.yml
+  format: yaml
+  label: Jira Assets API
+  slug: jira-assets-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-assets-api-openapi.yml
+- filename: jira-audit-records-api-openapi.yml
+  format: yaml
+  label: Jira Audit records API
+  slug: jira-audit-records-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-audit-records-api-openapi.yml
+- filename: jira-avatars-api-openapi.yml
+  format: yaml
+  label: Jira Avatars API
+  slug: jira-avatars-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-avatars-api-openapi.yml
+- filename: jira-backlog-api-openapi.yml
+  format: yaml
+  label: Jira Backlog API
+  slug: jira-backlog-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-backlog-api-openapi.yml
+- filename: jira-board-api-openapi.yml
+  format: yaml
+  label: Jira Board API
+  slug: jira-board-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-board-api-openapi.yml
+- filename: jira-builds-api-openapi.yml
+  format: yaml
+  label: Jira Builds API
+  slug: jira-builds-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-builds-api-openapi.yml
+- filename: jira-classification-levels-api-openapi.yml
+  format: yaml
+  label: Jira Classification levels API
+  slug: jira-classification-levels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-classification-levels-api-openapi.yml
+- filename: jira-customer-api-openapi.yml
+  format: yaml
+  label: Jira Customer API
+  slug: jira-customer-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-customer-api-openapi.yml
+- filename: jira-dashboards-api-openapi.yml
+  format: yaml
+  label: Jira Dashboards API
+  slug: jira-dashboards-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-dashboards-api-openapi.yml
+- filename: jira-deployments-api-openapi.yml
+  format: yaml
+  label: Jira Deployments API
+  slug: jira-deployments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-deployments-api-openapi.yml
+- filename: jira-development-information-api-openapi.yml
+  format: yaml
+  label: Jira Development Information API
+  slug: jira-development-information-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-development-information-api-openapi.yml
+- filename: jira-devops-components-api-openapi.yml
+  format: yaml
+  label: Jira DevOps Components API
+  slug: jira-devops-components-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-devops-components-api-openapi.yml
+- filename: jira-dynamic-modules-api-openapi.yml
+  format: yaml
+  label: Jira Dynamic modules API
+  slug: jira-dynamic-modules-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-dynamic-modules-api-openapi.yml
+- filename: jira-epic-api-openapi.yml
+  format: yaml
+  label: Jira Epic API
+  slug: jira-epic-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-epic-api-openapi.yml
+- filename: jira-feature-flags-api-openapi.yml
+  format: yaml
+  label: Jira Feature Flags API
+  slug: jira-feature-flags-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-feature-flags-api-openapi.yml
+- filename: jira-field-schemes-api-openapi.yml
+  format: yaml
+  label: Jira Field schemes API
+  slug: jira-field-schemes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-field-schemes-api-openapi.yml
+- filename: jira-filter-sharing-api-openapi.yml
+  format: yaml
+  label: Jira Filter sharing API
+  slug: jira-filter-sharing-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-filter-sharing-api-openapi.yml
+- filename: jira-filters-api-openapi.yml
+  format: yaml
+  label: Jira Filters API
+  slug: jira-filters-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-filters-api-openapi.yml
+- filename: jira-group-and-user-picker-api-openapi.yml
+  format: yaml
+  label: Jira Group and user picker API
+  slug: jira-group-and-user-picker-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-group-and-user-picker-api-openapi.yml
+- filename: jira-groups-api-openapi.yml
+  format: yaml
+  label: Jira Groups API
+  slug: jira-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-groups-api-openapi.yml
+- filename: jira-info-api-openapi.yml
+  format: yaml
+  label: Jira Info API
+  slug: jira-info-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-info-api-openapi.yml
+- filename: jira-issue-api-openapi.yml
+  format: yaml
+  label: Jira Issue API
+  slug: jira-issue-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-api-openapi.yml
+- filename: jira-issue-attachments-api-openapi.yml
+  format: yaml
+  label: Jira Issue attachments API
+  slug: jira-issue-attachments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-attachments-api-openapi.yml
+- filename: jira-issue-bulk-operations-api-openapi.yml
+  format: yaml
+  label: Jira Issue bulk operations API
+  slug: jira-issue-bulk-operations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-bulk-operations-api-openapi.yml
+- filename: jira-issue-comment-properties-api-openapi.yml
+  format: yaml
+  label: Jira Issue comment properties API
+  slug: jira-issue-comment-properties-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-comment-properties-api-openapi.yml
+- filename: jira-issue-custom-field-associations-api-openapi.yml
+  format: yaml
+  label: Jira Issue custom field associations API
+  slug: jira-issue-custom-field-associations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-custom-field-associations-api-openapi.yml
+- filename: jira-issue-custom-field-configuration-apps-api-openapi.yml
+  format: yaml
+  label: Jira Issue custom field configuration (apps) API
+  slug: jira-issue-custom-field-configuration-apps-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-custom-field-configuration-apps-api-openapi.yml
+- filename: jira-issue-custom-field-contexts-api-openapi.yml
+  format: yaml
+  label: Jira Issue custom field contexts API
+  slug: jira-issue-custom-field-contexts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-custom-field-contexts-api-openapi.yml
+- filename: jira-issue-custom-field-options-api-openapi.yml
+  format: yaml
+  label: Jira Issue custom field options API
+  slug: jira-issue-custom-field-options-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-custom-field-options-api-openapi.yml
+- filename: jira-issue-custom-field-options-apps-api-openapi.yml
+  format: yaml
+  label: Jira Issue custom field options (apps) API
+  slug: jira-issue-custom-field-options-apps-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-custom-field-options-apps-api-openapi.yml
+- filename: jira-issue-custom-field-values-apps-api-openapi.yml
+  format: yaml
+  label: Jira Issue custom field values (apps) API
+  slug: jira-issue-custom-field-values-apps-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-custom-field-values-apps-api-openapi.yml
+- filename: jira-issue-field-configurations-api-openapi.yml
+  format: yaml
+  label: Jira Issue field configurations API
+  slug: jira-issue-field-configurations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-field-configurations-api-openapi.yml
+- filename: jira-issue-fields-api-openapi.yml
+  format: yaml
+  label: Jira Issue fields API
+  slug: jira-issue-fields-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-fields-api-openapi.yml
+- filename: jira-issue-link-types-api-openapi.yml
+  format: yaml
+  label: Jira Issue link types API
+  slug: jira-issue-link-types-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-link-types-api-openapi.yml
+- filename: jira-issue-links-api-openapi.yml
+  format: yaml
+  label: Jira Issue links API
+  slug: jira-issue-links-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-links-api-openapi.yml
+- filename: jira-issue-navigator-settings-api-openapi.yml
+  format: yaml
+  label: Jira Issue navigator settings API
+  slug: jira-issue-navigator-settings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-navigator-settings-api-openapi.yml
+- filename: jira-issue-notification-schemes-api-openapi.yml
+  format: yaml
+  label: Jira Issue notification schemes API
+  slug: jira-issue-notification-schemes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-notification-schemes-api-openapi.yml
+- filename: jira-issue-panels-api-openapi.yml
+  format: yaml
+  label: Jira Issue panels API
+  slug: jira-issue-panels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-panels-api-openapi.yml
+- filename: jira-issue-properties-api-openapi.yml
+  format: yaml
+  label: Jira Issue properties API
+  slug: jira-issue-properties-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-properties-api-openapi.yml
+- filename: jira-issue-redaction-api-openapi.yml
+  format: yaml
+  label: Jira Issue redaction API
+  slug: jira-issue-redaction-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-redaction-api-openapi.yml
+- filename: jira-issue-remote-links-api-openapi.yml
+  format: yaml
+  label: Jira Issue remote links API
+  slug: jira-issue-remote-links-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-remote-links-api-openapi.yml
+- filename: jira-issue-resolutions-api-openapi.yml
+  format: yaml
+  label: Jira Issue resolutions API
+  slug: jira-issue-resolutions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-resolutions-api-openapi.yml
+- filename: jira-issue-security-level-api-openapi.yml
+  format: yaml
+  label: Jira Issue security level API
+  slug: jira-issue-security-level-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-security-level-api-openapi.yml
+- filename: jira-issue-security-schemes-api-openapi.yml
+  format: yaml
+  label: Jira Issue security schemes API
+  slug: jira-issue-security-schemes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-security-schemes-api-openapi.yml
+- filename: jira-issue-type-properties-api-openapi.yml
+  format: yaml
+  label: Jira Issue type properties API
+  slug: jira-issue-type-properties-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-type-properties-api-openapi.yml
+- filename: jira-issue-type-schemes-api-openapi.yml
+  format: yaml
+  label: Jira Issue type schemes API
+  slug: jira-issue-type-schemes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-type-schemes-api-openapi.yml
+- filename: jira-issue-type-screen-schemes-api-openapi.yml
+  format: yaml
+  label: Jira Issue type screen schemes API
+  slug: jira-issue-type-screen-schemes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-type-screen-schemes-api-openapi.yml
+- filename: jira-issue-votes-api-openapi.yml
+  format: yaml
+  label: Jira Issue votes API
+  slug: jira-issue-votes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-votes-api-openapi.yml
+- filename: jira-issue-watchers-api-openapi.yml
+  format: yaml
+  label: Jira Issue watchers API
+  slug: jira-issue-watchers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-watchers-api-openapi.yml
+- filename: jira-issue-worklog-properties-api-openapi.yml
+  format: yaml
+  label: Jira Issue worklog properties API
+  slug: jira-issue-worklog-properties-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-issue-worklog-properties-api-openapi.yml
+- filename: jira-jira-expressions-api-openapi.yml
+  format: yaml
+  label: Jira Jira expressions API
+  slug: jira-jira-expressions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-jira-expressions-api-openapi.yml
+- filename: jira-jira-settings-api-openapi.yml
+  format: yaml
+  label: Jira Jira settings API
+  slug: jira-jira-settings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-jira-settings-api-openapi.yml
+- filename: jira-jql-api-openapi.yml
+  format: yaml
+  label: Jira JQL API
+  slug: jira-jql-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-jql-api-openapi.yml
+- filename: jira-jql-functions-apps-api-openapi.yml
+  format: yaml
+  label: Jira JQL functions (apps) API
+  slug: jira-jql-functions-apps-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-jql-functions-apps-api-openapi.yml
+- filename: jira-labels-api-openapi.yml
+  format: yaml
+  label: Jira Labels API
+  slug: jira-labels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-labels-api-openapi.yml
+- filename: jira-license-metrics-api-openapi.yml
+  format: yaml
+  label: Jira License metrics API
+  slug: jira-license-metrics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-license-metrics-api-openapi.yml
+- filename: jira-migration-of-connect-modules-to-forge-api-openapi.yml
+  format: yaml
+  label: Jira Migration of Connect modules to Forge API
+  slug: jira-migration-of-connect-modules-to-forge-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-migration-of-connect-modules-to-forge-api-openapi.yml
+- filename: jira-myself-api-openapi.yml
+  format: yaml
+  label: Jira Myself API
+  slug: jira-myself-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-myself-api-openapi.yml
+- filename: jira-operations-api-openapi.yml
+  format: yaml
+  label: Jira Operations API
+  slug: jira-operations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-operations-api-openapi.yml
+- filename: jira-organization-api-openapi.yml
+  format: yaml
+  label: Jira Organization API
+  slug: jira-organization-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-organization-api-openapi.yml
+- filename: jira-permission-schemes-api-openapi.yml
+  format: yaml
+  label: Jira Permission schemes API
+  slug: jira-permission-schemes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-permission-schemes-api-openapi.yml
+- filename: jira-permissions-api-openapi.yml
+  format: yaml
+  label: Jira Permissions API
+  slug: jira-permissions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-permissions-api-openapi.yml
+- filename: jira-plans-api-openapi.yml
+  format: yaml
+  label: Jira Plans API
+  slug: jira-plans-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-plans-api-openapi.yml
+- filename: jira-priority-schemes-api-openapi.yml
+  format: yaml
+  label: Jira Priority schemes API
+  slug: jira-priority-schemes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-priority-schemes-api-openapi.yml
+- filename: jira-project-avatars-api-openapi.yml
+  format: yaml
+  label: Jira Project avatars API
+  slug: jira-project-avatars-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-project-avatars-api-openapi.yml
+- filename: jira-project-categories-api-openapi.yml
+  format: yaml
+  label: Jira Project categories API
+  slug: jira-project-categories-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-project-categories-api-openapi.yml
+- filename: jira-project-classification-levels-api-openapi.yml
+  format: yaml
+  label: Jira Project classification levels API
+  slug: jira-project-classification-levels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-project-classification-levels-api-openapi.yml
+- filename: jira-project-components-api-openapi.yml
+  format: yaml
+  label: Jira Project components API
+  slug: jira-project-components-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-project-components-api-openapi.yml
+- filename: jira-project-email-api-openapi.yml
+  format: yaml
+  label: Jira Project email API
+  slug: jira-project-email-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-project-email-api-openapi.yml
+- filename: jira-project-features-api-openapi.yml
+  format: yaml
+  label: Jira Project features API
+  slug: jira-project-features-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-project-features-api-openapi.yml
+- filename: jira-project-key-and-name-validation-api-openapi.yml
+  format: yaml
+  label: Jira Project key and name validation API
+  slug: jira-project-key-and-name-validation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-project-key-and-name-validation-api-openapi.yml
+- filename: jira-project-permission-schemes-api-openapi.yml
+  format: yaml
+  label: Jira Project permission schemes API
+  slug: jira-project-permission-schemes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-project-permission-schemes-api-openapi.yml
+- filename: jira-project-properties-api-openapi.yml
+  format: yaml
+  label: Jira Project properties API
+  slug: jira-project-properties-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-project-properties-api-openapi.yml
+- filename: jira-project-role-actors-api-openapi.yml
+  format: yaml
+  label: Jira Project role actors API
+  slug: jira-project-role-actors-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-project-role-actors-api-openapi.yml
+- filename: jira-project-roles-api-openapi.yml
+  format: yaml
+  label: Jira Project roles API
+  slug: jira-project-roles-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-project-roles-api-openapi.yml
+- filename: jira-project-templates-api-openapi.yml
+  format: yaml
+  label: Jira Project templates API
+  slug: jira-project-templates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-project-templates-api-openapi.yml
+- filename: jira-project-types-api-openapi.yml
+  format: yaml
+  label: Jira Project types API
+  slug: jira-project-types-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-project-types-api-openapi.yml
+- filename: jira-project-versions-api-openapi.yml
+  format: yaml
+  label: Jira Project versions API
+  slug: jira-project-versions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-project-versions-api-openapi.yml
+- filename: jira-remote-links-api-openapi.yml
+  format: yaml
+  label: Jira Remote Links API
+  slug: jira-remote-links-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-remote-links-api-openapi.yml
+- filename: jira-request-api-openapi.yml
+  format: yaml
+  label: Jira Request API
+  slug: jira-request-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-request-api-openapi.yml
+- filename: jira-rest-api-openapi.yml
+  format: yaml
+  label: Jira Rest API
+  slug: jira-rest-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-rest-api-openapi.yml
+- filename: jira-screen-schemes-api-openapi.yml
+  format: yaml
+  label: Jira Screen schemes API
+  slug: jira-screen-schemes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-screen-schemes-api-openapi.yml
+- filename: jira-screen-tab-fields-api-openapi.yml
+  format: yaml
+  label: Jira Screen tab fields API
+  slug: jira-screen-tab-fields-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-screen-tab-fields-api-openapi.yml
+- filename: jira-screen-tabs-api-openapi.yml
+  format: yaml
+  label: Jira Screen tabs API
+  slug: jira-screen-tabs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-screen-tabs-api-openapi.yml
+- filename: jira-screens-api-openapi.yml
+  format: yaml
+  label: Jira Screens API
+  slug: jira-screens-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-screens-api-openapi.yml
+- filename: jira-security-information-api-openapi.yml
+  format: yaml
+  label: Jira Security Information API
+  slug: jira-security-information-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-security-information-api-openapi.yml
+- filename: jira-server-info-api-openapi.yml
+  format: yaml
+  label: Jira Server info API
+  slug: jira-server-info-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-server-info-api-openapi.yml
+- filename: jira-service-registry-api-openapi.yml
+  format: yaml
+  label: Jira Service Registry API
+  slug: jira-service-registry-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-service-registry-api-openapi.yml
+- filename: jira-servicedesk-api-openapi.yml
+  format: yaml
+  label: Jira Servicedesk API
+  slug: jira-servicedesk-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-servicedesk-api-openapi.yml
+- filename: jira-sprint-api-openapi.yml
+  format: yaml
+  label: Jira Sprint API
+  slug: jira-sprint-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-sprint-api-openapi.yml
+- filename: jira-status-api-openapi.yml
+  format: yaml
+  label: Jira Status API
+  slug: jira-status-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-status-api-openapi.yml
+- filename: jira-tasks-api-openapi.yml
+  format: yaml
+  label: Jira Tasks API
+  slug: jira-tasks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-tasks-api-openapi.yml
+- filename: jira-teams-in-plan-api-openapi.yml
+  format: yaml
+  label: Jira Teams in plan API
+  slug: jira-teams-in-plan-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-teams-in-plan-api-openapi.yml
+- filename: jira-time-tracking-api-openapi.yml
+  format: yaml
+  label: Jira Time tracking API
+  slug: jira-time-tracking-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-time-tracking-api-openapi.yml
+- filename: jira-ui-modifications-apps-api-openapi.yml
+  format: yaml
+  label: Jira UI modifications (apps) API
+  slug: jira-ui-modifications-apps-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-ui-modifications-apps-api-openapi.yml
+- filename: jira-user-properties-api-openapi.yml
+  format: yaml
+  label: Jira User properties API
+  slug: jira-user-properties-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-user-properties-api-openapi.yml
+- filename: jira-user-search-api-openapi.yml
+  format: yaml
+  label: Jira User search API
+  slug: jira-user-search-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-user-search-api-openapi.yml
+- filename: jira-webhooks-api-openapi.yml
+  format: yaml
+  label: Jira Webhooks API
+  slug: jira-webhooks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-webhooks-api-openapi.yml
+- filename: jira-workflow-scheme-drafts-api-openapi.yml
+  format: yaml
+  label: Jira Workflow scheme drafts API
+  slug: jira-workflow-scheme-drafts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-workflow-scheme-drafts-api-openapi.yml
+- filename: jira-workflow-scheme-project-associations-api-openapi.yml
+  format: yaml
+  label: Jira Workflow scheme project associations API
+  slug: jira-workflow-scheme-project-associations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-workflow-scheme-project-associations-api-openapi.yml
+- filename: jira-workflow-schemes-api-openapi.yml
+  format: yaml
+  label: Jira Workflow schemes API
+  slug: jira-workflow-schemes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-workflow-schemes-api-openapi.yml
+- filename: jira-workflow-status-categories-api-openapi.yml
+  format: yaml
+  label: Jira Workflow status categories API
+  slug: jira-workflow-status-categories-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-workflow-status-categories-api-openapi.yml
+- filename: jira-workflow-statuses-api-openapi.yml
+  format: yaml
+  label: Jira Workflow statuses API
+  slug: jira-workflow-statuses-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-workflow-statuses-api-openapi.yml
+- filename: jira-workflow-transition-rules-api-openapi.yml
+  format: yaml
+  label: Jira Workflow transition rules API
+  slug: jira-workflow-transition-rules-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-workflow-transition-rules-api-openapi.yml
+- filename: jira-workflows-api-openapi.yml
+  format: yaml
+  label: Jira Workflows API
+  slug: jira-workflows-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-workflows-api-openapi.yml
+- filename: jira-knowledge-base-api-openapi.yml
+  format: yaml
+  label: Jira Knowledge Base API
+  slug: jira-knowledge-base-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-knowledge-base-api-openapi.yml
+- filename: jira-request-type-api-openapi.yml
+  format: yaml
+  label: Jira Request Type API
+  slug: jira-request-type-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/jira/openapi/jira-request-type-api-openapi.yml
+claim_count: 26
+description: ''
+doc:
+  data_categories:
+  - category: identifying
+    text: Identifiers , such as name, email address, unique identifiers associated with user or user account, IP Address
+  - category: contact
+    text: For example, you provide contact information (e.g., name or email address)
+  - category: financial
+    text: You might also provide payment information, such as payment card details
+  - category: location
+    text: We use your IP address and/or country preference to approximate your location
+  - category: device
+    text: We also collect information through your device about your operating system, browser type, IP address
+  - category: communication
+    text: We collect content that you submit to these websites
+  - category: professional
+    text: physical mail addresses, job titles, email addresses, phone numbers
+  deletion:
+    route: Account settings or request through the contact links on the page
+    text: If you would like to delete your Atlassian account, see here for more information.
+  dpa:
+    available: true
+    text: as further specified in the Data Processing Addendum entered into with those customers
+    url: null
+  purposes:
+  - purpose: Provide services and personalize experience
+    text: We use information about you to provide the Services to you, including to process transactions
+  - purpose: Develop and improve services
+    text: We use information and collective learnings (including feedback) about how people use our Services
+  - purpose: Marketing and promotional activities
+    text: We use information about you and how you use the Services for analysis, research and communications relating to marketing
+  - purpose: Customer support and model training
+    text: including for development, training, or fine-tuning of machine learning and artificial intelligence models
+  - purpose: Safety and security
+    text: Detection and response may leverage generative artificial intelligence or machine learning tools.
+  retention:
+  - period: as long as your account is active and a reasonable period thereafter
+    scope: Account information
+    text: We retain your account information for as long as your account is active and a reasonable period thereafter in case you decide to re-activate the Services.
+  - period: a reasonable period of time
+    scope: Cookie-derived information
+    text: We retain information derived from cookies and other tracking technologies for a reasonable period of time from the date such information was created.
+  rights:
+  - right: Access
+    text: to request a copy of your information
+  - right: Deletion or restriction
+    text: to request the deletion or restriction of your information
+  - right: Objection
+    text: to object to our use of your information (including for marketing purposes)
+  - right: Portability
+    text: to request your information in a structured, electronic format
+  - right: Correction
+    text: to request to correct or update your information
+  - right: Opt out of targeted advertising
+    text: to opt out of certain disclosures of personal information and targeted advertising
+  role:
+    text: This privacy policy describes Atlassian’s data practices as a controller of personal information.
+    value: both
+  sale_or_sharing:
+    stance: conditional
+    text: Where applicable under local law, you may have the right to opt out of targeted advertising
+  subprocessors:
+    text: null
+    url: null
+  transfers:
+  - mechanism: DPF
+    text: Atlassian complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF)
+  - mechanism: SCC
+    text: the standard contractual data protection clauses (see here ), which have been approved by the European Commission
+layer: privacy_policy
+layer_version: 0.1.0
+layout: privacy
+method: harvested
+model: claude-haiku-5-5
+name: Jira
+provenance_date: '2026-11-09'
+provider_name: Jira
+provider_slug: jira
+slug: jira-privacy-policy
+source_date: '2026-11-09'
+source_filename: jira-privacy-policy.yml
+source_heading: Privacy Policy
+source_page: https://www.atlassian.com/legal/privacy-policy
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\nprivacy_policy: 0.1.0\nprovider: Jira\naid: jira\nurl: https://www.atlassian.com/legal/privacy-policy\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\n  truncated: true\nrole:\n  value: both\n  text: This privacy policy describes Atlassian’s data practices as a controller of personal information.\ndata_categories:\n- category: identifying\n  text: Identifiers , such as name, email address, unique identifiers associated with user or user account, IP Address\n- category: contact\n  text: For example, you provide contact information (e.g., name or email address)\n- category: financial\n  text: You might also provide payment information, such as payment card details\n\
+  - category: location\n  text: We use your IP address and/or country preference to approximate your location\n- category: device\n  text: We also collect information through your device about your operating system, browser type, IP address\n- category: communication\n  text: We collect content that you submit to these websites\n- category: professional\n  text: physical mail addresses, job titles, email addresses, phone numbers\npurposes:\n- purpose: Provide services and personalize experience\n  text: We use information about you to provide the Services to you, including to process transactions\n- purpose: Develop and improve services\n  text: We use information and collective learnings (including feedback) about how people use our Services\n- purpose: Marketing and promotional activities\n  text: We use information about you and how you use the Services for analysis, research and communications relating\n    to marketing\n- purpose: Customer support and model training\n  text: including\
+  \ for development, training, or fine-tuning of machine learning and artificial intelligence models\n- purpose: Safety and security\n  text: Detection and response may leverage generative artificial intelligence or machine learning tools.\nretention:\n- scope: Account information\n  period: as long as your account is active and a reasonable period thereafter\n  text: We retain your account information for as long as your account is active and a reasonable period thereafter\n    in case you decide to re-activate the Services.\n- scope: Cookie-derived information\n  period: a reasonable period of time\n  text: We retain information derived from cookies and other tracking technologies for a reasonable period of time\n    from the date such information was created.\nresidency: []\ntransfers:\n- mechanism: DPF\n  text: Atlassian complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF)\n- mechanism: SCC\n  text: the standard contractual data protection clauses (see here ), which have been\
+  \ approved by the European Commission\nsubprocessors:\n  url: null\n  text: null\ndpa:\n  available: true\n  url: null\n  text: as further specified in the Data Processing Addendum entered into with those customers\ndeletion:\n  route: Account settings or request through the contact links on the page\n  text: If you would like to delete your Atlassian account, see here for more information.\nrights:\n- right: Access\n  text: to request a copy of your information\n- right: Deletion or restriction\n  text: to request the deletion or restriction of your information\n- right: Objection\n  text: to object to our use of your information (including for marketing purposes)\n- right: Portability\n  text: to request your information in a structured, electronic format\n- right: Correction\n  text: to request to correct or update your information\n- right: Opt out of targeted advertising\n  text: to opt out of certain disclosures of personal information and targeted advertising\nsale_or_sharing:\n\
+  \  stance: conditional\n  text: Where applicable under local law, you may have the right to opt out of targeted advertising\n"
+source_yaml_url: https://artifacts.apis.io/jira/privacy/jira-privacy-policy.yml
+stated_fields:
+- role
+- data_categories
+- purposes
+- retention
+- transfers
+- dpa
+- deletion
+- rights
+- sale_or_sharing
+summary_line: 26 quoted statements, read from Jira's own page on 2026-11-09.
+synthetic: false
+tags:
+- Agile
+- Issue Tracking
+- ITSM
+- Project Management
+- Service Management
+- Jira
+---

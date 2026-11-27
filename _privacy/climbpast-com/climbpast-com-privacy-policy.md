@@ -65,7 +65,6 @@ synthetic: false
 tags:
 - Company
 - MCP
-- Model Context Protocol
 - Google Analytics
 - Search Console
 - Google Tag Manager

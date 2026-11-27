@@ -75,6 +75,6 @@ tags:
 - Productivity
 - Education
 - Meetings
-- Model Context Protocol
+- MCP
 - Web App
 ---

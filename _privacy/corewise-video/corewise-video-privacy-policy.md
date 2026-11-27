@@ -97,6 +97,6 @@ tags:
 - Video Summarization
 - Knowledge Management
 - Research
-- Model Context Protocol
+- MCP
 - Content Extraction
 ---

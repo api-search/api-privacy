@@ -106,6 +106,6 @@ tags:
 - Literature Search
 - Scholarly Papers
 - MCP
-- AI Assistants
+- AI Assistant
 - Citations
 ---

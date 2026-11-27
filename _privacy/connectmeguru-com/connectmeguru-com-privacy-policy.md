@@ -114,6 +114,6 @@ tags:
 - Mobile Data
 - Connectivity
 - Wholesale
-- Model Context Protocol
+- MCP
 - AI Agents
 ---

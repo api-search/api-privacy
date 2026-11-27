@@ -84,7 +84,7 @@ tags:
 - Congress
 - State Legislatures
 - Bill Tracking
-- Model Context Protocol
-- AI
+- MCP
+- Artificial Intelligence
 - Policy Research
 ---

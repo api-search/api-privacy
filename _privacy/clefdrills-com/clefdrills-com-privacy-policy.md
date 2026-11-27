@@ -93,8 +93,8 @@ tags:
 - Music Education
 - Piano
 - Sight Reading
-- Mobile Apps
+- Mobile App
 - iOS
 - MIDI
-- Model Context Protocol
+- MCP
 ---

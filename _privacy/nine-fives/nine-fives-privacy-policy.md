@@ -1,0 +1,138 @@
+---
+api_specs:
+- filename: nine-fives-attenuator-api-openapi.yml
+  format: yaml
+  label: Nine Fives Attenuator API
+  slug: nine-fives-attenuator-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/nine-fives/openapi/nine-fives-attenuator-api-openapi.yml
+- filename: nine-fives-firmware-api-openapi.yml
+  format: yaml
+  label: Nine Fives Firmware API
+  slug: nine-fives-firmware-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/nine-fives/openapi/nine-fives-firmware-api-openapi.yml
+- filename: nine-fives-network-api-openapi.yml
+  format: yaml
+  label: Nine Fives Network API
+  slug: nine-fives-network-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/nine-fives/openapi/nine-fives-network-api-openapi.yml
+- filename: nine-fives-switch-api-openapi.yml
+  format: yaml
+  label: Nine Fives Switch API
+  slug: nine-fives-switch-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/nine-fives/openapi/nine-fives-switch-api-openapi.yml
+- filename: nine-fives-system-api-openapi.yml
+  format: yaml
+  label: Nine Fives System API
+  slug: nine-fives-system-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/nine-fives/openapi/nine-fives-system-api-openapi.yml
+claim_count: 20
+description: ''
+doc:
+  data_categories:
+  - category: contact
+    text: Contact details including your name, address, billing address, shipping address, phone number, and email address.
+  - category: financial
+    text: Financial information including credit card, debit card, and financial account numbers, payment card information, financial account information, transaction details, form of payment, payment confirmation and other payment details.
+  - category: identifying
+    text: Account information including your username, password, security questions, preferences and settings.
+  - category: behavioral
+    text: Transaction information including the items you view, put in your cart, add to your wishlist, or purchase, return, exchange or cancel and your past transactions.
+  - category: communication
+    text: Communications with us including the information you include in communications with us, for example, when sending a customer support inquiry.
+  - category: device
+    text: Device information including information about your device, browser, or network connection, your IP address, and other unique identifiers.
+  - category: behavioral
+    text: Usage information including information regarding your interaction with the Services, including how and when you interact with or navigate the Services.
+  deletion:
+    route: contact store@ninefives.com
+    text: you may contact us using the contact details set out below to request that it be deleted.
+  dpa:
+    available: null
+    text: null
+    url: null
+  purposes:
+  - purpose: Provide, tailor and improve services
+    text: We use your personal information to provide you with the Services, including to perform our contract with you, to process your payments, to fulfill your orders
+  - purpose: Marketing and advertising
+    text: We use your personal information for marketing and promotional purposes, such as to send marketing, advertising and promotional communications by email, text message or postal mail
+  - purpose: Security and fraud prevention
+    text: We use your personal information to authenticate your account, to provide a secure payment and shopping experience, detect, investigate or take action regarding possible fraudulent, illegal, unsafe, or malicious activity
+  - purpose: Communicating with you
+    text: We use your personal information to provide you with customer support, to be responsive to you
+  - purpose: Legal reasons
+    text: We use your personal information to comply with applicable law or respond to valid legal process
+  retention:
+  - period: null
+    scope: general
+    text: How long we retain your personal information depends on different factors, such as whether we need the information to maintain your account, to provide you with Services, comply with legal obligations, resolve disputes or enforce other applicable contracts and policies.
+  rights:
+  - right: Access / know
+    text: Right to Access / Know. You may have a right to request access to personal information that we hold about you.
+  - right: Delete
+    text: Right to Delete. You may have a right to request that we delete personal information we maintain about you.
+  - right: Correct
+    text: Right to Correct. You may have a right to request that we correct inaccurate personal information we maintain about you.
+  - right: Portability
+    text: Right of Portability. You may have a right to receive a copy of the personal information we hold about you
+  - right: Opt out of sale or sharing
+    text: Right to Opt out of Sale or Sharing for Targeted Advertising.
+  role:
+    text: null
+    value: unstated
+  sale_or_sharing:
+    stance: unstated
+    text: null
+  subprocessors:
+    text: null
+    url: null
+  transfers:
+  - mechanism: SCC
+    text: If we transfer your personal information out of the European Economic Area or the United Kingdom, we will rely on recognized transfer mechanisms like the European Commission's Standard Contractual Clauses
+layer: privacy_policy
+layer_version: 0.1.0
+layout: privacy
+method: harvested
+model: claude-haiku-5-5
+name: Nine Fives
+provenance_date: '2026-11-10'
+provider_name: Nine Fives
+provider_slug: nine-fives
+slug: nine-fives-privacy-policy
+source_date: '2026-11-10'
+source_filename: nine-fives-privacy-policy.yml
+source_heading: Privacy Policy
+source_page: https://ninefives.com/policies/privacy-policy
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\nprivacy_policy: 0.1.0\nprovider: Nine Fives\naid: nine-fives\nurl: https://ninefives.com/policies/privacy-policy\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\nrole:\n  value: unstated\n  text: null\ndata_categories:\n- category: contact\n  text: Contact details including your name, address, billing address, shipping address, phone number, and email\n    address.\n- category: financial\n  text: Financial information including credit card, debit card, and financial account numbers, payment card information,\n    financial account information, transaction details, form of payment, payment confirmation and other payment\n    details.\n- category: identifying\n\
+  \  text: Account information including your username, password, security questions, preferences and settings.\n- category: behavioral\n  text: Transaction information including the items you view, put in your cart, add to your wishlist, or purchase,\n    return, exchange or cancel and your past transactions.\n- category: communication\n  text: Communications with us including the information you include in communications with us, for example, when\n    sending a customer support inquiry.\n- category: device\n  text: Device information including information about your device, browser, or network connection, your IP address,\n    and other unique identifiers.\n- category: behavioral\n  text: Usage information including information regarding your interaction with the Services, including how and\n    when you interact with or navigate the Services.\npurposes:\n- purpose: Provide, tailor and improve services\n  text: We use your personal information to provide you with the Services, including\
+  \ to perform our contract with\n    you, to process your payments, to fulfill your orders\n- purpose: Marketing and advertising\n  text: We use your personal information for marketing and promotional purposes, such as to send marketing, advertising\n    and promotional communications by email, text message or postal mail\n- purpose: Security and fraud prevention\n  text: We use your personal information to authenticate your account, to provide a secure payment and shopping\n    experience, detect, investigate or take action regarding possible fraudulent, illegal, unsafe, or malicious\n    activity\n- purpose: Communicating with you\n  text: We use your personal information to provide you with customer support, to be responsive to you\n- purpose: Legal reasons\n  text: We use your personal information to comply with applicable law or respond to valid legal process\nretention:\n- scope: general\n  period: null\n  text: How long we retain your personal information depends on different factors,\
+  \ such as whether we need the information\n    to maintain your account, to provide you with Services, comply with legal obligations, resolve disputes or enforce\n    other applicable contracts and policies.\nresidency: []\ntransfers:\n- mechanism: SCC\n  text: If we transfer your personal information out of the European Economic Area or the United Kingdom, we will\n    rely on recognized transfer mechanisms like the European Commission's Standard Contractual Clauses\nsubprocessors:\n  url: null\n  text: null\ndpa:\n  available: null\n  url: null\n  text: null\ndeletion:\n  route: contact store@ninefives.com\n  text: you may contact us using the contact details set out below to request that it be deleted.\nrights:\n- right: Access / know\n  text: Right to Access / Know. You may have a right to request access to personal information that we hold about\n    you.\n- right: Delete\n  text: Right to Delete. You may have a right to request that we delete personal information we maintain about\
+  \ you.\n- right: Correct\n  text: Right to Correct. You may have a right to request that we correct inaccurate personal information we maintain\n    about you.\n- right: Portability\n  text: Right of Portability. You may have a right to receive a copy of the personal information we hold about you\n- right: Opt out of sale or sharing\n  text: Right to Opt out of Sale or Sharing for Targeted Advertising.\nsale_or_sharing:\n  stance: unstated\n  text: null\n"
+source_yaml_url: https://artifacts.apis.io/nine-fives/privacy/nine-fives-privacy-policy.yml
+stated_fields:
+- data_categories
+- purposes
+- retention
+- transfers
+- deletion
+- rights
+summary_line: 20 quoted statements, read from Nine Fives's own page on 2026-11-10.
+synthetic: false
+tags:
+- Company
+- RF Test Equipment
+- Test and Measurement
+- Hardware
+- IoT
+- Instrumentation
+- Automation
+- Aerospace
+- Attenuator
+- RF Switch
+- SCPI
+---

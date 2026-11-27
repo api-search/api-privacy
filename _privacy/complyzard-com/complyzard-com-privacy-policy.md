@@ -110,5 +110,5 @@ tags:
 - Privacy
 - AI Governance
 - Document Marketplace
-- Model Context Protocol
+- MCP
 ---

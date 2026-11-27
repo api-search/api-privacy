@@ -139,10 +139,10 @@ tags:
 - Company
 - Authentication
 - Identity
-- Sign-In
+- Sign In
 - Passkeys
-- OIDC
-- Single Sign-On
+- OpenID Connect
+- SSO
 - AI Agents
 - MCP
 ---

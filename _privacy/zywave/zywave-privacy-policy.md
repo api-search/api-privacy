@@ -1,0 +1,595 @@
+---
+api_specs:
+- filename: zywave-account-api-openapi.yml
+  format: yaml
+  label: Zywave Account API
+  slug: zywave-account-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-account-api-openapi.yml
+- filename: zywave-accountcontact-api-openapi.yml
+  format: yaml
+  label: Zywave Account Contact API
+  slug: zywave-accountcontact-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-accountcontact-api-openapi.yml
+- filename: zywave-accountcontactdriver-api-openapi.yml
+  format: yaml
+  label: Zywave Account Contact Driver API
+  slug: zywave-accountcontactdriver-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-accountcontactdriver-api-openapi.yml
+- filename: zywave-accountcontacts-api-openapi.yml
+  format: yaml
+  label: Zywave Account Contacts API
+  slug: zywave-accountcontacts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-accountcontacts-api-openapi.yml
+- filename: zywave-accountexternalreference-api-openapi.yml
+  format: yaml
+  label: Zywave Account External Reference API
+  slug: zywave-accountexternalreference-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-accountexternalreference-api-openapi.yml
+- filename: zywave-accounts-api-openapi.yml
+  format: yaml
+  label: Zywave Accounts API
+  slug: zywave-accounts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-accounts-api-openapi.yml
+- filename: zywave-activation-api-openapi.yml
+  format: yaml
+  label: Zywave Activation API
+  slug: zywave-activation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-activation-api-openapi.yml
+- filename: zywave-activities-api-openapi.yml
+  format: yaml
+  label: Zywave Activities API
+  slug: zywave-activities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-activities-api-openapi.yml
+- filename: zywave-agency-api-openapi.yml
+  format: yaml
+  label: Zywave Agency API
+  slug: zywave-agency-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-agency-api-openapi.yml
+- filename: zywave-agency-data-api-openapi.yml
+  format: yaml
+  label: Zywave Agency Data API
+  slug: zywave-agency-data-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-agency-data-api-openapi.yml
+- filename: zywave-agencyuser-api-openapi.yml
+  format: yaml
+  label: Zywave Agency User API
+  slug: zywave-agencyuser-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-agencyuser-api-openapi.yml
+- filename: zywave-assessment-api-openapi.yml
+  format: yaml
+  label: Zywave Assessment API
+  slug: zywave-assessment-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-assessment-api-openapi.yml
+- filename: zywave-assignment-api-openapi.yml
+  format: yaml
+  label: Zywave Assignment API
+  slug: zywave-assignment-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-assignment-api-openapi.yml
+- filename: zywave-audits-api-openapi.yml
+  format: yaml
+  label: Zywave Audits API
+  slug: zywave-audits-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-audits-api-openapi.yml
+- filename: zywave-benefititemclauses-api-openapi.yml
+  format: yaml
+  label: Zywave Benefit Item Clauses API
+  slug: zywave-benefititemclauses-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-benefititemclauses-api-openapi.yml
+- filename: zywave-benefititemoptions-api-openapi.yml
+  format: yaml
+  label: Zywave Benefit Item Options API
+  slug: zywave-benefititemoptions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-benefititemoptions-api-openapi.yml
+- filename: zywave-benefititemoptiontypes-api-openapi.yml
+  format: yaml
+  label: Zywave Benefit Item Option Types API
+  slug: zywave-benefititemoptiontypes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-benefititemoptiontypes-api-openapi.yml
+- filename: zywave-benefititems-api-openapi.yml
+  format: yaml
+  label: Zywave Benefit Items API
+  slug: zywave-benefititems-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-benefititems-api-openapi.yml
+- filename: zywave-benefititemtiers-api-openapi.yml
+  format: yaml
+  label: Zywave Benefit Item Tiers API
+  slug: zywave-benefititemtiers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-benefititemtiers-api-openapi.yml
+- filename: zywave-benefititemvalues-api-openapi.yml
+  format: yaml
+  label: Zywave Benefit Item Values API
+  slug: zywave-benefititemvalues-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-benefititemvalues-api-openapi.yml
+- filename: zywave-billingmodes-api-openapi.yml
+  format: yaml
+  label: Zywave Billing Modes API
+  slug: zywave-billingmodes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-billingmodes-api-openapi.yml
+- filename: zywave-brokercontacts-api-openapi.yml
+  format: yaml
+  label: Zywave Broker Contacts API
+  slug: zywave-brokercontacts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-brokercontacts-api-openapi.yml
+- filename: zywave-carrier-api-openapi.yml
+  format: yaml
+  label: Zywave Carrier API
+  slug: zywave-carrier-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-carrier-api-openapi.yml
+- filename: zywave-carriercommissiontoagencypaymentschedules-api-openapi.yml
+  format: yaml
+  label: Zywave Carrier Commission To Agency Payment Schedules API
+  slug: zywave-carriercommissiontoagencypaymentschedules-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-carriercommissiontoagencypaymentschedules-api-openapi.yml
+- filename: zywave-carriercompany-api-openapi.yml
+  format: yaml
+  label: Zywave Carrier Company API
+  slug: zywave-carriercompany-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-carriercompany-api-openapi.yml
+- filename: zywave-carriers-api-openapi.yml
+  format: yaml
+  label: Zywave Carriers API
+  slug: zywave-carriers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-carriers-api-openapi.yml
+- filename: zywave-cobra-api-openapi.yml
+  format: yaml
+  label: Zywave COBRA API
+  slug: zywave-cobra-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-cobra-api-openapi.yml
+- filename: zywave-commercial-api-openapi.yml
+  format: yaml
+  label: Zywave Commercial API
+  slug: zywave-commercial-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-commercial-api-openapi.yml
+- filename: zywave-commissionbillings-api-openapi.yml
+  format: yaml
+  label: Zywave Commission Billings API
+  slug: zywave-commissionbillings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-commissionbillings-api-openapi.yml
+- filename: zywave-commissionperiods-api-openapi.yml
+  format: yaml
+  label: Zywave Commission Periods API
+  slug: zywave-commissionperiods-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-commissionperiods-api-openapi.yml
+- filename: zywave-commissions-api-openapi.yml
+  format: yaml
+  label: Zywave Commissions API
+  slug: zywave-commissions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-commissions-api-openapi.yml
+- filename: zywave-commissionsplits-api-openapi.yml
+  format: yaml
+  label: Zywave Commission Splits API
+  slug: zywave-commissionsplits-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-commissionsplits-api-openapi.yml
+- filename: zywave-commissionstatements-api-openapi.yml
+  format: yaml
+  label: Zywave Commission Statements API
+  slug: zywave-commissionstatements-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-commissionstatements-api-openapi.yml
+- filename: zywave-company-api-openapi.yml
+  format: yaml
+  label: Zywave Company API
+  slug: zywave-company-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-company-api-openapi.yml
+- filename: zywave-content-api-openapi.yml
+  format: yaml
+  label: Zywave Content API
+  slug: zywave-content-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-content-api-openapi.yml
+- filename: zywave-contributions-api-openapi.yml
+  format: yaml
+  label: Zywave Contributions API
+  slug: zywave-contributions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-contributions-api-openapi.yml
+- filename: zywave-course-api-openapi.yml
+  format: yaml
+  label: Zywave Course API
+  slug: zywave-course-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-course-api-openapi.yml
+- filename: zywave-coursecategory-api-openapi.yml
+  format: yaml
+  label: Zywave Course Category API
+  slug: zywave-coursecategory-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-coursecategory-api-openapi.yml
+- filename: zywave-coveragetypes-api-openapi.yml
+  format: yaml
+  label: Zywave Coverage Types API
+  slug: zywave-coveragetypes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-coveragetypes-api-openapi.yml
+- filename: zywave-departments-api-openapi.yml
+  format: yaml
+  label: Zywave Departments API
+  slug: zywave-departments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-departments-api-openapi.yml
+- filename: zywave-download-api-openapi.yml
+  format: yaml
+  label: Zywave Download API
+  slug: zywave-download-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-download-api-openapi.yml
+- filename: zywave-eligibilities-api-openapi.yml
+  format: yaml
+  label: Zywave Eligibilities API
+  slug: zywave-eligibilities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-eligibilities-api-openapi.yml
+- filename: zywave-employeegroups-api-openapi.yml
+  format: yaml
+  label: Zywave Employee Groups API
+  slug: zywave-employeegroups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-employeegroups-api-openapi.yml
+- filename: zywave-employees-api-openapi.yml
+  format: yaml
+  label: Zywave Employees API
+  slug: zywave-employees-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-employees-api-openapi.yml
+- filename: zywave-etl-after-cobra-strategy-api-openapi.yml
+  format: yaml
+  label: Zywave ETL after COBRA Strategy API
+  slug: zywave-etl-after-cobra-strategy-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-etl-after-cobra-strategy-api-openapi.yml
+- filename: zywave-etl-after-commission-period-api-openapi.yml
+  format: yaml
+  label: Zywave ETL after Commission Period API
+  slug: zywave-etl-after-commission-period-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-etl-after-commission-period-api-openapi.yml
+- filename: zywave-etl-after-contribution-strategy-api-openapi.yml
+  format: yaml
+  label: Zywave ETL after Contribution Strategy API
+  slug: zywave-etl-after-contribution-strategy-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-etl-after-contribution-strategy-api-openapi.yml
+- filename: zywave-etl-after-policy-api-openapi.yml
+  format: yaml
+  label: Zywave ETL after Policy API
+  slug: zywave-etl-after-policy-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-etl-after-policy-api-openapi.yml
+- filename: zywave-feature-api-openapi.yml
+  format: yaml
+  label: Zywave Feature API
+  slug: zywave-feature-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-feature-api-openapi.yml
+- filename: zywave-featurelicense-api-openapi.yml
+  format: yaml
+  label: Zywave Feature License API
+  slug: zywave-featurelicense-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-featurelicense-api-openapi.yml
+- filename: zywave-fees-api-openapi.yml
+  format: yaml
+  label: Zywave Fees API
+  slug: zywave-fees-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-fees-api-openapi.yml
+- filename: zywave-feetypes-api-openapi.yml
+  format: yaml
+  label: Zywave Fee Types API
+  slug: zywave-feetypes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-feetypes-api-openapi.yml
+- filename: zywave-file-api-openapi.yml
+  format: yaml
+  label: Zywave File API
+  slug: zywave-file-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-file-api-openapi.yml
+- filename: zywave-files-api-openapi.yml
+  format: yaml
+  label: Zywave Files API
+  slug: zywave-files-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-files-api-openapi.yml
+- filename: zywave-fixedrates-api-openapi.yml
+  format: yaml
+  label: Zywave Fixed Rates API
+  slug: zywave-fixedrates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-fixedrates-api-openapi.yml
+- filename: zywave-folders-api-openapi.yml
+  format: yaml
+  label: Zywave Folders API
+  slug: zywave-folders-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-folders-api-openapi.yml
+- filename: zywave-health-welfare-api-openapi.yml
+  format: yaml
+  label: Zywave Health & Welfare API
+  slug: zywave-health-welfare-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-health-welfare-api-openapi.yml
+- filename: zywave-industries-api-openapi.yml
+  format: yaml
+  label: Zywave Industries API
+  slug: zywave-industries-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-industries-api-openapi.yml
+- filename: zywave-industry-api-openapi.yml
+  format: yaml
+  label: Zywave Industry API
+  slug: zywave-industry-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-industry-api-openapi.yml
+- filename: zywave-insuredpaymentschedules-api-openapi.yml
+  format: yaml
+  label: Zywave Insured Payment Schedules API
+  slug: zywave-insuredpaymentschedules-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-insuredpaymentschedules-api-openapi.yml
+- filename: zywave-label-api-openapi.yml
+  format: yaml
+  label: Zywave Label API
+  slug: zywave-label-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-label-api-openapi.yml
+- filename: zywave-license-api-openapi.yml
+  format: yaml
+  label: Zywave License API
+  slug: zywave-license-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-license-api-openapi.yml
+- filename: zywave-lossdetails-api-openapi.yml
+  format: yaml
+  label: Zywave Loss Details API
+  slug: zywave-lossdetails-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-lossdetails-api-openapi.yml
+- filename: zywave-plans-api-openapi.yml
+  format: yaml
+  label: Zywave Plans API
+  slug: zywave-plans-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-plans-api-openapi.yml
+- filename: zywave-policies-api-openapi.yml
+  format: yaml
+  label: Zywave Policies API
+  slug: zywave-policies-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-policies-api-openapi.yml
+- filename: zywave-policyaction-api-openapi.yml
+  format: yaml
+  label: Zywave Policy Action API
+  slug: zywave-policyaction-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-policyaction-api-openapi.yml
+- filename: zywave-policycoveragetypes-api-openapi.yml
+  format: yaml
+  label: Zywave Policy Coverage Types API
+  slug: zywave-policycoveragetypes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-policycoveragetypes-api-openapi.yml
+- filename: zywave-policygroups-api-openapi.yml
+  format: yaml
+  label: Zywave Policy Groups API
+  slug: zywave-policygroups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-policygroups-api-openapi.yml
+- filename: zywave-policystatuses-api-openapi.yml
+  format: yaml
+  label: Zywave Policy Statuses API
+  slug: zywave-policystatuses-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-policystatuses-api-openapi.yml
+- filename: zywave-preferredbenefititems-api-openapi.yml
+  format: yaml
+  label: Zywave Preferred Benefit Items API
+  slug: zywave-preferredbenefititems-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-preferredbenefititems-api-openapi.yml
+- filename: zywave-profile-api-openapi.yml
+  format: yaml
+  label: Zywave Profile API
+  slug: zywave-profile-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-profile-api-openapi.yml
+- filename: zywave-quotes-api-openapi.yml
+  format: yaml
+  label: Zywave Quotes API
+  slug: zywave-quotes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-quotes-api-openapi.yml
+- filename: zywave-rates-api-openapi.yml
+  format: yaml
+  label: Zywave Rates API
+  slug: zywave-rates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-rates-api-openapi.yml
+- filename: zywave-ratingarea-api-openapi.yml
+  format: yaml
+  label: Zywave Rating Area API
+  slug: zywave-ratingarea-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-ratingarea-api-openapi.yml
+- filename: zywave-recommendedcontent-api-openapi.yml
+  format: yaml
+  label: Zywave Recommended Content API
+  slug: zywave-recommendedcontent-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-recommendedcontent-api-openapi.yml
+- filename: zywave-relationshiptype-api-openapi.yml
+  format: yaml
+  label: Zywave Relationship Type API
+  slug: zywave-relationshiptype-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-relationshiptype-api-openapi.yml
+- filename: zywave-roles-api-openapi.yml
+  format: yaml
+  label: Zywave Roles API
+  slug: zywave-roles-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-roles-api-openapi.yml
+- filename: zywave-smartcontent-api-openapi.yml
+  format: yaml
+  label: Zywave Smart Content API
+  slug: zywave-smartcontent-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-smartcontent-api-openapi.yml
+- filename: zywave-tieredrates-api-openapi.yml
+  format: yaml
+  label: Zywave Tiered Rates API
+  slug: zywave-tieredrates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-tieredrates-api-openapi.yml
+- filename: zywave-toolpackage-api-openapi.yml
+  format: yaml
+  label: Zywave Tool Package API
+  slug: zywave-toolpackage-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-toolpackage-api-openapi.yml
+- filename: zywave-userprincipal-api-openapi.yml
+  format: yaml
+  label: Zywave User Principal API
+  slug: zywave-userprincipal-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-userprincipal-api-openapi.yml
+- filename: zywave-vendors-api-openapi.yml
+  format: yaml
+  label: Zywave Vendors API
+  slug: zywave-vendors-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-vendors-api-openapi.yml
+- filename: zywave-volumerates-api-openapi.yml
+  format: yaml
+  label: Zywave Volume Rates API
+  slug: zywave-volumerates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-volumerates-api-openapi.yml
+- filename: zywave-reference-data-api-openapi.yml
+  format: yaml
+  label: Zywave Reference Data API
+  slug: zywave-reference-data-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/zywave/openapi/zywave-reference-data-api-openapi.yml
+claim_count: 16
+description: ''
+doc:
+  data_categories:
+  - category: identifying
+    text: real name, postal address, unique personal identifier, online identifier, Internet Protocol address, email address
+  - category: financial
+    text: You may be required to provide financial information before placing an order through our Website.
+  - category: behavioral
+    text: browsing history, search history, information on an individual's interaction with a website, application or advertisement
+  - category: location
+    text: details of your visits to, and use of, our Website (including location data
+  deletion:
+    route: Email request to access, correct, or delete
+    text: You may send us an email at [email protected] to request access to, correct, or delete any Personal Information that we have collected about you.
+  dpa:
+    available: null
+    text: null
+    url: null
+  purposes:
+  - purpose: Provide and personalize website
+    text: to provide and personalize our Website and its content to you
+  - purpose: Targeted advertising
+    text: to personalize your Website experience and to deliver content and product and service offerings relevant to your interests, including targeted offers and advertisements
+  - purpose: Security and fraud prevention
+    text: to help maintain the safety, security, and integrity of our Website, products and services, databases and other technology assets, and business
+  - purpose: Product development and analytics
+    text: for internal testing, research, analysis, and product development
+  residency:
+  - region: United States
+    text: Your Personal Information may be processed and stored in the United States
+  rights:
+  - right: Access
+    text: to request access to, correct, or delete any Personal Information that we have collected about you
+  - right: Correction
+    text: to request access to, correct, or delete any Personal Information that we have collected about you
+  - right: Opt out of tracking via cookie manager
+    text: You may disable these technologies through our cookie consent manager
+  role:
+    text: we are a processor and process your Personal Information in the role of a vendor, business associate, or service provider on behalf of a customer
+    value: processor
+  sale_or_sharing:
+    stance: conditional
+    text: We do not share, sell, or otherwise disclose your Personal Information for purposes other than those outlined in this Privacy Statement.
+  subprocessors:
+    text: null
+    url: null
+  transfers:
+  - mechanism: other
+    text: By using our Website, you represent that you have read and understood the above and hereby consent to the storage and processing of Personal Information outside the country where you reside or are located, including in the United States.
+layer: privacy_policy
+layer_version: 0.1.0
+layout: privacy
+method: harvested
+model: claude-haiku-5-5
+name: Zywave
+provenance_date: '2026-11-10'
+provider_name: Zywave
+provider_slug: zywave
+slug: zywave-privacy-policy
+source_date: '2026-11-10'
+source_filename: zywave-privacy-policy.yml
+source_heading: Privacy Policy
+source_page: https://www.zywave.com/privacy-statement/
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\nprivacy_policy: 0.1.0\nprovider: Zywave\naid: zywave\nurl: https://www.zywave.com/privacy-statement/\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\nrole:\n  value: processor\n  text: we are a processor and process your Personal Information in the role of a vendor, business associate, or\n    service provider on behalf of a customer\ndata_categories:\n- category: identifying\n  text: real name, postal address, unique personal identifier, online identifier, Internet Protocol address, email\n    address\n- category: financial\n  text: You may be required to provide financial information before placing an order through our Website.\n- category: behavioral\n  text:\
+  \ browsing history, search history, information on an individual's interaction with a website, application\n    or advertisement\n- category: location\n  text: details of your visits to, and use of, our Website (including location data\npurposes:\n- purpose: Provide and personalize website\n  text: to provide and personalize our Website and its content to you\n- purpose: Targeted advertising\n  text: to personalize your Website experience and to deliver content and product and service offerings relevant\n    to your interests, including targeted offers and advertisements\n- purpose: Security and fraud prevention\n  text: to help maintain the safety, security, and integrity of our Website, products and services, databases and\n    other technology assets, and business\n- purpose: Product development and analytics\n  text: for internal testing, research, analysis, and product development\nretention: []\nresidency:\n- region: United States\n  text: Your Personal Information may be processed\
+  \ and stored in the United States\ntransfers:\n- mechanism: other\n  text: By using our Website, you represent that you have read and understood the above and hereby consent to the\n    storage and processing of Personal Information outside the country where you reside or are located, including\n    in the United States.\nsubprocessors:\n  url: null\n  text: null\ndpa:\n  available: null\n  url: null\n  text: null\ndeletion:\n  route: Email request to access, correct, or delete\n  text: You may send us an email at [email protected] to request access to, correct, or delete any Personal Information\n    that we have collected about you.\nrights:\n- right: Access\n  text: to request access to, correct, or delete any Personal Information that we have collected about you\n- right: Correction\n  text: to request access to, correct, or delete any Personal Information that we have collected about you\n- right: Opt out of tracking via cookie manager\n  text: You may disable these technologies through\
+  \ our cookie consent manager\nsale_or_sharing:\n  stance: conditional\n  text: We do not share, sell, or otherwise disclose your Personal Information for purposes other than those outlined\n    in this Privacy Statement.\n"
+source_yaml_url: https://artifacts.apis.io/zywave/privacy/zywave-privacy-policy.yml
+stated_fields:
+- role
+- data_categories
+- purposes
+- residency
+- transfers
+- deletion
+- rights
+- sale_or_sharing
+summary_line: 16 quoted statements, read from Zywave's own page on 2026-11-10.
+synthetic: false
+tags:
+- Company
+- Insurance
+- Insurance Agencies
+- Brokerage
+- Employee Benefits
+- MCP
+---

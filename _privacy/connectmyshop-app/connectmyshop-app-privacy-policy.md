@@ -119,7 +119,7 @@ tags:
 - Company
 - Etsy
 - E-Commerce
-- AI Assistants
+- AI Assistant
 - MCP
 - Shop Management
 - Discontinued

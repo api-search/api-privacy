@@ -83,6 +83,6 @@ tags:
 - Baby Tracking
 - Meal Planning
 - MCP
-- AI Assistants
+- AI Assistant
 - Productivity
 ---

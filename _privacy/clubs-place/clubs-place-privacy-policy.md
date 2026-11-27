@@ -94,8 +94,8 @@ summary_line: 19 quoted statements, read from CLUBS's own page on 2026-11-09.
 synthetic: false
 tags:
 - Company
-- AI
-- Model Context Protocol
+- Artificial Intelligence
+- MCP
 - Productivity
 - Notes
 - Reporting

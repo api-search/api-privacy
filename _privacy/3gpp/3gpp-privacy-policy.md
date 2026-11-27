@@ -1,0 +1,954 @@
+---
+api_specs:
+- filename: 3gpp-5glan-parameters-provision-subscriptions-api-openapi.yml
+  format: yaml
+  label: 3GPP 5GLAN Parameters Provision Subscriptions API
+  slug: 3gpp-5glan-parameters-provision-subscriptions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-5glan-parameters-provision-subscriptions-api-openapi.yml
+- filename: 3gpp-access-control-policy-list-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP Access Control Policy List (Collection) API
+  slug: 3gpp-access-control-policy-list-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-access-control-policy-list-collection-api-openapi.yml
+- filename: 3gpp-activation-management-api-openapi.yml
+  format: yaml
+  label: 3GPP Activation Management API
+  slug: 3gpp-activation-management-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-activation-management-api-openapi.yml
+- filename: 3gpp-addressing-parameters-provisionings-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP Addressing Parameters Provisionings (Collection) API
+  slug: 3gpp-addressing-parameters-provisionings-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-addressing-parameters-provisionings-collection-api-openapi.yml
+- filename: 3gpp-aiot-command-request-custom-operation-without-associated-resources-api-openapi.yml
+  format: yaml
+  label: 3GPP AIoT Command Request (custom operation without associated resources) API
+  slug: 3gpp-aiot-command-request-custom-operation-without-associated-resources-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-aiot-command-request-custom-operation-without-associated-resources-api-openapi.yml
+- filename: 3gpp-aiot-inventory-request-custom-operation-without-associated-resources-api-openapi.yml
+  format: yaml
+  label: 3GPP AIoT Inventory Request (custom operation without associated resources) API
+  slug: 3gpp-aiot-inventory-request-custom-operation-without-associated-resources-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-aiot-inventory-request-custom-operation-without-associated-resources-api-openapi.yml
+- filename: 3gpp-all-api-provider-domains-registrations-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP All API Provider Domains Registrations (Collection) API
+  slug: 3gpp-all-api-provider-domains-registrations-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-all-api-provider-domains-registrations-collection-api-openapi.yml
+- filename: 3gpp-all-published-service-apis-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP All published service APIs (Collection) API
+  slug: 3gpp-all-published-service-apis-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-all-published-service-apis-collection-api-openapi.yml
+- filename: 3gpp-all-service-api-invocation-logs-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP All service API invocation logs (Collection) API
+  slug: 3gpp-all-service-api-invocation-logs-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-all-service-api-invocation-logs-collection-api-openapi.yml
+- filename: 3gpp-am-policy-events-subscription-api-openapi.yml
+  format: yaml
+  label: 3GPP AM Policy Events Subscription API
+  slug: 3gpp-am-policy-events-subscription-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-am-policy-events-subscription-api-openapi.yml
+- filename: 3gpp-analytics-exposure-subscriptions-api-openapi.yml
+  format: yaml
+  label: 3GPP Analytics Exposure Subscriptions API
+  slug: 3gpp-analytics-exposure-subscriptions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-analytics-exposure-subscriptions-api-openapi.yml
+- filename: 3gpp-analyticsexposure-api-fetch-analytics-information-api-openapi.yml
+  format: yaml
+  label: 3GPP AnalyticsExposure API Fetch analytics information API
+  slug: 3gpp-analyticsexposure-api-fetch-analytics-information-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-analyticsexposure-api-fetch-analytics-information-api-openapi.yml
+- filename: 3gpp-apf-published-apis-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP APF published APIs (Collection) API
+  slug: 3gpp-apf-published-apis-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-apf-published-apis-collection-api-openapi.yml
+- filename: 3gpp-application-am-contexts-api-openapi.yml
+  format: yaml
+  label: 3GPP Application AM Contexts API
+  slug: 3gpp-application-am-contexts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-application-am-contexts-api-openapi.yml
+- filename: 3gpp-application-sessions-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP Application Sessions (Collection) API
+  slug: 3gpp-application-sessions-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-application-sessions-collection-api-openapi.yml
+- filename: 3gpp-as-session-with-required-qos-subscriptions-api-openapi.yml
+  format: yaml
+  label: 3GPP AS Session with Required QoS Subscriptions API
+  slug: 3gpp-as-session-with-required-qos-subscriptions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-as-session-with-required-qos-subscriptions-api-openapi.yml
+- filename: 3gpp-asti-configurations-api-openapi.yml
+  format: yaml
+  label: 3GPP ASTI Configurations API
+  slug: 3gpp-asti-configurations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-asti-configurations-api-openapi.yml
+- filename: 3gpp-capifs-events-subscriptions-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP CAPIFs Events Subscriptions (Collection) API
+  slug: 3gpp-capifs-events-subscriptions-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-capifs-events-subscriptions-collection-api-openapi.yml
+- filename: 3gpp-check-authentication-request-api-openapi.yml
+  format: yaml
+  label: 3GPP Check Authentication Request API
+  slug: 3gpp-check-authentication-request-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-check-authentication-request-api-openapi.yml
+- filename: 3gpp-configure-api-openapi.yml
+  format: yaml
+  label: 3GPP Configure API
+  slug: 3gpp-configure-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-configure-api-openapi.yml
+- filename: 3gpp-connections-api-openapi.yml
+  format: yaml
+  label: 3GPP Connections API
+  slug: 3gpp-connections-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-connections-api-openapi.yml
+- filename: 3gpp-cp-provisioning-subscriptions-api-openapi.yml
+  format: yaml
+  label: 3GPP CP provisioning Subscriptions API
+  slug: 3gpp-cp-provisioning-subscriptions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-cp-provisioning-subscriptions-api-openapi.yml
+- filename: 3gpp-data-reporting-configurations-api-openapi.yml
+  format: yaml
+  label: 3GPP Data Reporting Configurations API
+  slug: 3gpp-data-reporting-configurations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-data-reporting-configurations-api-openapi.yml
+- filename: 3gpp-data-reporting-provisioning-sessions-api-openapi.yml
+  format: yaml
+  label: 3GPP Data Reporting Provisioning Sessions API
+  slug: 3gpp-data-reporting-provisioning-sessions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-data-reporting-provisioning-sessions-api-openapi.yml
+- filename: 3gpp-data-reporting-sessions-api-openapi.yml
+  format: yaml
+  label: 3GPP Data Reporting Sessions API
+  slug: 3gpp-data-reporting-sessions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-data-reporting-sessions-api-openapi.yml
+- filename: 3gpp-delivery-via-mbms-operation-api-openapi.yml
+  format: yaml
+  label: 3GPP Delivery via MBMS Operation API
+  slug: 3gpp-delivery-via-mbms-operation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-delivery-via-mbms-operation-api-openapi.yml
+- filename: 3gpp-eas-deployment-information-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP EAS Deployment Information (Collection) API
+  slug: 3gpp-eas-deployment-information-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-eas-deployment-information-collection-api-openapi.yml
+- filename: 3gpp-eas-deployment-information-removal-api-openapi.yml
+  format: yaml
+  label: 3GPP EAS Deployment Information removal API
+  slug: 3gpp-eas-deployment-information-removal-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-eas-deployment-information-removal-api-openapi.yml
+- filename: 3gpp-ecs-address-configuration-information-deletion-request-api-openapi.yml
+  format: yaml
+  label: 3GPP ECS Address Configuration Information Deletion Request API
+  slug: 3gpp-ecs-address-configuration-information-deletion-request-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-ecs-address-configuration-information-deletion-request-api-openapi.yml
+- filename: 3gpp-ecs-address-configuration-information-sets-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP ECS Address Configuration Information Sets (Collection) API
+  slug: 3gpp-ecs-address-configuration-information-sets-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-ecs-address-configuration-information-sets-collection-api-openapi.yml
+- filename: 3gpp-events-subscription-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Events Subscription (Document) API
+  slug: 3gpp-events-subscription-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-events-subscription-document-api-openapi.yml
+- filename: 3gpp-fallback-descriptor-management-api-openapi.yml
+  format: yaml
+  label: 3GPP Fallback Descriptor Management API
+  slug: 3gpp-fallback-descriptor-management-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-fallback-descriptor-management-api-openapi.yml
+- filename: 3gpp-fault-management-notifications-api-openapi.yml
+  format: yaml
+  label: 3GPP Fault Management Notifications API
+  slug: 3gpp-fault-management-notifications-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-fault-management-notifications-api-openapi.yml
+- filename: 3gpp-files-api-openapi.yml
+  format: yaml
+  label: 3GPP Files API
+  slug: 3gpp-files-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-files-api-openapi.yml
+- filename: 3gpp-get-msisdn-api-openapi.yml
+  format: yaml
+  label: 3GPP Get Msisdn API
+  slug: 3gpp-get-msisdn-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-get-msisdn-api-openapi.yml
+- filename: 3gpp-ims-session-creation-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP IMS Session Creation (Collection) API
+  slug: 3gpp-ims-session-creation-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-ims-session-creation-collection-api-openapi.yml
+- filename: 3gpp-ims-sessions-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP IMS Sessions (Collection) API
+  slug: 3gpp-ims-sessions-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-ims-sessions-collection-api-openapi.yml
+- filename: 3gpp-individual-5glan-parameters-provision-subscription-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual 5GLAN Parameters Provision Subscription API
+  slug: 3gpp-individual-5glan-parameters-provision-subscription-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-5glan-parameters-provision-subscription-api-openapi.yml
+- filename: 3gpp-individual-addressing-parameters-provisioning-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual Addressing Parameters Provisioning (Document) API
+  slug: 3gpp-individual-addressing-parameters-provisioning-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-addressing-parameters-provisioning-document-api-openapi.yml
+- filename: 3gpp-individual-analytics-exposure-subscription-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual Analytics Exposure Subscription API
+  slug: 3gpp-individual-analytics-exposure-subscription-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-analytics-exposure-subscription-api-openapi.yml
+- filename: 3gpp-individual-apf-published-api-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual APF published API (Document) API
+  slug: 3gpp-individual-apf-published-api-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-apf-published-api-document-api-openapi.yml
+- filename: 3gpp-individual-api-provider-domain-registration-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual API Provider Domain Registration (Document) API
+  slug: 3gpp-individual-api-provider-domain-registration-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-api-provider-domain-registration-document-api-openapi.yml
+- filename: 3gpp-individual-application-am-context-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual Application AM Context API
+  slug: 3gpp-individual-application-am-context-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-application-am-context-api-openapi.yml
+- filename: 3gpp-individual-application-pfd-management-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual Application PFD Management API
+  slug: 3gpp-individual-application-pfd-management-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-application-pfd-management-api-openapi.yml
+- filename: 3gpp-individual-application-session-context-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual Application Session Context (Document) API
+  slug: 3gpp-individual-application-session-context-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-application-session-context-document-api-openapi.yml
+- filename: 3gpp-individual-as-session-with-required-qos-subscription-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual AS Session with Required QoS Subscription API
+  slug: 3gpp-individual-as-session-with-required-qos-subscription-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-as-session-with-required-qos-subscription-api-openapi.yml
+- filename: 3gpp-individual-asti-configuration-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual ASTI Configuration API
+  slug: 3gpp-individual-asti-configuration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-asti-configuration-api-openapi.yml
+- filename: 3gpp-individual-capifs-events-subscription-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual CAPIFs Events Subscription (Document) API
+  slug: 3gpp-individual-capifs-events-subscription-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-capifs-events-subscription-document-api-openapi.yml
+- filename: 3gpp-individual-cp-provisioning-subscription-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual CP Provisioning Subscription API
+  slug: 3gpp-individual-cp-provisioning-subscription-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-cp-provisioning-subscription-api-openapi.yml
+- filename: 3gpp-individual-cp-set-provisioning-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual CP set Provisioning API
+  slug: 3gpp-individual-cp-set-provisioning-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-cp-set-provisioning-api-openapi.yml
+- filename: 3gpp-individual-data-reporting-configuration-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual Data Reporting Configuration API
+  slug: 3gpp-individual-data-reporting-configuration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-data-reporting-configuration-api-openapi.yml
+- filename: 3gpp-individual-data-reporting-provisioning-session-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual Data Reporting Provisioning Session API
+  slug: 3gpp-individual-data-reporting-provisioning-session-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-data-reporting-provisioning-session-api-openapi.yml
+- filename: 3gpp-individual-data-reporting-session-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual Data Reporting Session API
+  slug: 3gpp-individual-data-reporting-session-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-data-reporting-session-api-openapi.yml
+- filename: 3gpp-individual-delivery-via-mbms-resource-operation-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual Delivery via MBMS resource Operation API
+  slug: 3gpp-individual-delivery-via-mbms-resource-operation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-delivery-via-mbms-resource-operation-api-openapi.yml
+- filename: 3gpp-individual-eas-deployment-information-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual EAS Deployment Information API
+  slug: 3gpp-individual-eas-deployment-information-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-eas-deployment-information-api-openapi.yml
+- filename: 3gpp-individual-ecs-address-configuration-information-set-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual ECS Address Configuration Information Set (Document) API
+  slug: 3gpp-individual-ecs-address-configuration-information-set-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-ecs-address-configuration-information-set-document-api-openapi.yml
+- filename: 3gpp-individual-group-parameters-provisioning-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual Group Parameters Provisioning (Document) API
+  slug: 3gpp-individual-group-parameters-provisioning-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-group-parameters-provisioning-document-api-openapi.yml
+- filename: 3gpp-individual-ims-session-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual IMS Session API
+  slug: 3gpp-individual-ims-session-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-ims-session-api-openapi.yml
+- filename: 3gpp-individual-ims-session-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual IMS Session (Document) API
+  slug: 3gpp-individual-ims-session-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-ims-session-document-api-openapi.yml
+- filename: 3gpp-individual-individual-ecs-address-configuration-set-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual ECS Address Configuration Set (Document) API
+  slug: 3gpp-individual-individual-ecs-address-configuration-set-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-individual-ecs-address-configuration-set-document-api-openapi.yml
+- filename: 3gpp-individual-lpi-parameters-provisioning-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual LPI Parameters Provisioning API
+  slug: 3gpp-individual-lpi-parameters-provisioning-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-lpi-parameters-provisioning-api-openapi.yml
+- filename: 3gpp-individual-manageport-configuration-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual ManagePort Configuration API
+  slug: 3gpp-individual-manageport-configuration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-manageport-configuration-api-openapi.yml
+- filename: 3gpp-individual-mbs-group-message-delivery-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual MBS Group Message Delivery (Document) API
+  slug: 3gpp-individual-mbs-group-message-delivery-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-mbs-group-message-delivery-document-api-openapi.yml
+- filename: 3gpp-individual-mbs-parameters-provisioning-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual MBS Parameters Provisioning API
+  slug: 3gpp-individual-mbs-parameters-provisioning-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-mbs-parameters-provisioning-api-openapi.yml
+- filename: 3gpp-individual-mbs-session-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual MBS Session API
+  slug: 3gpp-individual-mbs-session-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-mbs-session-api-openapi.yml
+- filename: 3gpp-individual-mbs-session-subscription-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual MBS Session Subscription API
+  slug: 3gpp-individual-mbs-session-subscription-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-mbs-session-subscription-api-openapi.yml
+- filename: 3gpp-individual-mbs-user-data-ingest-session-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual MBS User Data Ingest Session (Document) API
+  slug: 3gpp-individual-mbs-user-data-ingest-session-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-mbs-user-data-ingest-session-document-api-openapi.yml
+- filename: 3gpp-individual-mbs-user-data-ingest-session-status-subscription-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual MBS User Data Ingest Session Status Subscription (Document) API
+  slug: 3gpp-individual-mbs-user-data-ingest-session-status-subscription-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-mbs-user-data-ingest-session-status-subscription-document-api-openapi.yml
+- filename: 3gpp-individual-mbs-user-service-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual MBS User Service API
+  slug: 3gpp-individual-mbs-user-service-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-mbs-user-service-api-openapi.yml
+- filename: 3gpp-individual-media-streaming-event-exposure-subscription-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual Media Streaming Event Exposure Subscription (Document) API
+  slug: 3gpp-individual-media-streaming-event-exposure-subscription-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-media-streaming-event-exposure-subscription-document-api-openapi.yml
+- filename: 3gpp-individual-nidd-configuration-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual NIDD configuration API
+  slug: 3gpp-individual-nidd-configuration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-nidd-configuration-api-openapi.yml
+- filename: 3gpp-individual-nidd-downlink-data-delivery-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual NIDD downlink data delivery API
+  slug: 3gpp-individual-nidd-downlink-data-delivery-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-nidd-downlink-data-delivery-api-openapi.yml
+- filename: 3gpp-individual-np-configuration-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual Np Configuration API
+  slug: 3gpp-individual-np-configuration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-np-configuration-api-openapi.yml
+- filename: 3gpp-individual-nwdaf-event-subscription-transfer-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual NWDAF Event Subscription Transfer (Document) API
+  slug: 3gpp-individual-nwdaf-event-subscription-transfer-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-nwdaf-event-subscription-transfer-document-api-openapi.yml
+- filename: 3gpp-individual-nwdaf-events-subscription-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual NWDAF Events Subscription (Document) API
+  slug: 3gpp-individual-nwdaf-events-subscription-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-nwdaf-events-subscription-document-api-openapi.yml
+- filename: 3gpp-individual-on-boarded-api-invoker-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual On-boarded API Invoker (Document) API
+  slug: 3gpp-individual-on-boarded-api-invoker-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-on-boarded-api-invoker-document-api-openapi.yml
+- filename: 3gpp-individual-pfd-management-transaction-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual PFD Management Transaction API
+  slug: 3gpp-individual-pfd-management-transaction-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-pfd-management-transaction-api-openapi.yml
+- filename: 3gpp-individual-racs-parameter-provisioning-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual RACS Parameter Provisioning API
+  slug: 3gpp-individual-racs-parameter-provisioning-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-racs-parameter-provisioning-api-openapi.yml
+- filename: 3gpp-individual-service-api-routing-info-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual Service API routing Info (Document) API
+  slug: 3gpp-individual-service-api-routing-info-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-service-api-routing-info-document-api-openapi.yml
+- filename: 3gpp-individual-service-operation-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual Service Operation API
+  slug: 3gpp-individual-service-operation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-service-operation-api-openapi.yml
+- filename: 3gpp-individual-sm-policy-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual SM Policy (Document) API
+  slug: 3gpp-individual-sm-policy-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-sm-policy-document-api-openapi.yml
+- filename: 3gpp-individual-time-synchronization-exposure-configuration-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual Time Synchronization Exposure Configuration API
+  slug: 3gpp-individual-time-synchronization-exposure-configuration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-time-synchronization-exposure-configuration-api-openapi.yml
+- filename: 3gpp-individual-time-synchronization-exposure-subscription-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual Time Synchronization Exposure Subscription API
+  slug: 3gpp-individual-time-synchronization-exposure-subscription-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-time-synchronization-exposure-subscription-api-openapi.yml
+- filename: 3gpp-individual-tmgi-allocation-operation-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual TMGI Allocation Operation API
+  slug: 3gpp-individual-tmgi-allocation-operation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-tmgi-allocation-operation-api-openapi.yml
+- filename: 3gpp-individual-trusted-api-invoker-store-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual trusted API invoker (Store) API
+  slug: 3gpp-individual-trusted-api-invoker-store-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-trusted-api-invoker-store-api-openapi.yml
+- filename: 3gpp-individual-uav-flight-assistance-configuration-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual UAV Flight Assistance Configuration (Document) API
+  slug: 3gpp-individual-uav-flight-assistance-configuration-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-uav-flight-assistance-configuration-document-api-openapi.yml
+- filename: 3gpp-individual-ue-address-subscription-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual UE Address Subscription (Document) API
+  slug: 3gpp-individual-ue-address-subscription-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-ue-address-subscription-document-api-openapi.yml
+- filename: 3gpp-individual-ue-id-mapping-information-provisioning-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual UE ID Mapping Information Provisioning (Document) API
+  slug: 3gpp-individual-ue-id-mapping-information-provisioning-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-ue-id-mapping-information-provisioning-document-api-openapi.yml
+- filename: 3gpp-individual-vfl-training-subscription-document-api-openapi.yml
+  format: yaml
+  label: 3GPP Individual VFL Training Subscription (Document) API
+  slug: 3gpp-individual-vfl-training-subscription-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-individual-vfl-training-subscription-document-api-openapi.yml
+- filename: 3gpp-logs-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP Logs (Collection) API
+  slug: 3gpp-logs-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-logs-collection-api-openapi.yml
+- filename: 3gpp-lpi-parameters-provisionings-api-openapi.yml
+  format: yaml
+  label: 3GPP LPI Parameters Provisionings API
+  slug: 3gpp-lpi-parameters-provisionings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-lpi-parameters-provisionings-api-openapi.yml
+- filename: 3gpp-manageport-configurations-api-openapi.yml
+  format: yaml
+  label: 3GPP ManagePort Configurations API
+  slug: 3gpp-manageport-configurations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-manageport-configurations-api-openapi.yml
+- filename: 3gpp-mbs-group-message-deliveries-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP MBS Group Message Deliveries (Collection) API
+  slug: 3gpp-mbs-group-message-deliveries-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-mbs-group-message-deliveries-collection-api-openapi.yml
+- filename: 3gpp-mbs-parameters-provisioning-api-openapi.yml
+  format: yaml
+  label: 3GPP MBS Parameters Provisioning API
+  slug: 3gpp-mbs-parameters-provisioning-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-mbs-parameters-provisioning-api-openapi.yml
+- filename: 3gpp-mbs-parameters-provisionings-api-openapi.yml
+  format: yaml
+  label: 3GPP MBS Parameters Provisionings API
+  slug: 3gpp-mbs-parameters-provisionings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-mbs-parameters-provisionings-api-openapi.yml
+- filename: 3gpp-mbs-session-subscriptions-api-openapi.yml
+  format: yaml
+  label: 3GPP MBS Session Subscriptions API
+  slug: 3gpp-mbs-session-subscriptions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-mbs-session-subscriptions-api-openapi.yml
+- filename: 3gpp-mbs-sessions-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP MBS Sessions collection API
+  slug: 3gpp-mbs-sessions-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-mbs-sessions-collection-api-openapi.yml
+- filename: 3gpp-mbs-tmgi-deallocation-api-openapi.yml
+  format: yaml
+  label: 3GPP MBS TMGI Deallocation API
+  slug: 3gpp-mbs-tmgi-deallocation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-mbs-tmgi-deallocation-api-openapi.yml
+- filename: 3gpp-mbs-user-data-ingest-session-status-subscriptions-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP MBS User Data Ingest Session Status Subscriptions (Collection) API
+  slug: 3gpp-mbs-user-data-ingest-session-status-subscriptions-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-mbs-user-data-ingest-session-status-subscriptions-collection-api-openapi.yml
+- filename: 3gpp-mbs-user-data-ingest-sessions-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP MBS User Data Ingest Sessions (Collection) API
+  slug: 3gpp-mbs-user-data-ingest-sessions-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-mbs-user-data-ingest-sessions-collection-api-openapi.yml
+- filename: 3gpp-mbs-user-services-api-openapi.yml
+  format: yaml
+  label: 3GPP MBS User Services API
+  slug: 3gpp-mbs-user-services-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-mbs-user-services-api-openapi.yml
+- filename: 3gpp-measjobs-api-openapi.yml
+  format: yaml
+  label: 3GPP Meas Jobs API
+  slug: 3gpp-measjobs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-measjobs-api-openapi.yml
+- filename: 3gpp-media-streaming-event-exposure-subscriptions-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP Media Streaming Event Exposure Subscriptions (Collection) API
+  slug: 3gpp-media-streaming-event-exposure-subscriptions-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-media-streaming-event-exposure-subscriptions-collection-api-openapi.yml
+- filename: 3gpp-nidd-configurations-api-openapi.yml
+  format: yaml
+  label: 3GPP NIDD configurations API
+  slug: 3gpp-nidd-configurations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-nidd-configurations-api-openapi.yml
+- filename: 3gpp-nidd-downlink-data-deliveries-api-openapi.yml
+  format: yaml
+  label: 3GPP NIDD downlink data deliveries API
+  slug: 3gpp-nidd-downlink-data-deliveries-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-nidd-downlink-data-deliveries-api-openapi.yml
+- filename: 3gpp-notificationsink-api-openapi.yml
+  format: yaml
+  label: 3GPP Notification Sink API
+  slug: 3gpp-notificationsink-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-notificationsink-api-openapi.yml
+- filename: 3gpp-np-configurations-api-openapi.yml
+  format: yaml
+  label: 3GPP Np Configurations API
+  slug: 3gpp-np-configurations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-np-configurations-api-openapi.yml
+- filename: 3gpp-nwdaf-analytics-document-api-openapi.yml
+  format: yaml
+  label: 3GPP NWDAF Analytics (Document) API
+  slug: 3gpp-nwdaf-analytics-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-nwdaf-analytics-document-api-openapi.yml
+- filename: 3gpp-nwdaf-context-document-api-openapi.yml
+  format: yaml
+  label: 3GPP NWDAF Context (Document) API
+  slug: 3gpp-nwdaf-context-document-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-nwdaf-context-document-api-openapi.yml
+- filename: 3gpp-nwdaf-event-subscription-transfers-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP NWDAF Event Subscription Transfers (Collection) API
+  slug: 3gpp-nwdaf-event-subscription-transfers-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-nwdaf-event-subscription-transfers-collection-api-openapi.yml
+- filename: 3gpp-nwdaf-events-subscriptions-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP NWDAF Events Subscriptions (Collection) API
+  slug: 3gpp-nwdaf-events-subscriptions-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-nwdaf-events-subscriptions-collection-api-openapi.yml
+- filename: 3gpp-on-boarded-api-invokers-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP On-boarded API Invokers (Collection) API
+  slug: 3gpp-on-boarded-api-invokers-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-on-boarded-api-invokers-collection-api-openapi.yml
+- filename: 3gpp-pcscf-restoration-indication-api-openapi.yml
+  format: yaml
+  label: 3GPP PCSCF Restoration Indication API
+  slug: 3gpp-pcscf-restoration-indication-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-pcscf-restoration-indication-api-openapi.yml
+- filename: 3gpp-pfd-management-transactions-api-openapi.yml
+  format: yaml
+  label: 3GPP PFD Management Transactions API
+  slug: 3gpp-pfd-management-transactions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-pfd-management-transactions-api-openapi.yml
+- filename: 3gpp-plan-descriptor-management-api-openapi.yml
+  format: yaml
+  label: 3GPP Plan Descriptor Management API
+  slug: 3gpp-plan-descriptor-management-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-plan-descriptor-management-api-openapi.yml
+- filename: 3gpp-plan-group-descriptor-management-api-openapi.yml
+  format: yaml
+  label: 3GPP Plan Group Descriptor Management API
+  slug: 3gpp-plan-group-descriptor-management-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-plan-group-descriptor-management-api-openapi.yml
+- filename: 3gpp-provisioning-mns-api-openapi.yml
+  format: yaml
+  label: 3GPP Provisioning MnS API
+  slug: 3gpp-provisioning-mns-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-provisioning-mns-api-openapi.yml
+- filename: 3gpp-query-api-openapi.yml
+  format: yaml
+  label: 3GPP Query API
+  slug: 3gpp-query-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-query-api-openapi.yml
+- filename: 3gpp-racs-parameter-provisionings-api-openapi.yml
+  format: yaml
+  label: 3GPP RACS Parameter Provisionings API
+  slug: 3gpp-racs-parameter-provisionings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-racs-parameter-provisionings-api-openapi.yml
+- filename: 3gpp-retrieve-api-openapi.yml
+  format: yaml
+  label: 3GPP Retrieve API
+  slug: 3gpp-retrieve-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-retrieve-api-openapi.yml
+- filename: 3gpp-retrieve-custom-operation-without-associated-resources-api-openapi.yml
+  format: yaml
+  label: 3GPP Retrieve (custom operation without associated resources) API
+  slug: 3gpp-retrieve-custom-operation-without-associated-resources-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-retrieve-custom-operation-without-associated-resources-api-openapi.yml
+- filename: 3gpp-revoke-authorization-request-api-openapi.yml
+  format: yaml
+  label: 3GPP Revoke Authorization Request API
+  slug: 3gpp-revoke-authorization-request-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-revoke-authorization-request-api-openapi.yml
+- filename: 3gpp-service-apis-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP Service APIs (Collection) API
+  slug: 3gpp-service-apis-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-service-apis-collection-api-openapi.yml
+- filename: 3gpp-service-operation-api-openapi.yml
+  format: yaml
+  label: 3GPP Service Operation API
+  slug: 3gpp-service-operation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-service-operation-api-openapi.yml
+- filename: 3gpp-sliceprofiles-api-openapi.yml
+  format: yaml
+  label: 3GPP Slice Profiles API
+  slug: 3gpp-sliceprofiles-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-sliceprofiles-api-openapi.yml
+- filename: 3gpp-sm-policies-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP SM Policies (Collection) API
+  slug: 3gpp-sm-policies-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-sm-policies-collection-api-openapi.yml
+- filename: 3gpp-subscriptions-api-openapi.yml
+  format: yaml
+  label: 3GPP Subscriptions API
+  slug: 3gpp-subscriptions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-subscriptions-api-openapi.yml
+- filename: 3gpp-time-synchronization-exposure-configurations-api-openapi.yml
+  format: yaml
+  label: 3GPP Time Synchronization Exposure Configurations API
+  slug: 3gpp-time-synchronization-exposure-configurations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-time-synchronization-exposure-configurations-api-openapi.yml
+- filename: 3gpp-time-synchronization-exposure-subscriptions-api-openapi.yml
+  format: yaml
+  label: 3GPP Time Synchronization Exposure Subscriptions API
+  slug: 3gpp-time-synchronization-exposure-subscriptions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-time-synchronization-exposure-subscriptions-api-openapi.yml
+- filename: 3gpp-tmgi-allocation-operation-api-openapi.yml
+  format: yaml
+  label: 3GPP TMGI Allocation Operation API
+  slug: 3gpp-tmgi-allocation-operation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-tmgi-allocation-operation-api-openapi.yml
+- filename: 3gpp-tmgi-allocation-or-timer-expiry-refresh-api-openapi.yml
+  format: yaml
+  label: 3GPP TMGI Allocation or Timer Expiry Refresh API
+  slug: 3gpp-tmgi-allocation-or-timer-expiry-refresh-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-tmgi-allocation-or-timer-expiry-refresh-api-openapi.yml
+- filename: 3gpp-trigger-descriptor-management-api-openapi.yml
+  format: yaml
+  label: 3GPP Trigger Descriptor Management API
+  slug: 3gpp-trigger-descriptor-management-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-trigger-descriptor-management-api-openapi.yml
+- filename: 3gpp-uav-flight-assistance-configurations-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP UAV Flight Assistance Configurations (Collection) API
+  slug: 3gpp-uav-flight-assistance-configurations-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-uav-flight-assistance-configurations-collection-api-openapi.yml
+- filename: 3gpp-ue-address-es-information-retrieval-api-openapi.yml
+  format: yaml
+  label: 3GPP UE Address(es) Information Retrieval API
+  slug: 3gpp-ue-address-es-information-retrieval-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-ue-address-es-information-retrieval-api-openapi.yml
+- filename: 3gpp-ue-address-subscriptions-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP UE Address Subscriptions (Collection) API
+  slug: 3gpp-ue-address-subscriptions-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-ue-address-subscriptions-collection-api-openapi.yml
+- filename: 3gpp-ue-id-mapping-information-provisioning-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP UE ID Mapping Information Provisioning (Collection) API
+  slug: 3gpp-ue-id-mapping-information-provisioning-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-ue-id-mapping-information-provisioning-collection-api-openapi.yml
+- filename: 3gpp-ue-id-mapping-information-provisionings-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP UE ID Mapping Information Provisionings (Collection) API
+  slug: 3gpp-ue-id-mapping-information-provisionings-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-ue-id-mapping-information-provisionings-collection-api-openapi.yml
+- filename: 3gpp-validation-management-api-openapi.yml
+  format: yaml
+  label: 3GPP Validation Management API
+  slug: 3gpp-validation-management-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-validation-management-api-openapi.yml
+- filename: 3gpp-verify-msisdn-api-openapi.yml
+  format: yaml
+  label: 3GPP Verify Msisdn API
+  slug: 3gpp-verify-msisdn-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-verify-msisdn-api-openapi.yml
+- filename: 3gpp-vfl-nf-discovery-api-openapi.yml
+  format: yaml
+  label: 3GPP VFL NF discovery API
+  slug: 3gpp-vfl-nf-discovery-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-vfl-nf-discovery-api-openapi.yml
+- filename: 3gpp-vfl-nf-discovery-release-api-openapi.yml
+  format: yaml
+  label: 3GPP VFL NF discovery release API
+  slug: 3gpp-vfl-nf-discovery-release-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-vfl-nf-discovery-release-api-openapi.yml
+- filename: 3gpp-vfl-training-subscriptions-collection-api-openapi.yml
+  format: yaml
+  label: 3GPP VFL Training Subscriptions (Collection) API
+  slug: 3gpp-vfl-training-subscriptions-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-vfl-training-subscriptions-collection-api-openapi.yml
+- filename: 3gpp-service-profiles-api-openapi.yml
+  format: yaml
+  label: 3GPP Service Profiles API
+  slug: 3gpp-service-profiles-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/3gpp/openapi/3gpp-service-profiles-api-openapi.yml
+claim_count: 14
+description: ''
+doc:
+  data_categories:
+  - category: identifying
+    text: Should we ask you to provide certain information by which you can be identified when using the 3GPP web sites and services
+  - category: behavioral
+    text: We use cookies or similar technologies to collect data about your use of 3GPP web sites and services.
+  deletion:
+    route: contact ETSI by e-mail or the contact address on the page
+    text: You have rights of access, rectification, objection and erasure related to the personal data we hold about you.
+  dpa:
+    available: null
+    text: null
+    url: null
+  purposes:
+  - purpose: statistics or survey to improve services
+    text: statistical or survey purposes to improve 3GPP web sites and services to you
+  - purpose: authentication
+    text: authentication
+  - purpose: administer and provide content
+    text: to administer and provide you with the content of 3GPP web sites and services.
+  retention:
+  - period: null
+    scope: personal data
+    text: We retain your personal data as described in the present privacy policy for as long as we need it to provide you with our services on behalf of 3GPP
+  rights:
+  - right: access
+    text: You have rights of access, rectification, objection and erasure related to the personal data we hold about you.
+  - right: rectification
+    text: You have rights of access, rectification, objection and erasure related to the personal data we hold about you.
+  - right: objection
+    text: You have rights of access, rectification, objection and erasure related to the personal data we hold about you.
+  - right: erasure
+    text: You have rights of access, rectification, objection and erasure related to the personal data we hold about you.
+  role:
+    text: ETSI is thus the data controller with regard to the personal data made available via the 3GPP web sites and services hosted by ETSI on behalf of 3GPP.
+    value: controller
+  sale_or_sharing:
+    stance: prohibited
+    text: We never sell, lease or rent your personal data.
+  subprocessors:
+    text: null
+    url: null
+  transfers:
+  - mechanism: other
+    text: that your personal data may be transferred from your country to another country outside of the European Economic Area (EEA)
+layer: privacy_policy
+layer_version: 0.1.0
+layout: privacy
+method: harvested
+model: claude-haiku-5-5
+name: 3GPP
+provenance_date: '2026-11-09'
+provider_name: 3GPP
+provider_slug: 3gpp
+slug: 3gpp-privacy-policy
+source_date: '2026-11-09'
+source_filename: 3gpp-privacy-policy.yml
+source_heading: Privacy Policy
+source_page: https://www.3gpp.org/about-us/legal-matters/3gpp-privacy-policy
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\nprivacy_policy: 0.1.0\nprovider: 3GPP\naid: 3gpp\nurl: https://www.3gpp.org/about-us/legal-matters/3gpp-privacy-policy\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\nrole:\n  value: controller\n  text: ETSI is thus the data controller with regard to the personal data made available via the 3GPP web sites\n    and services hosted by ETSI on behalf of 3GPP.\ndata_categories:\n- category: identifying\n  text: Should we ask you to provide certain information by which you can be identified when using the 3GPP web\n    sites and services\n- category: behavioral\n  text: We use cookies or similar technologies to collect data about your use of 3GPP web sites and services.\n\
+  purposes:\n- purpose: statistics or survey to improve services\n  text: statistical or survey purposes to improve 3GPP web sites and services to you\n- purpose: authentication\n  text: authentication\n- purpose: administer and provide content\n  text: to administer and provide you with the content of 3GPP web sites and services.\nretention:\n- scope: personal data\n  period: null\n  text: We retain your personal data as described in the present privacy policy for as long as we need it to provide\n    you with our services on behalf of 3GPP\nresidency: []\ntransfers:\n- mechanism: other\n  text: that your personal data may be transferred from your country to another country outside of the European\n    Economic Area (EEA)\nsubprocessors:\n  url: null\n  text: null\ndpa:\n  available: null\n  url: null\n  text: null\ndeletion:\n  route: contact ETSI by e-mail or the contact address on the page\n  text: You have rights of access, rectification, objection and erasure related to the personal\
+  \ data we hold about\n    you.\nrights:\n- right: access\n  text: You have rights of access, rectification, objection and erasure related to the personal data we hold about\n    you.\n- right: rectification\n  text: You have rights of access, rectification, objection and erasure related to the personal data we hold about\n    you.\n- right: objection\n  text: You have rights of access, rectification, objection and erasure related to the personal data we hold about\n    you.\n- right: erasure\n  text: You have rights of access, rectification, objection and erasure related to the personal data we hold about\n    you.\nsale_or_sharing:\n  stance: prohibited\n  text: We never sell, lease or rent your personal data.\n"
+source_yaml_url: https://artifacts.apis.io/3gpp/privacy/3gpp-privacy-policy.yml
+stated_fields:
+- role
+- data_categories
+- purposes
+- retention
+- transfers
+- deletion
+- rights
+- sale_or_sharing
+summary_line: 14 quoted statements, read from 3GPP's own page on 2026-11-09.
+synthetic: false
+tags:
+- Telecommunications
+- Global
+- Standards
+- Standards Body
+- Network APIs
+- 5G
+- Network Exposure
+- NEF
+- SCEF
+- CAPIF
+- Service Based Architecture
+- OpenAPI
+- OSS
+- Network Functions
+- 6G
+---

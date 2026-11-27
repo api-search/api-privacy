@@ -1,0 +1,400 @@
+---
+api_specs:
+- filename: corestory-admin-api-openapi.yml
+  format: yaml
+  label: CoreStory Admin API
+  slug: corestory-admin-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-admin-api-openapi.yml
+- filename: corestory-api-debugging-api-openapi.yml
+  format: yaml
+  label: CoreStory API Debugging API
+  slug: corestory-api-debugging-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-api-debugging-api-openapi.yml
+- filename: corestory-api-key-management-api-openapi.yml
+  format: yaml
+  label: CoreStory API Key Management API
+  slug: corestory-api-key-management-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-api-key-management-api-openapi.yml
+- filename: corestory-artifacts-api-openapi.yml
+  format: yaml
+  label: CoreStory Artifacts API
+  slug: corestory-artifacts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-artifacts-api-openapi.yml
+- filename: corestory-billing-api-openapi.yml
+  format: yaml
+  label: CoreStory Billing API
+  slug: corestory-billing-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-billing-api-openapi.yml
+- filename: corestory-cache-api-openapi.yml
+  format: yaml
+  label: CoreStory Cache API
+  slug: corestory-cache-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-cache-api-openapi.yml
+- filename: corestory-ciu-api-openapi.yml
+  format: yaml
+  label: CoreStory Ciu API
+  slug: corestory-ciu-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-ciu-api-openapi.yml
+- filename: corestory-clerk-authentication-api-openapi.yml
+  format: yaml
+  label: CoreStory Clerk Authentication API
+  slug: corestory-clerk-authentication-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-clerk-authentication-api-openapi.yml
+- filename: corestory-context-api-openapi.yml
+  format: yaml
+  label: CoreStory Context API
+  slug: corestory-context-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-context-api-openapi.yml
+- filename: corestory-conversations-api-openapi.yml
+  format: yaml
+  label: CoreStory Conversations API
+  slug: corestory-conversations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-conversations-api-openapi.yml
+- filename: corestory-discovery-api-openapi.yml
+  format: yaml
+  label: CoreStory Discovery API
+  slug: corestory-discovery-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-discovery-api-openapi.yml
+- filename: corestory-document-formatters-api-openapi.yml
+  format: yaml
+  label: CoreStory Document Formatters API
+  slug: corestory-document-formatters-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-document-formatters-api-openapi.yml
+- filename: corestory-document-generation-api-openapi.yml
+  format: yaml
+  label: CoreStory Document Generation API
+  slug: corestory-document-generation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-document-generation-api-openapi.yml
+- filename: corestory-documents-api-openapi.yml
+  format: yaml
+  label: CoreStory Documents API
+  slug: corestory-documents-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-documents-api-openapi.yml
+- filename: corestory-events-api-openapi.yml
+  format: yaml
+  label: CoreStory Events API
+  slug: corestory-events-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-events-api-openapi.yml
+- filename: corestory-files-api-openapi.yml
+  format: yaml
+  label: CoreStory Files API
+  slug: corestory-files-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-files-api-openapi.yml
+- filename: corestory-github-integration-api-openapi.yml
+  format: yaml
+  label: CoreStory Github Integration API
+  slug: corestory-github-integration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-github-integration-api-openapi.yml
+- filename: corestory-languages-api-openapi.yml
+  format: yaml
+  label: CoreStory Languages API
+  slug: corestory-languages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-languages-api-openapi.yml
+- filename: corestory-marketplace-api-openapi.yml
+  format: yaml
+  label: CoreStory Marketplace API
+  slug: corestory-marketplace-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-marketplace-api-openapi.yml
+- filename: corestory-mcp-protocol-api-openapi.yml
+  format: yaml
+  label: CoreStory MCP Protocol API
+  slug: corestory-mcp-protocol-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-mcp-protocol-api-openapi.yml
+- filename: corestory-mcp-token-management-api-openapi.yml
+  format: yaml
+  label: CoreStory MCP Token Management API
+  slug: corestory-mcp-token-management-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-mcp-token-management-api-openapi.yml
+- filename: corestory-mermaid-api-openapi.yml
+  format: yaml
+  label: CoreStory Mermaid API
+  slug: corestory-mermaid-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-mermaid-api-openapi.yml
+- filename: corestory-oauth-discovery-api-openapi.yml
+  format: yaml
+  label: CoreStory OAUTH Discovery API
+  slug: corestory-oauth-discovery-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-oauth-discovery-api-openapi.yml
+- filename: corestory-old-conversations-api-openapi.yml
+  format: yaml
+  label: CoreStory OLD_conversations API
+  slug: corestory-old-conversations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-old-conversations-api-openapi.yml
+- filename: corestory-organizations-api-openapi.yml
+  format: yaml
+  label: CoreStory Organizations API
+  slug: corestory-organizations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-organizations-api-openapi.yml
+- filename: corestory-pinned-workspaces-api-openapi.yml
+  format: yaml
+  label: CoreStory Pinned Workspaces API
+  slug: corestory-pinned-workspaces-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-pinned-workspaces-api-openapi.yml
+- filename: corestory-prd-api-openapi.yml
+  format: yaml
+  label: CoreStory Prd API
+  slug: corestory-prd-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-prd-api-openapi.yml
+- filename: corestory-prd-version-api-openapi.yml
+  format: yaml
+  label: CoreStory Prd Version API
+  slug: corestory-prd-version-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-prd-version-api-openapi.yml
+- filename: corestory-pre-ingestion-api-openapi.yml
+  format: yaml
+  label: CoreStory Pre Ingestion API
+  slug: corestory-pre-ingestion-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-pre-ingestion-api-openapi.yml
+- filename: corestory-projects-api-openapi.yml
+  format: yaml
+  label: CoreStory Projects API
+  slug: corestory-projects-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-projects-api-openapi.yml
+- filename: corestory-prompts-api-openapi.yml
+  format: yaml
+  label: CoreStory Prompts API
+  slug: corestory-prompts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-prompts-api-openapi.yml
+- filename: corestory-quality-metrics-api-openapi.yml
+  format: yaml
+  label: CoreStory Quality Metrics API
+  slug: corestory-quality-metrics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-quality-metrics-api-openapi.yml
+- filename: corestory-realtime-api-openapi.yml
+  format: yaml
+  label: CoreStory Realtime API
+  slug: corestory-realtime-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-realtime-api-openapi.yml
+- filename: corestory-reingestion-api-openapi.yml
+  format: yaml
+  label: CoreStory Reingestion API
+  slug: corestory-reingestion-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-reingestion-api-openapi.yml
+- filename: corestory-sample-projects-api-openapi.yml
+  format: yaml
+  label: CoreStory Sample Projects API
+  slug: corestory-sample-projects-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-sample-projects-api-openapi.yml
+- filename: corestory-sections-api-openapi.yml
+  format: yaml
+  label: CoreStory Sections API
+  slug: corestory-sections-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-sections-api-openapi.yml
+- filename: corestory-subscriptions-api-openapi.yml
+  format: yaml
+  label: CoreStory Subscriptions API
+  slug: corestory-subscriptions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-subscriptions-api-openapi.yml
+- filename: corestory-sync-status-api-openapi.yml
+  format: yaml
+  label: CoreStory Sync Status API
+  slug: corestory-sync-status-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-sync-status-api-openapi.yml
+- filename: corestory-system-overview-api-openapi.yml
+  format: yaml
+  label: CoreStory System Overview API
+  slug: corestory-system-overview-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-system-overview-api-openapi.yml
+- filename: corestory-tech-spec-api-openapi.yml
+  format: yaml
+  label: CoreStory Tech Spec API
+  slug: corestory-tech-spec-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-tech-spec-api-openapi.yml
+- filename: corestory-update-schedule-api-openapi.yml
+  format: yaml
+  label: CoreStory Update Schedule API
+  slug: corestory-update-schedule-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-update-schedule-api-openapi.yml
+- filename: corestory-user-api-openapi.yml
+  format: yaml
+  label: CoreStory User API
+  slug: corestory-user-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-user-api-openapi.yml
+- filename: corestory-vector-store-api-openapi.yml
+  format: yaml
+  label: CoreStory Vector Store API
+  slug: corestory-vector-store-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-vector-store-api-openapi.yml
+- filename: corestory-version-api-openapi.yml
+  format: yaml
+  label: CoreStory Version API
+  slug: corestory-version-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-version-api-openapi.yml
+- filename: corestory-webhooks-api-openapi.yml
+  format: yaml
+  label: CoreStory Webhooks API
+  slug: corestory-webhooks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-webhooks-api-openapi.yml
+- filename: corestory-workflows-api-openapi.yml
+  format: yaml
+  label: CoreStory Workflows API
+  slug: corestory-workflows-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-workflows-api-openapi.yml
+- filename: corestory-git-providers-api-openapi.yml
+  format: yaml
+  label: CoreStory Git Providers API
+  slug: corestory-git-providers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-git-providers-api-openapi.yml
+- filename: corestory-git-webhooks-api-openapi.yml
+  format: yaml
+  label: CoreStory Git Webhooks API
+  slug: corestory-git-webhooks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-git-webhooks-api-openapi.yml
+- filename: corestory-loc-api-openapi.yml
+  format: yaml
+  label: CoreStory Loc API
+  slug: corestory-loc-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-loc-api-openapi.yml
+- filename: corestory-prds-api-openapi.yml
+  format: yaml
+  label: CoreStory Prds API
+  slug: corestory-prds-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-prds-api-openapi.yml
+- filename: corestory-project-selections-api-openapi.yml
+  format: yaml
+  label: CoreStory Project Selections API
+  slug: corestory-project-selections-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-project-selections-api-openapi.yml
+- filename: corestory-sio-actions-api-openapi.yml
+  format: yaml
+  label: CoreStory Sio Actions API
+  slug: corestory-sio-actions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-sio-actions-api-openapi.yml
+- filename: corestory-support-api-openapi.yml
+  format: yaml
+  label: CoreStory Support API
+  slug: corestory-support-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-support-api-openapi.yml
+- filename: corestory-usage-api-openapi.yml
+  format: yaml
+  label: CoreStory Usage API
+  slug: corestory-usage-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/corestory/openapi/corestory-usage-api-openapi.yml
+claim_count: 9
+description: ''
+doc:
+  data_categories:
+  - category: contact
+    text: you may be asked to enter your name, email address, credit card information, or other details
+  - category: behavioral
+    text: Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive
+  deletion:
+    route: null
+    text: null
+  dpa:
+    available: null
+    text: null
+    url: null
+  purposes:
+  - purpose: personalize experience and content
+    text: To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  - purpose: improve website
+    text: To improve our website in order to better serve you.
+  - purpose: customer service
+    text: To allow us to better service you in responding to your customer service requests.
+  - purpose: process transactions
+    text: To quickly process your transactions.
+  - purpose: order and marketing emails
+    text: To send periodic emails regarding your order or other products and services.
+  rights:
+  - right: change personal information via account login
+    text: 'Can change your personal information: By logging in to your account.'
+  role:
+    text: null
+    value: unstated
+  sale_or_sharing:
+    stance: conditional
+    text: We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide you with advance notice.
+  subprocessors:
+    text: null
+    url: null
+layer: privacy_policy
+layer_version: 0.1.0
+layout: privacy
+method: harvested
+model: claude-haiku-5-5
+name: CoreStory
+provenance_date: '2026-11-09'
+provider_name: CoreStory
+provider_slug: corestory
+slug: corestory-privacy-policy
+source_date: '2026-11-09'
+source_filename: corestory-privacy-policy.yml
+source_heading: Privacy Policy
+source_page: https://corestory.ai/privacy-policy
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\nprivacy_policy: 0.1.0\nprovider: CoreStory\naid: corestory\nurl: https://corestory.ai/privacy-policy\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\nrole:\n  value: unstated\n  text: null\ndata_categories:\n- category: contact\n  text: you may be asked to enter your name, email address, credit card information, or other details\n- category: behavioral\n  text: Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive\npurposes:\n- purpose: personalize experience and content\n  text: To personalize your experience and to allow us to deliver the type of content and product offerings in which\n    you are most interested.\n\
+  - purpose: improve website\n  text: To improve our website in order to better serve you.\n- purpose: customer service\n  text: To allow us to better service you in responding to your customer service requests.\n- purpose: process transactions\n  text: To quickly process your transactions.\n- purpose: order and marketing emails\n  text: To send periodic emails regarding your order or other products and services.\nretention: []\nresidency: []\ntransfers: []\nsubprocessors:\n  url: null\n  text: null\ndpa:\n  available: null\n  url: null\n  text: null\ndeletion:\n  route: null\n  text: null\nrights:\n- right: change personal information via account login\n  text: 'Can change your personal information: By logging in to your account.'\nsale_or_sharing:\n  stance: conditional\n  text: We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information\n    unless we provide you with advance notice.\n"
+source_yaml_url: https://artifacts.apis.io/corestory/privacy/corestory-privacy-policy.yml
+stated_fields:
+- data_categories
+- purposes
+- rights
+- sale_or_sharing
+summary_line: 9 quoted statements, read from CoreStory's own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- Artificial Intelligence
+- Code Intelligence
+- Legacy Modernization
+- Developer Tools
+- Code Analysis
+- Documentation
+- MCP
+- AI Agents
+---

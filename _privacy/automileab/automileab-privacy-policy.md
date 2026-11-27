@@ -1,0 +1,562 @@
+---
+api_specs:
+- filename: automileab-clientapi-api-openapi.yml
+  format: yaml
+  label: Automileab Client API
+  slug: automileab-clientapi-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-clientapi-api-openapi.yml
+- filename: automileab-clientapiauthorizations-api-openapi.yml
+  format: yaml
+  label: Automileab Client API Authorizations API
+  slug: automileab-clientapiauthorizations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-clientapiauthorizations-api-openapi.yml
+- filename: automileab-clientcontracts-api-openapi.yml
+  format: yaml
+  label: Automileab Client Contracts API
+  slug: automileab-clientcontracts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-clientcontracts-api-openapi.yml
+- filename: automileab-clientcustom-api-openapi.yml
+  format: yaml
+  label: Automileab Client Custom API
+  slug: automileab-clientcustom-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-clientcustom-api-openapi.yml
+- filename: automileab-clientonboarding-api-openapi.yml
+  format: yaml
+  label: Automileab Client Onboarding API
+  slug: automileab-clientonboarding-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-clientonboarding-api-openapi.yml
+- filename: automileab-clientorder-api-openapi.yml
+  format: yaml
+  label: Automileab Client Order API
+  slug: automileab-clientorder-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-clientorder-api-openapi.yml
+- filename: automileab-clienttextmessage-api-openapi.yml
+  format: yaml
+  label: Automileab Client Text Message API
+  slug: automileab-clienttextmessage-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-clienttextmessage-api-openapi.yml
+- filename: automileab-echo-api-openapi.yml
+  format: yaml
+  label: Automileab Echo API
+  slug: automileab-echo-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-echo-api-openapi.yml
+- filename: automileab-home-api-openapi.yml
+  format: yaml
+  label: Automileab Home API
+  slug: automileab-home-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-home-api-openapi.yml
+- filename: automileab-login-api-openapi.yml
+  format: yaml
+  label: Automileab Login API
+  slug: automileab-login-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-login-api-openapi.yml
+- filename: automileab-oauth-api-openapi.yml
+  format: yaml
+  label: Automileab OAuth API
+  slug: automileab-oauth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-oauth-api-openapi.yml
+- filename: automileab-order-api-openapi.yml
+  format: yaml
+  label: Automileab Order API
+  slug: automileab-order-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-order-api-openapi.yml
+- filename: automileab-phone-api-openapi.yml
+  format: yaml
+  label: Automileab Phone API
+  slug: automileab-phone-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-phone-api-openapi.yml
+- filename: automileab-resourceownercompany-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Company API
+  slug: automileab-resourceownercompany-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownercompany-api-openapi.yml
+- filename: automileab-resourceownercompanycontacts-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Company Contacts API
+  slug: automileab-resourceownercompanycontacts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownercompanycontacts-api-openapi.yml
+- filename: automileab-resourceownercompanyvehicles-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Company Vehicles API
+  slug: automileab-resourceownercompanyvehicles-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownercompanyvehicles-api-openapi.yml
+- filename: automileab-resourceownercontact-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Contact API
+  slug: automileab-resourceownercontact-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownercontact-api-openapi.yml
+- filename: automileab-resourceownercontact2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Contact2 API
+  slug: automileab-resourceownercontact2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownercontact2-api-openapi.yml
+- filename: automileab-resourceownercontact3-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Contact3 API
+  slug: automileab-resourceownercontact3-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownercontact3-api-openapi.yml
+- filename: automileab-resourceownercontactsetting-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Contact Setting API
+  slug: automileab-resourceownercontactsetting-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownercontactsetting-api-openapi.yml
+- filename: automileab-resourceownercontactvehicle-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Contact Vehicle API
+  slug: automileab-resourceownercontactvehicle-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownercontactvehicle-api-openapi.yml
+- filename: automileab-resourceownercontent-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Content API
+  slug: automileab-resourceownercontent-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownercontent-api-openapi.yml
+- filename: automileab-resourceownerexpensereport3v2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Expense Report3 V2 API
+  slug: automileab-resourceownerexpensereport3v2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerexpensereport3v2-api-openapi.yml
+- filename: automileab-resourceownerexpensereportrow3v2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Expense Report Row3 V2 API
+  slug: automileab-resourceownerexpensereportrow3v2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerexpensereportrow3v2-api-openapi.yml
+- filename: automileab-resourceownerexpensereportrowcontent3v2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Expense Report Row Content3 V2 API
+  slug: automileab-resourceownerexpensereportrowcontent3v2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerexpensereportrowcontent3v2-api-openapi.yml
+- filename: automileab-resourceownerexpensereportrowcontentv2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Expense Report Row Content V2 API
+  slug: automileab-resourceownerexpensereportrowcontentv2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerexpensereportrowcontentv2-api-openapi.yml
+- filename: automileab-resourceownerexpensereportrowv2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Expense Report Row V2 API
+  slug: automileab-resourceownerexpensereportrowv2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerexpensereportrowv2-api-openapi.yml
+- filename: automileab-resourceownerexpensereportv2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Expense Report V2 API
+  slug: automileab-resourceownerexpensereportv2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerexpensereportv2-api-openapi.yml
+- filename: automileab-resourceownergeofence-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Geofence API
+  slug: automileab-resourceownergeofence-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownergeofence-api-openapi.yml
+- filename: automileab-resourceownergeofence2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Geofence2 API
+  slug: automileab-resourceownergeofence2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownergeofence2-api-openapi.yml
+- filename: automileab-resourceownergeofence3-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Geofence3 API
+  slug: automileab-resourceownergeofence3-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownergeofence3-api-openapi.yml
+- filename: automileab-resourceownerhoursofservice-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Hours Of Service API
+  slug: automileab-resourceownerhoursofservice-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerhoursofservice-api-openapi.yml
+- filename: automileab-resourceownerhoursofserviceviolations-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Hours Of Service Violations API
+  slug: automileab-resourceownerhoursofserviceviolations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerhoursofserviceviolations-api-openapi.yml
+- filename: automileab-resourceownerimeiconfig-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner IMEI Config API
+  slug: automileab-resourceownerimeiconfig-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerimeiconfig-api-openapi.yml
+- filename: automileab-resourceownerimeiconfig3-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner IMEI Config3 API
+  slug: automileab-resourceownerimeiconfig3-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerimeiconfig3-api-openapi.yml
+- filename: automileab-resourceownerimeievent-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner IMEI Event API
+  slug: automileab-resourceownerimeievent-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerimeievent-api-openapi.yml
+- filename: automileab-resourceownerintegration-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Integration API
+  slug: automileab-resourceownerintegration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerintegration-api-openapi.yml
+- filename: automileab-resourceownerlead-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Lead API
+  slug: automileab-resourceownerlead-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerlead-api-openapi.yml
+- filename: automileab-resourceownerorganization-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Organization API
+  slug: automileab-resourceownerorganization-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerorganization-api-openapi.yml
+- filename: automileab-resourceownerplace-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Place API
+  slug: automileab-resourceownerplace-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerplace-api-openapi.yml
+- filename: automileab-resourceownerplace2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Place2 API
+  slug: automileab-resourceownerplace2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerplace2-api-openapi.yml
+- filename: automileab-resourceownerplace3-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Place3 API
+  slug: automileab-resourceownerplace3-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerplace3-api-openapi.yml
+- filename: automileab-resourceownerpublishsubscribe-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Publish Subscribe API
+  slug: automileab-resourceownerpublishsubscribe-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerpublishsubscribe-api-openapi.yml
+- filename: automileab-resourceownerquote-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Quote API
+  slug: automileab-resourceownerquote-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerquote-api-openapi.yml
+- filename: automileab-resourceownerregisteredtollv2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Registered Toll V2 API
+  slug: automileab-resourceownerregisteredtollv2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerregisteredtollv2-api-openapi.yml
+- filename: automileab-resourceownerreports-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Reports API
+  slug: automileab-resourceownerreports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerreports-api-openapi.yml
+- filename: automileab-resourceownerreports3-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Reports3 API
+  slug: automileab-resourceownerreports3-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerreports3-api-openapi.yml
+- filename: automileab-resourceownerrouteplanner-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Route Planner API
+  slug: automileab-resourceownerrouteplanner-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerrouteplanner-api-openapi.yml
+- filename: automileab-resourceownertask-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Task API
+  slug: automileab-resourceownertask-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownertask-api-openapi.yml
+- filename: automileab-resourceownertask3-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Task3 API
+  slug: automileab-resourceownertask3-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownertask3-api-openapi.yml
+- filename: automileab-resourceownertaskmessage-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Task Message API
+  slug: automileab-resourceownertaskmessage-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownertaskmessage-api-openapi.yml
+- filename: automileab-resourceownertaskmessage3-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Task Message3 API
+  slug: automileab-resourceownertaskmessage3-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownertaskmessage3-api-openapi.yml
+- filename: automileab-resourceownertrackedasset-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Tracked Asset API
+  slug: automileab-resourceownertrackedasset-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownertrackedasset-api-openapi.yml
+- filename: automileab-resourceownertriggermessages-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Trigger Messages API
+  slug: automileab-resourceownertriggermessages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownertriggermessages-api-openapi.yml
+- filename: automileab-resourceownertriggers-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Triggers API
+  slug: automileab-resourceownertriggers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownertriggers-api-openapi.yml
+- filename: automileab-resourceownertriggers3-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Triggers3 API
+  slug: automileab-resourceownertriggers3-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownertriggers3-api-openapi.yml
+- filename: automileab-resourceownertrip3v2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Trip3 V2 API
+  slug: automileab-resourceownertrip3v2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownertrip3v2-api-openapi.yml
+- filename: automileab-resourceownertripapprovalv2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Trip Approval V2 API
+  slug: automileab-resourceownertripapprovalv2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownertripapprovalv2-api-openapi.yml
+- filename: automileab-resourceownertripmergev2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Trip Merge V2 API
+  slug: automileab-resourceownertripmergev2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownertripmergev2-api-openapi.yml
+- filename: automileab-resourceownertripscore-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Trip Score API
+  slug: automileab-resourceownertripscore-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownertripscore-api-openapi.yml
+- filename: automileab-resourceownertripv2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Trip V2 API
+  slug: automileab-resourceownertripv2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownertripv2-api-openapi.yml
+- filename: automileab-resourceowneruser-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner User API
+  slug: automileab-resourceowneruser-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceowneruser-api-openapi.yml
+- filename: automileab-resourceowneruserdevice-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner User Device API
+  slug: automileab-resourceowneruserdevice-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceowneruserdevice-api-openapi.yml
+- filename: automileab-resourceownervehicle2v2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Vehicle2 V2 API
+  slug: automileab-resourceownervehicle2v2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownervehicle2v2-api-openapi.yml
+- filename: automileab-resourceownervehicle3v2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Vehicle3 V2 API
+  slug: automileab-resourceownervehicle3v2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownervehicle3v2-api-openapi.yml
+- filename: automileab-resourceownervehicledefectcomments-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Vehicle Defect Comments API
+  slug: automileab-resourceownervehicledefectcomments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownervehicledefectcomments-api-openapi.yml
+- filename: automileab-resourceownervehicledefectcomments3-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Vehicle Defect Comments3 API
+  slug: automileab-resourceownervehicledefectcomments3-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownervehicledefectcomments3-api-openapi.yml
+- filename: automileab-resourceownervehicledefecttypes-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Vehicle Defect Types API
+  slug: automileab-resourceownervehicledefecttypes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownervehicledefecttypes-api-openapi.yml
+- filename: automileab-resourceownervehiclegeofence-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Vehicle Geofence API
+  slug: automileab-resourceownervehiclegeofence-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownervehiclegeofence-api-openapi.yml
+- filename: automileab-resourceownervehiclehealth-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Vehicle Health API
+  slug: automileab-resourceownervehiclehealth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownervehiclehealth-api-openapi.yml
+- filename: automileab-resourceownervehiclehealth3-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Vehicle Health3 API
+  slug: automileab-resourceownervehiclehealth3-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownervehiclehealth3-api-openapi.yml
+- filename: automileab-resourceownervehicleinspection-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Vehicle Inspection API
+  slug: automileab-resourceownervehicleinspection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownervehicleinspection-api-openapi.yml
+- filename: automileab-resourceownervehicleinspection3-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Vehicle Inspection3 API
+  slug: automileab-resourceownervehicleinspection3-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownervehicleinspection3-api-openapi.yml
+- filename: automileab-resourceownervehicleodometerv2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Vehicle Odometer V2 API
+  slug: automileab-resourceownervehicleodometerv2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownervehicleodometerv2-api-openapi.yml
+- filename: automileab-resourceownervehicleplace-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Vehicle Place API
+  slug: automileab-resourceownervehicleplace-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownervehicleplace-api-openapi.yml
+- filename: automileab-resourceownervehiclev2-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Vehicle V2 API
+  slug: automileab-resourceownervehiclev2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownervehiclev2-api-openapi.yml
+- filename: automileab-resourceownerworkorder-api-openapi.yml
+  format: yaml
+  label: Automileab Resource Owner Work Order API
+  slug: automileab-resourceownerworkorder-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-resourceownerworkorder-api-openapi.yml
+- filename: automileab-client-users-api-openapi.yml
+  format: yaml
+  label: Automileab Client Users API
+  slug: automileab-client-users-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/automileab/openapi/automileab-client-users-api-openapi.yml
+claim_count: 18
+description: ''
+doc:
+  data_categories:
+  - category: location
+    text: Information collected by the Automile Box includes fuel consumption, GPS location, vehicle diagnostic information, and triple axis motion detection.
+  - category: contact
+    text: like user names, e-mail addresses, telephone numbers, and mailing addresses
+  - category: device
+    text: Like many sites, we use “cookies” to collect information, including your IP address.
+  - category: financial
+    text: personal information required for the processing of payments
+  deletion:
+    route: contact us
+    text: If at any point you decide to stop using Automile, simply contact us and we will permanently delete your data from our servers.
+  dpa:
+    available: null
+    text: null
+    url: null
+  purposes:
+  - purpose: provide the Service
+    text: We will handle your personal information in order to comply with the contractual obligations we have under our agreement with you.
+  - purpose: legitimate interest and security
+    text: We may also rely on our legitimate interest to handle your personal information (such as for administrative purposes, service improvement or to maintain a high level of security)
+  - purpose: assess job eligibility
+    text: to assess your eligibility for initial employment
+  retention:
+  - period: null
+    scope: user data
+    text: We maintain information about you for as long as we provide services to you, and as long it is required for us to perform any related business activities.
+  rights:
+  - right: access
+    text: You have the right to access your personal information processed by Automile and may request a copy.
+  - right: rectification
+    text: We will on our own initiative, or upon the request of you, rectify, delete, or complete any personal information in the register which we find is incorrect, unnecessary, inadequate, or outdated.
+  - right: objection
+    text: You can also object to certain personal information about you being processed and request that processing of your personal information be limited.
+  - right: portability
+    text: You also have the right to receive your personal information in a machine-readable format and have the data transferred to another party responsible for data processing.
+  - right: deletion
+    text: to delete their personal information
+  - right: opt out of sales (CCPA)
+    text: to opt out of any “sales” that may be occurring
+  role:
+    text: This Privacy Policy only concerns the processing of personal information for which Automile is the data controller
+    value: controller
+  sale_or_sharing:
+    stance: prohibited
+    text: Automile will not sell, rent, or lease any personal data that could identify a specific individual to any third party.
+  subprocessors:
+    text: null
+    url: null
+  transfers:
+  - mechanism: other
+    text: Such third parties may be situated in a country outside of EU/EES.
+layer: privacy_policy
+layer_version: 0.1.0
+layout: privacy
+method: harvested
+model: claude-haiku-5-5
+name: Automileab
+provenance_date: '2026-11-09'
+provider_name: Automileab
+provider_slug: automileab
+slug: automileab-privacy-policy
+source_date: '2026-11-09'
+source_filename: automileab-privacy-policy.yml
+source_heading: Privacy Policy
+source_page: https://automile.com/en/privacy-policy
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\nprivacy_policy: 0.1.0\nprovider: Automileab\naid: automileab\nurl: https://automile.com/en/privacy-policy\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\nrole:\n  value: controller\n  text: This Privacy Policy only concerns the processing of personal information for which Automile is the data\n    controller\ndata_categories:\n- category: location\n  text: Information collected by the Automile Box includes fuel consumption, GPS location, vehicle diagnostic information,\n    and triple axis motion detection.\n- category: contact\n  text: like user names, e-mail addresses, telephone numbers, and mailing addresses\n- category: device\n  text: Like many sites, we\
+  \ use “cookies” to collect information, including your IP address.\n- category: financial\n  text: personal information required for the processing of payments\npurposes:\n- purpose: provide the Service\n  text: We will handle your personal information in order to comply with the contractual obligations we have under\n    our agreement with you.\n- purpose: legitimate interest and security\n  text: We may also rely on our legitimate interest to handle your personal information (such as for administrative\n    purposes, service improvement or to maintain a high level of security)\n- purpose: assess job eligibility\n  text: to assess your eligibility for initial employment\nretention:\n- scope: user data\n  period: null\n  text: We maintain information about you for as long as we provide services to you, and as long it is required\n    for us to perform any related business activities.\nresidency: []\ntransfers:\n- mechanism: other\n  text: Such third parties may be situated in a country\
+  \ outside of EU/EES.\nsubprocessors:\n  url: null\n  text: null\ndpa:\n  available: null\n  url: null\n  text: null\ndeletion:\n  route: contact us\n  text: If at any point you decide to stop using Automile, simply contact us and we will permanently delete your\n    data from our servers.\nrights:\n- right: access\n  text: You have the right to access your personal information processed by Automile and may request a copy.\n- right: rectification\n  text: We will on our own initiative, or upon the request of you, rectify, delete, or complete any personal information\n    in the register which we find is incorrect, unnecessary, inadequate, or outdated.\n- right: objection\n  text: You can also object to certain personal information about you being processed and request that processing\n    of your personal information be limited.\n- right: portability\n  text: You also have the right to receive your personal information in a machine-readable format and have the data\n    transferred to another\
+  \ party responsible for data processing.\n- right: deletion\n  text: to delete their personal information\n- right: opt out of sales (CCPA)\n  text: to opt out of any “sales” that may be occurring\nsale_or_sharing:\n  stance: prohibited\n  text: Automile will not sell, rent, or lease any personal data that could identify a specific individual to any\n    third party.\n"
+source_yaml_url: https://artifacts.apis.io/automileab/privacy/automileab-privacy-policy.yml
+stated_fields:
+- role
+- data_categories
+- purposes
+- retention
+- transfers
+- deletion
+- rights
+- sale_or_sharing
+summary_line: 18 quoted statements, read from Automileab's own page on 2026-11-09.
+synthetic: false
+tags:
+- Fleet Management
+- GPS Tracking
+- Mileage Logging
+- Software-as-a-Service
+---

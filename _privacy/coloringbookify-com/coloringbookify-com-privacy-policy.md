@@ -114,7 +114,7 @@ summary_line: 10 quoted statements, read from ColoringBookify's own page on 2026
 synthetic: false
 tags:
 - Company
-- AI
+- Artificial Intelligence
 - Coloring Books
 - Image Generation
 - PDF Generation

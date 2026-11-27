@@ -94,5 +94,5 @@ tags:
 - Tutoring
 - Homework
 - MCP
-- AI Assistants
+- AI Assistant
 ---
